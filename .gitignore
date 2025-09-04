@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+# Exclude personal data files
+*/input/alldecks.txt
+*/input/config.yaml
+*/test-data/
+*/data/*init*.csv
+*/data/*unmatched*.csv
+
+# Exclude personal audio/media
+*.mp3
+*.wav
+*.m4a
+
+# Cache files
+*/cache/
+*.pkl
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/

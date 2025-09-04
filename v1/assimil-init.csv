@@ -1,0 +1,240 @@
+id,hebrew,english,sound,tags
+L001.N1,שִׁעוּר רִאשׁוֹן٭,First lesson,[sound:L001.N1.mp3],assimil assimil-01
+L001.S00,בּוֹקֶר٭,morning,[sound:L001.S00.mp3],assimil assimil-01
+L001.S01,בּוֹקֶר טוֹב!٭,Good morning!,[sound:L001.S01.mp3],assimil assimil-01
+L001.S02,בּוֹקֶר אוֹר!٭,Good morning (morning-of light),[sound:L001.S02.mp3],assimil assimil-01
+L001.T01,בוקר٭,morning,[sound:L001.T01.mp3],assimil assimil-01
+L001.T02,טוב٭,good,[sound:L001.T02.mp3],assimil assimil-01
+L001.T03,אור٭,light,[sound:L001.T03.mp3],assimil assimil-01
+L001.T04,בוקר טוב.٭,Good morning (morning good),[sound:L001.T04.mp3],assimil assimil-01
+L001.T05,בוקר אור.٭,Good morning (morning-of light),[sound:L001.T05.mp3],assimil assimil-01
+L002.N2,שִׁעוּר שֵׁנִי٭,Second lesson,[sound:L002.N2.mp3],assimil assimil-02
+L002.S00,שָׁלוֹם٭,Hello,[sound:L002.S00.mp3],assimil assimil-02
+L002.S01,שָׁלוֹם לִיאוֹר!٭,NA,[sound:L002.S01.mp3],assimil assimil-02
+L002.S02,שָׁלוֹם שִׁירלִי!٭,NA,[sound:L002.S02.mp3],assimil assimil-02
+L002.T01,שלום.٭,NA,[sound:L002.T01.mp3],assimil assimil-02
+L002.T02,שלום ליאור.٭,NA,[sound:L002.T02.mp3],assimil assimil-02
+L002.T03,שלום שירלי.٭,NA,[sound:L002.T03.mp3],assimil assimil-02
+L002.T04,"בוקר אור, ליאור.٭",NA,[sound:L002.T04.mp3],assimil assimil-02
+L002.T05,"בוקר טוב, שירלי.٭",NA,[sound:L002.T05.mp3],assimil assimil-02
+L003.N3,שִׁעוּר שׁלִישִׁי٭,NA,[sound:L003.N3.mp3],assimil assimil-03
+L003.S00,"כָּכָה, כָּכָה٭",NA,[sound:L003.S00.mp3],assimil assimil-03
+L003.S01,מַה שׁלוֹמךָ לִיאוֹר?٭,NA,[sound:L003.S01.mp3],assimil assimil-03
+L003.S02,טוֹב.٭,NA,[sound:L003.S02.mp3],assimil assimil-03
+L003.S03,מַה שׁלוֹמֵך שִׁירלִי?٭,NA,[sound:L003.S03.mp3],assimil assimil-03
+L003.S04,"כָּכָה, כָּכָה.٭",NA,[sound:L003.S04.mp3],assimil assimil-03
+L003.T01,"מה שלומך, שירלי?٭",NA,[sound:L003.T01.mp3],assimil assimil-03
+L003.T02,טוב.٭,NA,[sound:L003.T02.mp3],assimil assimil-03
+L003.T03,"מה שלומך, ליאור?٭",NA,[sound:L003.T03.mp3],assimil assimil-03
+L003.T04,"ככה, ככה.٭",NA,[sound:L003.T04.mp3],assimil assimil-03
+L003.T05,"שלום, מה שלומך?٭",NA,[sound:L003.T05.mp3],assimil assimil-03
+L004.N4,שִׁעוּר רְבִיעִי٭,NA,[sound:L004.N4.mp3],assimil assimil-04
+L004.S00,תוֹדָה٭,NA,[sound:L004.S00.mp3],assimil assimil-04
+L004.S01,מַה אַתָה שׁוֹתֶה?٭,NA,[sound:L004.S01.mp3],assimil assimil-04
+L004.S02,"תֵה, תוֹדָה.٭",NA,[sound:L004.S02.mp3],assimil assimil-04
+L004.S03,מַה אַת שׁוֹתָה?٭,NA,[sound:L004.S03.mp3],assimil assimil-04
+L004.S04,"בִּירָה, תוֹדָה.٭",NA,[sound:L004.S04.mp3],assimil assimil-04
+L004.T01,אתה שותה בירה.٭,NA,[sound:L004.T01.mp3],assimil assimil-04
+L004.T02,את שותה תה.٭,NA,[sound:L004.T02.mp3],assimil assimil-04
+L004.T03,תודה.٭,NA,[sound:L004.T03.mp3],assimil assimil-04
+L004.T04,"שלום את, שותה בירה?٭",NA,[sound:L004.T04.mp3],assimil assimil-04
+L004.T05,"בוקר טוב, אתה שותה תה?٭",NA,[sound:L004.T05.mp3],assimil assimil-04
+L005.N5,שִׁעוּר חֲמִישִׁי٭,NA,[sound:L005.N5.mp3],assimil assimil-05
+L005.S00,עִברִית٭,NA,[sound:L005.S00.mp3],assimil assimil-05
+L005.S01,"בּוֹקֶר טוֹב, דָן!٭",NA,[sound:L005.S01.mp3],assimil assimil-05
+L005.S02,מַה אַתָה לוֹמֵד?٭,NA,[sound:L005.S02.mp3],assimil assimil-05
+L005.S03,אֲנִי לוֹמֵד עִברִית.٭,NA,[sound:L005.S03.mp3],assimil assimil-05
+L005.S04,"לֵאָה, מַה אַת לוֹמֶדֶת?٭",NA,[sound:L005.S04.mp3],assimil assimil-05
+L005.S05,אֲנִי לוֹמֶדֶת לָטִינִית.٭,NA,[sound:L005.S05.mp3],assimil assimil-05
+L005.T01,לאה לומדת עברית.٭,NA,[sound:L005.T01.mp3],assimil assimil-05
+L005.T02,דן לומד לטינית.٭,NA,[sound:L005.T02.mp3],assimil assimil-05
+L005.T03,אתה לומד.٭,NA,[sound:L005.T03.mp3],assimil assimil-05
+L005.T04,את לומדת.٭,NA,[sound:L005.T04.mp3],assimil assimil-05
+L005.T05,מה שירלי לומדת?٭,NA,[sound:L005.T05.mp3],assimil assimil-05
+L006.N6,שִׁעוּר שִׁישִׁי٭,NA,[sound:L006.N6.mp3],assimil assimil-06
+L006.S00,בְּסֵדֶר٭,NA,[sound:L006.S00.mp3],assimil assimil-06
+L006.S01,"מַה נִשׁמַע, יָעֵל?٭",NA,[sound:L006.S01.mp3],assimil assimil-06
+L006.S02,"טוֹב, תוֹדָה, בְּסֵדֶר.٭",NA,[sound:L006.S02.mp3],assimil assimil-06
+L006.S03,מַה חָדָשׁ דָנִיאֵל?٭,NA,[sound:L006.S03.mp3],assimil assimil-06
+L006.S04,אֵין חָדָשׁ.٭,NA,[sound:L006.S04.mp3],assimil assimil-06
+L006.S05,"חֲבָל, לְהִתרָאוֹת!٭",NA,[sound:L006.S05.mp3],assimil assimil-06
+L006.T01,מה נשמע?٭,NA,[sound:L006.T01.mp3],assimil assimil-06
+L006.T02,בסדר.٭,NA,[sound:L006.T02.mp3],assimil assimil-06
+L006.T03,אין חדש.٭,NA,[sound:L006.T03.mp3],assimil assimil-06
+L006.T04,"להתראות, דניאל.٭",NA,[sound:L006.T04.mp3],assimil assimil-06
+L006.T05,"מה חדש, יעל?٭",NA,[sound:L006.T05.mp3],assimil assimil-06
+L007.N7,שִׁעוּר שׁבִיעִי٭,NA,[sound:L007.N7.mp3],assimil assimil-07
+L007.S00,חֲזָרָה٭,NA,[sound:L007.S00.mp3],assimil assimil-07
+L007.S01,"בּוֹקֶר טוֹב, שִׁירלִי.٭",NA,[sound:L007.S01.mp3],assimil assimil-07
+L007.S02,"מַה שׁלוֹמךָ, דָן?٭",NA,[sound:L007.S02.mp3],assimil assimil-07
+L007.S03,"כָּכָה, כָּכָה.٭",NA,[sound:L007.S03.mp3],assimil assimil-07
+L007.S04,מַה חָדָשׁ?٭,NA,[sound:L007.S04.mp3],assimil assimil-07
+L007.S05,אֲנִי לוֹמֵד עִברִית בְּאַסִימִיל.٭,NA,[sound:L007.S05.mp3],assimil assimil-07
+L007.S06,אַת שׁוֹתָה תֵה?٭,NA,[sound:L007.S06.mp3],assimil assimil-07
+L007.S07,תוֹדָה.٭,NA,[sound:L007.S07.mp3],assimil assimil-07
+L008.N8,שִׁעוּר שׁמִינִי٭,NA,[sound:L008.N8.mp3],assimil assimil-08
+L008.S00,דִבּוּרִים٭,NA,[sound:L008.S00.mp3],assimil assimil-08
+L008.S01,אַתָה מְדַבֵּר עִברִית?٭,NA,[sound:L008.S01.mp3],assimil assimil-08
+L008.S02,"לֹא רַק עִברִית. אֲנִי מִפּוֹלָניָה, אֲנִי מְדַבֵּר פּוֹלָנִית.٭",NA,[sound:L008.S02.mp3],assimil assimil-08
+L008.S03,וְאַנָטוֹל?٭,NA,[sound:L008.S03.mp3],assimil assimil-08
+L008.S04,"הוּא מֵרוּסיָה, הוּא מְדַבֵּר רוּסִית, אִידִישׁ וְעִברִית שֶׁל אוּלפָּן.٭",NA,[sound:L008.S04.mp3],assimil assimil-08
+L008.S05,וְרִנָה?٭,NA,[sound:L008.S05.mp3],assimil assimil-08
+L008.S06,רִנָה? הִיא מְדַבֶּרֶת עִברִית שֶׁל שַׁבָּת!٭,NA,[sound:L008.S06.mp3],assimil assimil-08
+L008.T01,אנטול מדבר עברית של אולפּן.٭,NA,[sound:L008.T01.mp3],assimil assimil-08
+L008.T02,רנה מדברת עברית של שבת.٭,NA,[sound:L008.T02.mp3],assimil assimil-08
+L008.T03,"הוא מרוסיה, הוא מדבר רוסית.٭",NA,[sound:L008.T03.mp3],assimil assimil-08
+L008.T04,"היא מפּולניה, היא מדברת פּולנית.٭",NA,[sound:L008.T04.mp3],assimil assimil-08
+L008.T05,אני מדברת אידיש ועברית.٭,NA,[sound:L008.T05.mp3],assimil assimil-08
+L009.N9,שִׁעוּר תשִׁיעִי٭,NA,[sound:L009.N9.mp3],assimil assimil-09
+L009.S00,מַחשֵׁבִים٭,NA,[sound:L009.S00.mp3],assimil assimil-09
+L009.S01,שָׁלוֹם!٭,NA,[sound:L009.S01.mp3],assimil assimil-09
+L009.S02,בּוֹקֶר טוֹב!٭,NA,[sound:L009.S02.mp3],assimil assimil-09
+L009.S03,מַה אַתֶם רוֹצִים?٭,NA,[sound:L009.S03.mp3],assimil assimil-09
+L009.S04,אֲנַחנוּ רוֹצִים מַחשֵׁב לַבֵּן.٭,NA,[sound:L009.S04.mp3],assimil assimil-09
+L009.S05,הוּא רוֹצֶה מַחשֵׁב וְאִנטֶרנֶט.٭,NA,[sound:L009.S05.mp3],assimil assimil-09
+L009.S06,וְהַבַּת?٭,NA,[sound:L009.S06.mp3],assimil assimil-09
+L009.S07,הִיא רוֹצָה מַחשֵׁב נִשָׂא.٭,NA,[sound:L009.S07.mp3],assimil assimil-09
+L009.T01,הבן והבת רוצים מחשב.٭,NA,[sound:L009.T01.mp3],assimil assimil-09
+L009.T02,הוא רוצה מחשב נשא.٭,NA,[sound:L009.T02.mp3],assimil assimil-09
+L009.T03,היא רוצה אנטרנט.٭,NA,[sound:L009.T03.mp3],assimil assimil-09
+L009.T04,מה אתם רוצים?٭,NA,[sound:L009.T04.mp3],assimil assimil-09
+L009.T05,אנחנו רוצים מחשבים.٭,NA,[sound:L009.T05.mp3],assimil assimil-09
+L010.N10,שִׁעוּר עֲשִׂירִי٭,NA,[sound:L010.N10.mp3],assimil assimil-10
+L010.S00,בְּבֵית קָפֶה٭,NA,[sound:L010.S00.mp3],assimil assimil-10
+L010.S01,עֶרֶב טוֹב. מַה אַתֶן רוֹצוֹת?٭,NA,[sound:L010.S01.mp3],assimil assimil-10
+L010.S02,קָפֶה וְעוּגָה בְּבַקָשָׁה.٭,NA,[sound:L010.S02.mp3],assimil assimil-10
+L010.S03,יֵשׁ עוּגַת גבִינָה?٭,NA,[sound:L010.S03.mp3],assimil assimil-10
+L010.S04,"אֵין עוּגַת גבִינָה, אֲבָל יֵשׁ עוּגַת פֶּרֶג טוֹבָה.٭",NA,[sound:L010.S04.mp3],assimil assimil-10
+L010.S05,אוֹ עוּגַת שׁוֹקוֹלָד.٭,NA,[sound:L010.S05.mp3],assimil assimil-10
+L010.T01,יש עוגת גבינה טובה.٭,NA,[sound:L010.T01.mp3],assimil assimil-10
+L010.T02,אין עוגת פרג.٭,NA,[sound:L010.T02.mp3],assimil assimil-10
+L010.T03,קפה ועוגת שוקולד בבקשה.٭,NA,[sound:L010.T03.mp3],assimil assimil-10
+L010.T04,מה אתן רוצות?٭,NA,[sound:L010.T04.mp3],assimil assimil-10
+L010.T05,אנחנו בבית קפה.٭,NA,[sound:L010.T05.mp3],assimil assimil-10
+L011.N11,שִׁעוּר אַחַת עֶשׂרֵה٭,NA,[sound:L011.N11.mp3],assimil assimil-11
+L011.S00,בַּקָפֶטֶריָה٭,NA,[sound:L011.S00.mp3],assimil assimil-11
+L011.S01,שָׁלוֹם. מַה אַתֶם שׁוֹתִים?٭,NA,[sound:L011.S01.mp3],assimil assimil-11
+L011.S02,מַה יֵשׁ?٭,NA,[sound:L011.S02.mp3],assimil assimil-11
+L011.S03,"יֵשׁ קָפֶה פִילטֶר, קָפֶה בּוֹץ, קָפֶה טוּרקִי, קָפֶה הָפוּך, וְנֵס קָפֶה.٭",NA,[sound:L011.S03.mp3],assimil assimil-11
+L011.S04,סוּכָּר אוֹ סוּכּרָזִית?٭,NA,[sound:L011.S04.mp3],assimil assimil-11
+L011.S05,וְאַתֶן?٭,NA,[sound:L011.S05.mp3],assimil assimil-11
+L011.S06,אֲנַחנוּ שׁוֹתוֹת מִיץ תַפּוּזִים.٭,NA,[sound:L011.S06.mp3],assimil assimil-11
+L011.T01,אתם שותים קפה בוץ.٭,NA,[sound:L011.T01.mp3],assimil assimil-11
+L011.T02,מה יש בקפטריה?٭,NA,[sound:L011.T02.mp3],assimil assimil-11
+L011.T03,אנחנו שותים מיץ תפוזים.٭,NA,[sound:L011.T03.mp3],assimil assimil-11
+L011.T04,אתן שותות נס קפה.٭,NA,[sound:L011.T04.mp3],assimil assimil-11
+L011.T05,יש קפה הפוך?٭,NA,[sound:L011.T05.mp3],assimil assimil-11
+L012.N12,שִׁעוּר שׁתֵים עֶשׂרֵה٭,NA,[sound:L012.N12.mp3],assimil assimil-12
+L012.S00,קנִיוֹת٭,NA,[sound:L012.S00.mp3],assimil assimil-12
+L012.S01,אוּף! אֲנִי עָיֵף.٭,NA,[sound:L012.S01.mp3],assimil assimil-12
+L012.S02,לָמָה?٭,NA,[sound:L012.S02.mp3],assimil assimil-12
+L012.S03,הַקַניוֹן מְעַיֵף.٭,NA,[sound:L012.S03.mp3],assimil assimil-12
+L012.S04,מַה אַתָה קוֹנֶה?٭,NA,[sound:L012.S04.mp3],assimil assimil-12
+L012.S05,"אֲנִי לֹא קוֹנֶה, אֲבָל אִשׁתִי קוֹנָה וְהִיא לֹא עֲיֵפָה!٭",NA,[sound:L012.S05.mp3],assimil assimil-12
+L012.T01,אני עיף.٭,NA,[sound:L012.T01.mp3],assimil assimil-12
+L012.T02,היא לֹא עיפה.٭,NA,[sound:L012.T02.mp3],assimil assimil-12
+L012.T03,"הוא קונה, אבל היא לֹא קונה.٭",NA,[sound:L012.T03.mp3],assimil assimil-12
+L012.T04,למה הקניון מעיף?٭,NA,[sound:L012.T04.mp3],assimil assimil-12
+L012.T05,מה את קונה?٭,NA,[sound:L012.T05.mp3],assimil assimil-12
+L013.N13,שִׁעוּר שׁלוֹשׁ עֶשׂרֵה٭,NA,[sound:L013.N13.mp3],assimil assimil-13
+L013.S00,"פִּטפּוּט, פִּטפּוּטִים٭",NA,[sound:L013.S00.mp3],assimil assimil-13
+L013.S01,אֵיפֹה דָן וְיוֹסֵף?٭,NA,[sound:L013.S01.mp3],assimil assimil-13
+L013.S02,הֵם מְדַבּרִים בְּטֶלֶפוֹן אַלחוּטִי.٭,NA,[sound:L013.S02.mp3],assimil assimil-13
+L013.S03,אֵיפֹה לֵאָה וְשָׂרָה?٭,NA,[sound:L013.S03.mp3],assimil assimil-13
+L013.S04,הֵן מְדַבּרוֹת בְּטֶלֶפוֹן נַיָד.٭,NA,[sound:L013.S04.mp3],assimil assimil-13
+L013.S05,גַם אֲנִי רוֹצָה טֶלֶפוֹן!٭,NA,[sound:L013.S05.mp3],assimil assimil-13
+L013.S06,אֵין בְּעָיָה. יֵשׁ דִבּוּרִית בַּמְכוֹנִית.٭,NA,[sound:L013.S06.mp3],assimil assimil-13
+L013.T01,הם מדברים בטלפון אלחוטי.٭,NA,[sound:L013.T01.mp3],assimil assimil-13
+L013.T02,אני רוצה דבורית במכונית.٭,NA,[sound:L013.T02.mp3],assimil assimil-13
+L013.T03,אין בעיה.٭,NA,[sound:L013.T03.mp3],assimil assimil-13
+L013.T04,הן מדברות בטלפון ניד.٭,NA,[sound:L013.T04.mp3],assimil assimil-13
+L013.T05,איפה יש טלפון?٭,NA,[sound:L013.T05.mp3],assimil assimil-13
+L014.N14,שִׁעוּר אַרבָּע עֶשׂרֵה٭,NA,[sound:L014.N14.mp3],assimil assimil-14
+L014.S00,חֲזָרָה٭,NA,[sound:L014.S00.mp3],assimil assimil-14
+L014.S01,"שָׁלוֹם, בּוֹרִיס.٭",NA,[sound:L014.S01.mp3],assimil assimil-14
+L014.S02,"שָׁלוֹם, רִנָה.٭",NA,[sound:L014.S02.mp3],assimil assimil-14
+L014.S03,גַם אַתָה בַּקַניוֹן?٭,NA,[sound:L014.S03.mp3],assimil assimil-14
+L014.S04,אֲנִי קוֹנֶה מַחשֵׁב לַבֵּן וְלַבַּת.٭,NA,[sound:L014.S04.mp3],assimil assimil-14
+L014.S05,אֲנִי קוֹנָה טֶלֶפוֹן נַיָד.٭,NA,[sound:L014.S05.mp3],assimil assimil-14
+L014.S06,"בּוֹרִיס, אַתָה מְדַבֵּר עִברִית?٭",NA,[sound:L014.S06.mp3],assimil assimil-14
+L014.S07,עִברִית שֶׁל אוּלפָּן.٭,NA,[sound:L014.S07.mp3],assimil assimil-14
+L014.S08,"אֲבָל אַת, רִנָה, מְדַבֶּרֶת עִברִית שֶׁל שַׁבָּת.٭",NA,[sound:L014.S08.mp3],assimil assimil-14
+L014.S09,אֲנִי עֲיֵפָה. אַתָה רוֹצֶה קָפֶה וְעוּגָה?٭,NA,[sound:L014.S09.mp3],assimil assimil-14
+L014.S10,אֵין בְּעָיָה. יֵשׁ בֵּית קָפֶה בַּקַניוֹן.٭,NA,[sound:L014.S10.mp3],assimil assimil-14
+L015.N15,שִׁעוּר חֲמֵשׁ עֶשׂרֵה٭,NA,[sound:L015.N15.mp3],assimil assimil-15
+L015.S00,בַּיָם٭,NA,[sound:L015.S00.mp3],assimil assimil-15
+L015.S01,מֵאַיִן אַתָה בָּא?٭,NA,[sound:L015.S01.mp3],assimil assimil-15
+L015.S02,אֲנִי בָּא מִחוֹף הַיָם.٭,NA,[sound:L015.S02.mp3],assimil assimil-15
+L015.S03,בַּבּוֹקֶר אֲנִי שׂוֹחֶה בַּיָם.٭,NA,[sound:L015.S03.mp3],assimil assimil-15
+L015.S04,יֵשׁ ”חֲתִיכוֹת“ בְּחוֹף הַיָם?٭,NA,[sound:L015.S04.mp3],assimil assimil-15
+L015.S05,"לֹא, בַּבּוֹקֶר אֵין שָׁם ”חֲתִיכוֹת“.٭",NA,[sound:L015.S05.mp3],assimil assimil-15
+L015.S06,לֹא? אָז לָמָה אַתָה בַּיָם בַּבּוֹקֶר?٭,NA,[sound:L015.S06.mp3],assimil assimil-15
+L015.T01,מאין אתה בא בבוקר?٭,NA,[sound:L015.T01.mp3],assimil assimil-15
+L015.T02,אין ”חתיכות“ בחוף.٭,NA,[sound:L015.T02.mp3],assimil assimil-15
+L015.T03,אני שוחה בים.٭,NA,[sound:L015.T03.mp3],assimil assimil-15
+L015.T04,אני לֹא בחוף הים.٭,NA,[sound:L015.T04.mp3],assimil assimil-15
+L015.T05,אני בא מהים.٭,NA,[sound:L015.T05.mp3],assimil assimil-15
+L016.N16,שִׁעוּר שֵׁשׁ עֶשׂרֵה٭,NA,[sound:L016.N16.mp3],assimil assimil-16
+L016.S00,בַּר מִצוָה٭,NA,[sound:L016.S00.mp3],assimil assimil-16
+L016.S01,מַה חָדָשׁ?٭,NA,[sound:L016.S01.mp3],assimil assimil-16
+L016.S02,בְּקָרוֹב בַּר מִצוָה לִנְתַנאֵל בּנִי. אֲנִי בְּדִיאֶטָה.٭,NA,[sound:L016.S02.mp3],assimil assimil-16
+L016.S03,מַזָל טוֹב!٭,NA,[sound:L016.S03.mp3],assimil assimil-16
+L016.S04,אֲבָל אֲנִי לֹא מְבִינָה. לָמָה דִיאֶטָה לְבַר מִצוָה?٭,NA,[sound:L016.S04.mp3],assimil assimil-16
+L016.S05,לָמָה אַת לֹא מְבִינָה?٭,NA,[sound:L016.S05.mp3],assimil assimil-16
+L016.S06,אֲנִי בְּדִיאֶטָה כִּי אֲנִי רוֹצָה לִקנוֹת שִׂמלָה יָפָה לַבַּר מִצוָה שֶׁל נְתַנאֵל!٭,NA,[sound:L016.S06.mp3],assimil assimil-16
+L016.T01,יש בר מצוה לנתנאל.٭,NA,[sound:L016.T01.mp3],assimil assimil-16
+L016.T02,אני רוצה לקנות שמלה יפה לאשתי.٭,NA,[sound:L016.T02.mp3],assimil assimil-16
+L016.T03,אני בדיאטה.٭,NA,[sound:L016.T03.mp3],assimil assimil-16
+L016.T04,מה? את לא מבינה?٭,NA,[sound:L016.T04.mp3],assimil assimil-16
+L016.T05,מזל טוב!٭,NA,[sound:L016.T05.mp3],assimil assimil-16
+L017.N17,שִׁעוּר שׁבַע עֶשׂרֵה٭,NA,[sound:L017.N17.mp3],assimil assimil-17
+L017.S00,הַבַּלַגָנִיסט٭,NA,[sound:L017.S00.mp3],assimil assimil-17
+L017.S01,מַה הַבַּלַגָן הַזֶה פֹּה?٭,NA,[sound:L017.S01.mp3],assimil assimil-17
+L017.S02,"זֶה לֹא בַּלַגָן, אֲנִי מְסַדֵר אֶת הַחֶדֶר.٭",NA,[sound:L017.S02.mp3],assimil assimil-17
+L017.S03,הַמִטָה הַזֹאת שָׁם…٭,NA,[sound:L017.S03.mp3],assimil assimil-17
+L017.S04,הַשׁוּלחָן הַזֶה וְהַכִּסאוֹת הָאֵלֶה פֹּה.٭,NA,[sound:L017.S04.mp3],assimil assimil-17
+L017.S05,זֶה סֵדֶר זֶה?٭,NA,[sound:L017.S05.mp3],assimil assimil-17
+L017.T01,הבלגניסט מסדר את החדר.٭,NA,[sound:L017.T01.mp3],assimil assimil-17
+L017.T02,המטה הזאת פה.٭,NA,[sound:L017.T02.mp3],assimil assimil-17
+L017.T03,הכסאות האלה שם.٭,NA,[sound:L017.T03.mp3],assimil assimil-17
+L017.T04,מה הבלגן הזה?٭,NA,[sound:L017.T04.mp3],assimil assimil-17
+L017.T05,זה סדר זה?٭,NA,[sound:L017.T05.mp3],assimil assimil-17
+L018.N18,שִׁעוּר שׁמוֹנֶה עֶשׂרֵה٭,Eighteenth lesson,[sound:L018.N18.mp3],assimil assimil-18
+L018.S00,חֲתוּנַת פִיגָרוֹ٭,The Marriage of Figaro,[sound:L018.S00.mp3],assimil assimil-18
+L018.S01,אַתָה לָבוּשׁ כּמוֹ חָתָן.٭,You're dressed up like a groom!,[sound:L018.S01.mp3],assimil assimil-18
+L018.S02,לְאָן אַתָה הוֹלֵך?٭,Where are you going?,[sound:L018.S02.mp3],assimil assimil-18
+L018.S03,לְחֲתוּנַת פִיגָרוֹ בָּאוֹפֶּרָה.٭,To 'The Marriage of Figaro' at the opera.,[sound:L018.S03.mp3],assimil assimil-18
+L018.S04,עִם מִי?٭,With whom?,[sound:L018.S04.mp3],assimil assimil-18
+L018.S05,עִם אֲבִיבָה.٭,with Aviva,[sound:L018.S05.mp3],assimil assimil-18
+L018.S06,מִי זֹאת אֲבִיבָה?٭,Who is Aviva?,[sound:L018.S06.mp3],assimil assimil-18
+L018.S07,הִיא הַסוֹפּרָנוֹ בָּאוֹפֶּרָה. אֲנִי הַבַּעַל שֶׁל אֲבִיבָה.٭,She is the soprano in the opera. I am Avivah's husband.,[sound:L018.S07.mp3],assimil assimil-18
+L018.T01,למה אתה לבוש כמו באופרה?٭,Why are you dressed up like at the opera?,[sound:L018.T01.mp3],assimil assimil-18
+L018.T02,זה החתן של יעל?٭,Is this Yael's fiance (groom)?,[sound:L018.T02.mp3],assimil assimil-18
+L018.T03,מה נשמע? לאן אתה הולך?٭,How are you? Where are you going?,[sound:L018.T03.mp3],assimil assimil-18
+L018.T04,עם מי הוא הולך לבית קפה?٭,With whom are you going to the café?,[sound:L018.T04.mp3],assimil assimil-18
+L018.T05,"שלום, אני הבעל של אורית.٭","Hello, I'm Orit's husband.",[sound:L018.T05.mp3],assimil assimil-18
+L019.N19,שִׁעוּר תשַׁע עֶשׂרֵה٭,NA,[sound:L019.N19.mp3],assimil assimil-19
+L019.S00,מִשׁפָּחָה ספּוֹרטִיבִית٭,NA,[sound:L019.S00.mp3],assimil assimil-19
+L019.S01,"בַּבֹּקֶר, אַבָּא מְשַׂחֵק כַּדוּרֶגֶל.٭",NA,[sound:L019.S01.mp3],assimil assimil-19
+L019.S02,אִמָא מְשַׂחֶקֶת טֶנִיס בְּחוֹף הַיָם.٭,NA,[sound:L019.S02.mp3],assimil assimil-19
+L019.S03,אָחִי הַגָדוֹל וְאָחִי הַקָטָן מְשַׂחֲקִים כַּדוּריָד.٭,NA,[sound:L019.S03.mp3],assimil assimil-19
+L019.S04,אֲחוֹתִי הַגדוֹלָה וְאֲחוֹתִי הַקטָנָה מְשַׂחֲקוֹת כַּדוּרסַל.٭,NA,[sound:L019.S04.mp3],assimil assimil-19
+L019.S05,אֲנִי מְשַׂחֵק בְּמִשׂחָק וִידֵאוֹ בַּבַּיִת.٭,NA,[sound:L019.S05.mp3],assimil assimil-19
+L019.T01,אמא ואבא משחקים טניס.٭,NA,[sound:L019.T01.mp3],assimil assimil-19
+L019.T02,אחותי הגדולה משחקת במשחק וידאו.٭,NA,[sound:L019.T02.mp3],assimil assimil-19
+L019.T03,האח הקטן משחק כדורגל.٭,NA,[sound:L019.T03.mp3],assimil assimil-19
+L019.T04,האחות הקטנה ואמא משחקות כדוריד.٭,NA,[sound:L019.T04.mp3],assimil assimil-19
+L019.T05,האח הגדול משחק כדורסל.٭,NA,[sound:L019.T05.mp3],assimil assimil-19
+L020.N20,שִׁעוּר עֶשׂרִים٭,NA,[sound:L020.N20.mp3],assimil assimil-20
+L020.S00,סוֹף שָׁבוּעַ٭,NA,[sound:L020.S00.mp3],assimil assimil-20
+L020.S01,סוֹף סוֹף! סוֹף שָׁבוּעַ!٭,NA,[sound:L020.S01.mp3],assimil assimil-20
+L020.S02,בַּבּוֹקֶר אֲנַחנוּ שׂחִים בַּבּרֵכָה.٭,NA,[sound:L020.S02.mp3],assimil assimil-20
+L020.S03,"בָּעֶרֶב אֲנַחנוּ הוֹלכִים לְחֲבֵרִים,٭",NA,[sound:L020.S03.mp3],assimil assimil-20
+L020.S04,"מְדַבּרִים עַל פּוֹלִיטִיקָה,٭",NA,[sound:L020.S04.mp3],assimil assimil-20
+L020.S05,מְפַטפְּטִים וְאוֹכלִים ”עַל הָאֵשׁ“...٭,NA,[sound:L020.S05.mp3],assimil assimil-20
+L020.S06,סוֹף שָׁבוּעַ בְּכֵּף!٭,NA,[sound:L020.S06.mp3],assimil assimil-20
+L020.T01,בסוף שבוע אתם שוחים בים.٭,NA,[sound:L020.T01.mp3],assimil assimil-20
+L020.T02,אנחנו הולכים לברכה עם חברים.٭,NA,[sound:L020.T02.mp3],assimil assimil-20
+L020.T03,בערב אנחנו אוכלים על האש.٭,NA,[sound:L020.T03.mp3],assimil assimil-20
+L020.T04,למה הם מדברים על פוליטיקה?٭,NA,[sound:L020.T04.mp3],assimil assimil-20
+L020.T05,בבוקר אנחנו מפטפטים בטלפון.٭,NA,[sound:L020.T05.mp3],assimil assimil-20

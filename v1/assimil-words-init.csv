@@ -1,0 +1,871 @@
+id,eng_text,heb_word,match_word,match_word_def,Levensht
+L001.N1,First lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L001.N1,First lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L001.N1,First lesson,רִאשׁוֹן,רִאשׁוֹן,first,0
+L001.N1,First lesson,רִאשׁוֹן,לִישׁוֹן,to sleep,2
+L001.S00,morning,בּוֹקֶר,בּוֹקֶר,"morning, dawn",0
+L001.S00,morning,בּוֹקֶר,פּוֹקֶר,poker (cards),1
+L001.S01,Good morning!,בּוֹקֶר,בּוֹקֶר,"morning, dawn",0
+L001.S01,Good morning!,בּוֹקֶר,פּוֹקֶר,poker (cards),1
+L001.S01,Good morning!,טוֹב,טוֹב,"good, well, pleasant, appropriate",0
+L001.S01,Good morning!,טוֹב,חוֹב,debt,1
+L001.S02,Good morning (morning-of light),בּוֹקֶר,בּוֹקֶר,"morning, dawn",0
+L001.S02,Good morning (morning-of light),בּוֹקֶר,פּוֹקֶר,poker (cards),1
+L001.S02,Good morning (morning-of light),אוֹר,אוֹר,light; lamp,0
+L001.S02,Good morning (morning-of light),אוֹר,אוֹ,"or, either",1
+L002.N2,Second lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L002.N2,Second lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L002.N2,Second lesson,שֵׁנִי,שֵׁנִי,second (ordinal); other,0
+L002.N2,Second lesson,שֵׁנִי,שֵׁמִי,Semitic,1
+L003.N3,Third lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L003.N3,Third lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L003.N3,Third lesson,שׁלִישִׁי,שְׁלִישִׁי,third,1
+L003.N3,Third lesson,שׁלִישִׁי,אִישִׁי,"personal, private",3
+L003.S00,Not bad (same word twice),כָּכָה,בָּאָה,"comes, [came] (f, s, [3rd])",2
+L003.S00,Not bad (same word twice),כָּכָה,בָּמָה,"platform, stage",2
+L003.S00,Not bad (same word twice),כָּכָה,בָּאָה,"comes, [came] (f, s, [3rd])",2
+L003.S00,Not bad (same word twice),כָּכָה,בָּמָה,"platform, stage",2
+L003.S01,How are you,מַה,מַה,"what? how much, why, how",0
+L003.S01,How are you,מַה,מַס,"tax, fee",1
+L003.S01,How are you,שׁלוֹמךָ,לוֹמֵד,"studies (m, s)",4
+L003.S01,How are you,שׁלוֹמךָ,לוֹמַר,"to say, tell",4
+L003.S01,How are you,לִיאוֹר,לִיצוֹר,"to create, form; to produce, generate",1
+L003.S01,How are you,לִיאוֹר,לִימוֹן,lemon,2
+L003.S03,How are you,מַה,מַה,"what? how much, why, how",0
+L003.S03,How are you,מַה,מַס,"tax, fee",1
+L003.S03,How are you,שׁלוֹמֵך,לוֹמֵד,"studies (m, s)",3
+L003.S03,How are you,שׁלוֹמֵך,שׁוֹבֵר,"breaks (m, s)",3
+L003.S03,How are you,שִׁירלִי,שִׁטְחִי,"superficial, surface, shallow",3
+L003.S03,How are you,שִׁירלִי,שִׁיר,"song, poem",3
+L004.N4,Fourth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L004.N4,Fourth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L004.N4,Fourth lesson,רְבִיעִי,רְבִיעִי,fourth,0
+L004.N4,Fourth lesson,רְבִיעִי,רְצִינִי,serious,2
+L004.S01,What are you(m) drinking?,מַה,מַה,"what? how much, why, how",0
+L004.S01,What are you(m) drinking?,מַה,מַס,"tax, fee",1
+L004.S01,What are you(m) drinking?,אַתָה,אַתָה,you,0
+L004.S01,What are you(m) drinking?,אַתָה,אֲתָר,site,2
+L004.S01,What are you(m) drinking?,שׁוֹתֶה,שׁוֹתֶה,"drinks (m, s)",0
+L004.S01,What are you(m) drinking?,שׁוֹתֶה,שׁוֹנֶה,"different, diverse, separate",1
+L004.S02,"Tea, thanks",תֵה,אֵל,"god, supreme diety",2
+L004.S02,"Tea, thanks",תֵה,אֵם,"mother, matriarch",2
+L004.S02,"Tea, thanks",תוֹדָה,תּוֹדָה,thanks,1
+L004.S02,"Tea, thanks",תוֹדָה,דּוֹדָה,aunt,2
+L004.S03,What are you(f) drinking?,מַה,מַה,"what? how much, why, how",0
+L004.S03,What are you(f) drinking?,מַה,מַס,"tax, fee",1
+L004.S03,What are you(f) drinking?,אַת,אַת,you,0
+L004.S03,What are you(f) drinking?,אַת,אֶת,[Direct Object Marker],1
+L004.S03,What are you(f) drinking?,שׁוֹתָה,שׁוֹתָה,"drinks (f, s)",0
+L004.S03,What are you(f) drinking?,שׁוֹתָה,שׁוֹאָה,"catastrophe, ruin, calamity, disaster",1
+L004.S04,"Beer, thanks",בִּירָה,בִּירָה,"beer; capital city, palace",0
+L004.S04,"Beer, thanks",בִּירָה,דִּירָה,apartment,1
+L004.S04,"Beer, thanks",תוֹדָה,תּוֹדָה,thanks,1
+L004.S04,"Beer, thanks",תוֹדָה,דּוֹדָה,aunt,2
+L005.N5,Fifth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L005.N5,Fifth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L005.N5,Fifth lesson,חֲמִישִׁי,חֲמִישִׁי,fifth,0
+L005.N5,Fifth lesson,חֲמִישִׁי,חֲמִישִּׁים,fifty,2
+L005.S02,What are you learning?,מַה,מַה,"what? how much, why, how",0
+L005.S02,What are you learning?,מַה,מַס,"tax, fee",1
+L005.S02,What are you learning?,אַתָה,אַתָה,you,0
+L005.S02,What are you learning?,אַתָה,אֲתָר,site,2
+L005.S02,What are you learning?,לוֹמֵד,לוֹמֵד,"studies (m, s)",0
+L005.S02,What are you learning?,לוֹמֵד,עוֹמֵד,"stands (m, s)",1
+L005.S03,I am learning Hebrew.,אֲנִי,אֲנִי,"I, ego",0
+L005.S03,I am learning Hebrew.,אֲנִי,אִי,island,2
+L005.S03,I am learning Hebrew.,לוֹמֵד,לוֹמֵד,"studies (m, s)",0
+L005.S03,I am learning Hebrew.,לוֹמֵד,עוֹמֵד,"stands (m, s)",1
+L005.S03,I am learning Hebrew.,עִברִית,עִבְרִית,Hebrew,1
+L005.S03,I am learning Hebrew.,עִברִית,אִירִית,Irish / Gaelic (lang.),2
+L005.S04,"Leah, what are you learning?",לֵאָה,מֵאָה,"one hundred, century",1
+L005.S04,"Leah, what are you learning?",לֵאָה,לְאָן,"where to, to what place?",2
+L005.S04,"Leah, what are you learning?",מַה,מַה,"what? how much, why, how",0
+L005.S04,"Leah, what are you learning?",מַה,מַס,"tax, fee",1
+L005.S04,"Leah, what are you learning?",אַת,אַת,you,0
+L005.S04,"Leah, what are you learning?",אַת,אֶת,[Direct Object Marker],1
+L005.S04,"Leah, what are you learning?",לוֹמֶדֶת,אוֹהֶדֶת,"fan (sports), supporter",2
+L005.S04,"Leah, what are you learning?",לוֹמֶדֶת,לוֹחֶמֶת,"warrior, fighter",2
+L005.S05,I(f) am learning Latin.,אֲנִי,אֲנִי,"I, ego",0
+L005.S05,I(f) am learning Latin.,אֲנִי,אִי,island,2
+L005.S05,I(f) am learning Latin.,לוֹמֶדֶת,אוֹהֶדֶת,"fan (sports), supporter",2
+L005.S05,I(f) am learning Latin.,לוֹמֶדֶת,לוֹחֶמֶת,"warrior, fighter",2
+L005.S05,I(f) am learning Latin.,לָטִינִית,סִינִית,Chinese (lang.),3
+L005.S05,I(f) am learning Latin.,לָטִינִית,רְצִינִית,serious,3
+L006.N6,Sixth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L006.N6,Sixth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L006.N6,Sixth lesson,שִׁישִׁי,שִׁישִּׁי,sixth,1
+L006.N6,Sixth lesson,שִׁישִׁי,אִישִׁי,"personal, private",2
+L006.S00,Okay,בְּסֵדֶר,בְּסֵדֶר,"alright, fine",0
+L006.S00,Okay,בְּסֵדֶר,סֵדֶר,"order, arrangement",3
+L006.S01,What's up (is-heard) Yael?,מַה,מַה,"what? how much, why, how",0
+L006.S01,What's up (is-heard) Yael?,מַה,מַס,"tax, fee",1
+L006.S01,What's up (is-heard) Yael?,נִשׁמַע,יִשְׁמַע,will hear,2
+L006.S01,What's up (is-heard) Yael?,נִשׁמַע,נִשְׁמָע,was heard,2
+L006.S01,What's up (is-heard) Yael?,יָעֵל,יָעִיל,"efficient, effective",2
+L006.S01,What's up (is-heard) Yael?,יָעֵל,נָמֵל,"port, harbor",2
+L006.S03,"What's new, Daniel? ",מַה,מַה,"what? how much, why, how",0
+L006.S03,"What's new, Daniel? ",מַה,מַס,"tax, fee",1
+L006.S03,"What's new, Daniel? ",חָדָשׁ,חָדָשׁ,"new, current, recent[ly made]",0
+L006.S03,"What's new, Daniel? ",חָדָשׁ,חָמֵשׁ,five,2
+L006.S03,"What's new, Daniel? ",דָנִיאֵל,חָצִיל,eggplant,4
+L006.S03,"What's new, Daniel? ",דָנִיאֵל,יָעִיל,"efficient, effective",4
+L006.S04,Nothing's new,אֵין,אֵין,there isn't / aren't,0
+L006.S04,Nothing's new,אֵין,אֵיך,how?,1
+L006.S04,Nothing's new,חָדָשׁ,חָדָשׁ,"new, current, recent[ly made]",0
+L006.S04,Nothing's new,חָדָשׁ,חָמֵשׁ,five,2
+L006.S05,"Pity, see you! (to-see-each-other)",חֲבָל,חֲבָל,pity,0
+L006.S05,"Pity, see you! (to-see-each-other)",חֲבָל,אֲבָל,"but, however",1
+L006.S05,"Pity, see you! (to-see-each-other)",לְהִתרָאוֹת,לְהִתְרָאוֹת,"See you later!, Goodbye; meet (so.), see again, appear",1
+L006.S05,"Pity, see you! (to-see-each-other)",לְהִתרָאוֹת,לְהֵירָאוֹת,"to be visible, appear, seem",2
+L007.N7,Seventh lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L007.N7,Seventh lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L007.N7,Seventh lesson,שׁבִיעִי,שְׁבִיעִי,seventh,1
+L007.N7,Seventh lesson,שׁבִיעִי,רְבִיעִי,fourth,2
+L007.S00,Review,חֲזָרָה,הֲמָרָה,"exchange, substitution, changing, converting [money, religion]",2
+L007.S00,Review,חֲזָרָה,אֲדָמָה,"earth, ground, soil, land",3
+L007.S05,I am learning Hebrew with Assimil (by-Assumil),אֲנִי,אֲנִי,"I, ego",0
+L007.S05,I am learning Hebrew with Assimil (by-Assumil),אֲנִי,אִי,island,2
+L007.S05,I am learning Hebrew with Assimil (by-Assumil),לוֹמֵד,לוֹמֵד,"studies (m, s)",0
+L007.S05,I am learning Hebrew with Assimil (by-Assumil),לוֹמֵד,עוֹמֵד,"stands (m, s)",1
+L007.S05,I am learning Hebrew with Assimil (by-Assumil),עִברִית,עִבְרִית,Hebrew,1
+L007.S05,I am learning Hebrew with Assimil (by-Assumil),עִברִית,אִירִית,Irish / Gaelic (lang.),2
+L007.S05,I am learning Hebrew with Assimil (by-Assumil),בְּאַסִימִיל,פֵּסִימִי,pessimistic,5
+L008.N8,Eigth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L008.N8,Eigth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L008.N8,Eigth lesson,שׁמִינִי,שְׁמִינִי,eighth,1
+L008.N8,Eigth lesson,שׁמִינִי,סִינִי,Chinese,3
+L008.S00,Speaking,דִבּוּרִים,פּוּרִים,Purim,3
+L008.S00,Speaking,דִבּוּרִים,צִיבּוּרִי,public,3
+L008.S01,Do you(m) speak hebrew?,אַתָה,אַתָה,you,0
+L008.S01,Do you(m) speak hebrew?,אַתָה,אֲתָר,site,2
+L008.S01,Do you(m) speak hebrew?,מְדַבֵּר,יְדַבֵּר,"will speak/talk (3rd, m, s)",1
+L008.S01,Do you(m) speak hebrew?,מְדַבֵּר,לְדַבֵּר,"to speak, talk",1
+L008.S01,Do you(m) speak hebrew?,עִברִית,עִבְרִית,Hebrew,1
+L008.S01,Do you(m) speak hebrew?,עִברִית,אִירִית,Irish / Gaelic (lang.),2
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,לֹא,לֹא,"no, not",0
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,לֹא,א,Alef,2
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,רַק,רַק,"only, just",0
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,רַק,רַב,"many, much, great, enough",1
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,עִברִית,עִבְרִית,Hebrew,1
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,עִברִית,אִירִית,Irish / Gaelic (lang.),2
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,אֲנִי,אֲנִי,"I, ego",0
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,אֲנִי,אִי,island,2
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,מִפּוֹלָניָה,מִפְלָגָה,(political) party,5
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,מִפּוֹלָניָה,פּוֹלָנִית,Polish (lang.),5
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,אֲנִי,אֲנִי,"I, ego",0
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,אֲנִי,אִי,island,2
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,מְדַבֵּר,יְדַבֵּר,"will speak/talk (3rd, m, s)",1
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,מְדַבֵּר,לְדַבֵּר,"to speak, talk",1
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,פּוֹלָנִית,פּוֹלָנִית,Polish (lang.),0
+L008.S02,Not only Hebrew. I'm from Poland; I speak Polish.,פּוֹלָנִית,גּוּפָנִית,"physical, bodily, material",3
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",הוּא,הוּא,he,0
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",הוּא,בָּא,"come(s), [came] (m, s, [3rd])",2
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",מֵרוּסיָה,מֵדוּזָה,jellyfish,3
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",מֵרוּסיָה,רוּסְיָה,Russia,3
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",הוּא,הוּא,he,0
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",הוּא,בָּא,"come(s), [came] (m, s, [3rd])",2
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",מְדַבֵּר,יְדַבֵּר,"will speak/talk (3rd, m, s)",1
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",מְדַבֵּר,לְדַבֵּר,"to speak, talk",1
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",רוּסִית,רוּסִית,Russian (lang.),0
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",רוּסִית,רוּסִי,Russian,1
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",אִידִישׁ,יִידִישׁ,Yiddish (lang.),1
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",אִידִישׁ,אִיטִית,slow,3
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",וְעִברִית,עִבְרִית,Hebrew,3
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",וְעִברִית,אִירִית,Irish / Gaelic (lang.),4
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",שֶׁל,שֶׁל,"of, belonging to, owned by",0
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",שֶׁל,שֶׁף,"chef, chief cook",1
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",אוּלפָּן,אוּלְפָּן,studio,3
+L008.S04,"He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",אוּלפָּן,אוּלָם,hall,3
+L008.S06,Rinah? She speaks Shabbat Hebrew!,רִנָה,קָנָה,"bought (3rd, m, s)",2
+L008.S06,Rinah? She speaks Shabbat Hebrew!,רִנָה,רִיצָה,"running, race, jogging",2
+L008.S06,Rinah? She speaks Shabbat Hebrew!,הִיא,הִיא,she,0
+L008.S06,Rinah? She speaks Shabbat Hebrew!,הִיא,אִי,island,2
+L008.S06,Rinah? She speaks Shabbat Hebrew!,מְדַבֶּרֶת,מְחַנֶּכֶת,educator,3
+L008.S06,Rinah? She speaks Shabbat Hebrew!,מְדַבֶּרֶת,מְפַקֶּדֶת,commander,3
+L008.S06,Rinah? She speaks Shabbat Hebrew!,עִברִית,עִבְרִית,Hebrew,1
+L008.S06,Rinah? She speaks Shabbat Hebrew!,עִברִית,אִירִית,Irish / Gaelic (lang.),2
+L008.S06,Rinah? She speaks Shabbat Hebrew!,שֶׁל,שֶׁל,"of, belonging to, owned by",0
+L008.S06,Rinah? She speaks Shabbat Hebrew!,שֶׁל,שֶׁף,"chef, chief cook",1
+L008.S06,Rinah? She speaks Shabbat Hebrew!,שַׁבָּת,שַׁבָּת,"Sabbath, day of rest; Saturday",2
+L008.S06,Rinah? She speaks Shabbat Hebrew!,שַׁבָּת,בַּת,"daughter, girl",4
+L009.N9,Ninth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L009.N9,Ninth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L009.N9,Ninth lesson,תשִׁיעִי,תְּשִׁיעִי,ninth,2
+L009.N9,Ninth lesson,תשִׁיעִי,טִבְעִי,natural,4
+L009.S00,Computers,מַחשֵׁבִים,מַחְשֵׁב,computer,4
+L009.S00,Computers,מַחשֵׁבִים,בִּשְׁבִיל,for (the sake / purpose of),5
+L009.S03,What do you (m pl) want?,מַה,מַה,"what? how much, why, how",0
+L009.S03,What do you (m pl) want?,מַה,מַס,"tax, fee",1
+L009.S03,What do you (m pl) want?,אַתֶם,אַתֶם,"you, ""you guys"" (pl.)",0
+L009.S03,What do you (m pl) want?,אַתֶם,אַתֶן,you (pl.),1
+L009.S03,What do you (m pl) want?,רוֹצִים,רוֹצִים,"want (m, p)",0
+L009.S03,What do you (m pl) want?,רוֹצִים,רוֹאִים,"see (m, p)",1
+L009.S04,We want a computer for our son.,אֲנַחנוּ,אֲנַחְנוּ,we,1
+L009.S04,We want a computer for our son.,אֲנַחנוּ,אֲפִילוּ,even,4
+L009.S04,We want a computer for our son.,רוֹצִים,רוֹצִים,"want (m, p)",0
+L009.S04,We want a computer for our son.,רוֹצִים,רוֹאִים,"see (m, p)",1
+L009.S04,We want a computer for our son.,מַחשֵׁב,מַחְשֵׁב,computer,1
+L009.S04,We want a computer for our son.,מַחשֵׁב,חוֹשֵׁב,"thinks (m, s)",3
+L009.S04,We want a computer for our son.,לַבֵּן,גַּן,"garden, park",3
+L009.S04,We want a computer for our son.,לַבֵּן,לָבָן,white,3
+L009.S05,He wants a computer with internet.,הוּא,הוּא,he,0
+L009.S05,He wants a computer with internet.,הוּא,בָּא,"come(s), [came] (m, s, [3rd])",2
+L009.S05,He wants a computer with internet.,רוֹצֶה,רוֹצֶה,"wants (m, s)",0
+L009.S05,He wants a computer with internet.,רוֹצֶה,רוֹאֶה,"sees (m, s)",1
+L009.S05,He wants a computer with internet.,מַחשֵׁב,מַחְשֵׁב,computer,1
+L009.S05,He wants a computer with internet.,מַחשֵׁב,חוֹשֵׁב,"thinks (m, s)",3
+L009.S05,He wants a computer with internet.,וְאִנטֶרנֶט,אִינטֶרנֶט,internet,3
+L009.S05,He wants a computer with internet.,וְאִנטֶרנֶט,אִינְטֶרְנֶט,Internet,5
+L009.S06,And your (the) daughter?,וְהַבַּת,בַּת,"daughter, girl",4
+L009.S06,And your (the) daughter?,וְהַבַּת,יְדַבֵּר,"will speak/talk (3rd, m, s)",4
+L009.S07,She wants a laptop.,הִיא,הִיא,she,0
+L009.S07,She wants a laptop.,הִיא,אִי,island,2
+L009.S07,She wants a laptop.,רוֹצָה,רוֹצָה,"wants (f, s)",0
+L009.S07,She wants a laptop.,רוֹצָה,רוֹאָה,"sees (f, s)",1
+L009.S07,She wants a laptop.,מַחשֵׁב,מַחְשֵׁב,computer,1
+L009.S07,She wants a laptop.,מַחשֵׁב,חוֹשֵׁב,"thinks (m, s)",3
+L009.S07,She wants a laptop.,נִשָׂא,אִימָא,mom,3
+L009.S07,She wants a laptop.,נִשָׂא,נִפְלָא,"wonderful, marvellous",3
+L010.N10,Tenth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L010.N10,Tenth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L010.N10,Tenth lesson,עֲשִׂירִי,עֲשִׂירִי,tenth,0
+L010.N10,Tenth lesson,עֲשִׂירִי,חֲסִידִי,hassidic,4
+L010.S00,At a cafe,בְּבֵית,בְּרִית,"covenant, alliance",2
+L010.S00,At a cafe,בְּבֵית,בְּלִי,without,3
+L010.S00,At a cafe,קָפֶה,קָפֶה,coffee,0
+L010.S00,At a cafe,קָפֶה,יָפֶה,"beautiful, pleasant, pretty; nice, fine, well",1
+L010.S01,Good evening.  What would you (f pl) like (want)?,עֶרֶב,עֶרֶב,evening,0
+L010.S01,Good evening.  What would you (f pl) like (want)?,עֶרֶב,חֶרֶב,"sword, saber",1
+L010.S01,Good evening.  What would you (f pl) like (want)?,טוֹב,טוֹב,"good, well, pleasant, appropriate",0
+L010.S01,Good evening.  What would you (f pl) like (want)?,טוֹב,חוֹב,debt,1
+L010.S01,Good evening.  What would you (f pl) like (want)?,מַה,מַה,"what? how much, why, how",0
+L010.S01,Good evening.  What would you (f pl) like (want)?,מַה,מַס,"tax, fee",1
+L010.S01,Good evening.  What would you (f pl) like (want)?,אַתֶן,אַתֶן,you (pl.),0
+L010.S01,Good evening.  What would you (f pl) like (want)?,אַתֶן,אַתֶם,"you, ""you guys"" (pl.)",1
+L010.S01,Good evening.  What would you (f pl) like (want)?,רוֹצוֹת,רוֹצוֹת,"want (f, p)",0
+L010.S01,Good evening.  What would you (f pl) like (want)?,רוֹצוֹת,רוֹאוֹת,"see (f, p)",1
+L010.S02,"Coffee and cake, please.",קָפֶה,קָפֶה,coffee,0
+L010.S02,"Coffee and cake, please.",קָפֶה,יָפֶה,"beautiful, pleasant, pretty; nice, fine, well",1
+L010.S02,"Coffee and cake, please.",וְעוּגָה,סְעוּדָה,"feast, meal, banquet",2
+L010.S02,"Coffee and cake, please.",וְעוּגָה,עוּגָה,cake,2
+L010.S02,"Coffee and cake, please.",בְּבַקָשָׁה,בְּבַקָשָׁה,please; you're welcome,2
+L010.S02,"Coffee and cake, please.",בְּבַקָשָׁה,בְּעָיָה,problem,5
+L010.S03,Is there cheese cake?,יֵשׁ,יֵשׁ,"there is/are/exist; existence, Being, entity",0
+L010.S03,Is there cheese cake?,יֵשׁ,אֵשׁ,"fire, flame",1
+L010.S03,Is there cheese cake?,עוּגַת,עוּגָה,cake,2
+L010.S03,Is there cheese cake?,עוּגַת,אוּלַי,maybe,3
+L010.S03,Is there cheese cake?,גבִינָה,גְבִינָה,cheese,1
+L010.S03,Is there cheese cake?,גבִינָה,בִּירָה,"beer; capital city, palace",3
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",אֵין,אֵין,there isn't / aren't,0
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",אֵין,אֵיך,how?,1
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",עוּגַת,עוּגָה,cake,2
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",עוּגַת,אוּלַי,maybe,3
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",גבִינָה,גְבִינָה,cheese,1
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",גבִינָה,בִּירָה,"beer; capital city, palace",3
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",אֲבָל,אֲבָל,"but, however",0
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",אֲבָל,חֲבָל,pity,1
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",יֵשׁ,יֵשׁ,"there is/are/exist; existence, Being, entity",0
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",יֵשׁ,אֵשׁ,"fire, flame",1
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",עוּגַת,עוּגָה,cake,2
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",עוּגַת,אוּלַי,maybe,3
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",פֶּרֶג,פֶּרֶק,"chapter, part; segment, episode",1
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",פֶּרֶג,בֶּרֶז,"tap, faucet",2
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",טוֹבָה,טוֹבָה,"favor, kindness; good, pleasant, appropriate",0
+L010.S04,"There isn't any cheesecake, but there's a good poppyseed cake.",טוֹבָה,חוֹמָה,wall (city / fortress),2
+L010.S05,Or chocolate cake,אוֹ,אוֹ,"or, either",0
+L010.S05,Or chocolate cake,אוֹ,אוֹר,light; lamp,1
+L010.S05,Or chocolate cake,עוּגַת,עוּגָה,cake,2
+L010.S05,Or chocolate cake,עוּגַת,אוּלַי,maybe,3
+L010.S05,Or chocolate cake,שׁוֹקוֹלָד,שׁוֹקוֹלָד,chocolate,0
+L010.S05,Or chocolate cake,שׁוֹקוֹלָד,שׁוֹקֵל,"weighs (m, s)",4
+L011.N11,Eleventh lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L011.N11,Eleventh lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L011.N11,Eleventh lesson,אַחַת,אַחַת,one,0
+L011.N11,Eleventh lesson,אַחַת,אַחֵר,"[an]other, further, else; different, unusal",2
+L011.N11,Eleventh lesson,עֶשׂרֵה,עֶזְרָה,"assistance, help",3
+L011.N11,Eleventh lesson,עֶשׂרֵה,עֶשֶׂר,ten,3
+L011.S01,Hello. What are you drinking?,שָׁלוֹם,שָׁלוֹם,"hello, goodbye; peace, rest, welfare",0
+L011.S01,Hello. What are you drinking?,שָׁלוֹם,שָׁחוֹר,black,2
+L011.S01,Hello. What are you drinking?,מַה,מַה,"what? how much, why, how",0
+L011.S01,Hello. What are you drinking?,מַה,מַס,"tax, fee",1
+L011.S01,Hello. What are you drinking?,אַתֶם,אַתֶם,"you, ""you guys"" (pl.)",0
+L011.S01,Hello. What are you drinking?,אַתֶם,אַתֶן,you (pl.),1
+L011.S01,Hello. What are you drinking?,שׁוֹתִים,שׁוֹתִים,"drink (m, p)",0
+L011.S01,Hello. What are you drinking?,שׁוֹתִים,רוֹאִים,"see (m, p)",3
+L011.S02,What is there?,מַה,מַה,"what? how much, why, how",0
+L011.S02,What is there?,מַה,מַס,"tax, fee",1
+L011.S02,What is there?,יֵשׁ,יֵשׁ,"there is/are/exist; existence, Being, entity",0
+L011.S02,What is there?,יֵשׁ,אֵשׁ,"fire, flame",1
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",יֵשׁ,יֵשׁ,"there is/are/exist; existence, Being, entity",0
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",יֵשׁ,אֵשׁ,"fire, flame",1
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",קָפֶה,קָפֶה,coffee,0
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",קָפֶה,יָפֶה,"beautiful, pleasant, pretty; nice, fine, well",1
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",פִילטֶר,לִיטֶר,liter,2
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",פִילטֶר,אִיּוּר,illustration,4
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",קָפֶה,קָפֶה,coffee,0
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",קָפֶה,יָפֶה,"beautiful, pleasant, pretty; nice, fine, well",1
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",בּוֹץ,בּוֹס,boss,1
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",בּוֹץ,בּוּל,"stamp, postage",2
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",קָפֶה,קָפֶה,coffee,0
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",קָפֶה,יָפֶה,"beautiful, pleasant, pretty; nice, fine, well",1
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",טוּרקִי,טוּרְקִי,Turkish,1
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",טוּרקִי,חוּקִּי,"legal, lawful",3
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",קָפֶה,קָפֶה,coffee,0
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",קָפֶה,יָפֶה,"beautiful, pleasant, pretty; nice, fine, well",1
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",הָפוּך,הָפוּךְ,"reversed, backward; upside down, inverted, opposite; in disarray",1
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",הָפוּך,צָפוּי,"expected, anticipated, supposed (pass.)",2
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",וְנֵס,נֵס,"miracle, wonder",2
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",וְנֵס,זְאֵב,wolf,3
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",קָפֶה,קָפֶה,coffee,0
+L011.S03,"There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",קָפֶה,יָפֶה,"beautiful, pleasant, pretty; nice, fine, well",1
+L011.S04,With sugar or sweetener?,סוּכָּר,סוּכָּר,sugar,2
+L011.S04,With sugar or sweetener?,סוּכָּר,מוּזָר,"strange, weird",3
+L011.S04,With sugar or sweetener?,אוֹ,אוֹ,"or, either",0
+L011.S04,With sugar or sweetener?,אוֹ,אוֹר,light; lamp,1
+L011.S04,With sugar or sweetener?,סוּכּרָזִית,אוּכְמָנִית,blueberry,4
+L011.S04,With sugar or sweetener?,סוּכּרָזִית,בְּרָזִיל,Brazil,5
+L011.S05,And you (f pl)?,וְאַתֶן,אַתֶן,you (pl.),2
+L011.S05,And you (f pl)?,וְאַתֶן,אַתֶם,"you, ""you guys"" (pl.)",3
+L011.S06,We're drinking orange juice.,אֲנַחנוּ,אֲנַחְנוּ,we,1
+L011.S06,We're drinking orange juice.,אֲנַחנוּ,אֲפִילוּ,even,4
+L011.S06,We're drinking orange juice.,שׁוֹתוֹת,שׁוֹתוֹת,"drink (f, p)",0
+L011.S06,We're drinking orange juice.,שׁוֹתוֹת,רוֹאוֹת,"see (f, p)",3
+L011.S06,We're drinking orange juice.,מִיץ,מִיץ,juice,0
+L011.S06,We're drinking orange juice.,מִיץ,מִי,who?,1
+L011.S06,We're drinking orange juice.,תַפּוּזִים,מַפּוּחִית,harmonica,3
+L011.S06,We're drinking orange juice.,תַפּוּזִים,פּוּרִים,Purim,3
+L012.N12,Twelfth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L012.N12,Twelfth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L012.N12,Twelfth lesson,שׁתֵים,שֵׁם,(first) name,3
+L012.N12,Twelfth lesson,שׁתֵים,שָׁלֵם,"complete, entire, whole",3
+L012.N12,Twelfth lesson,עֶשׂרֵה,עֶזְרָה,"assistance, help",3
+L012.N12,Twelfth lesson,עֶשׂרֵה,עֶשֶׂר,ten,3
+L012.S00,Shopping,קנִיוֹת,קַנְיוֹן,shopping mall; canyon,3
+L012.S00,Shopping,קנִיוֹת,אָחוֹת,sister; nurse,4
+L012.S01,Oof! I am tired.,אוּף,אוֹ,"or, either",2
+L012.S01,Oof! I am tired.,אוּף,אוֹר,light; lamp,2
+L012.S01,Oof! I am tired.,אֲנִי,אֲנִי,"I, ego",0
+L012.S01,Oof! I am tired.,אֲנִי,אִי,island,2
+L012.S01,Oof! I am tired.,עָיֵף,עָיֵיף,tired,1
+L012.S01,Oof! I am tired.,עָיֵף,עָנָף,branch,2
+L012.S02,Why?,לָמָה,לָמָה,why?,0
+L012.S02,Why?,לָמָה,רָמָה,"level, standard; hilly region, highlands; barometric high",1
+L012.S03,The mall is tiring.,הַקַניוֹן,קַנְיוֹן,shopping mall; canyon,3
+L012.S03,The mall is tiring.,הַקַניוֹן,הֵירָיוֹן,pregnancy,4
+L012.S03,The mall is tiring.,מְעַיֵף,מְאַחֵל,"wishes (m, s)",3
+L012.S03,The mall is tiring.,מְעַיֵף,מְאַחֵר,"is running late (m, s)",3
+L012.S04,What are you (m s) buying?,מַה,מַה,"what? how much, why, how",0
+L012.S04,What are you (m s) buying?,מַה,מַס,"tax, fee",1
+L012.S04,What are you (m s) buying?,אַתָה,אַתָה,you,0
+L012.S04,What are you (m s) buying?,אַתָה,אֲתָר,site,2
+L012.S04,What are you (m s) buying?,קוֹנֶה,עוֹנֶה,"answers (m, s)",1
+L012.S04,What are you (m s) buying?,קוֹנֶה,קוֹנֶה²,buyer,1
+L012.S05,I'm not buying,אֲנִי,אֲנִי,"I, ego",0
+L012.S05,I'm not buying,אֲנִי,אִי,island,2
+L012.S05,I'm not buying,לֹא,לֹא,"no, not",0
+L012.S05,I'm not buying,לֹא,א,Alef,2
+L012.S05,I'm not buying,קוֹנֶה,עוֹנֶה,"answers (m, s)",1
+L012.S05,I'm not buying,קוֹנֶה,קוֹנֶה²,buyer,1
+L012.S05,I'm not buying,אֲבָל,אֲבָל,"but, however",0
+L012.S05,I'm not buying,אֲבָל,חֲבָל,pity,1
+L012.S05,I'm not buying,אִשׁתִי,אִיתִּי,with me,3
+L012.S05,I'm not buying,אִשׁתִי,רִשְׁמִי,official,3
+L012.S05,I'm not buying,קוֹנָה,יוֹנָה,"pigeon, dove",1
+L012.S05,I'm not buying,קוֹנָה,עוֹנָה,season,1
+L012.S05,I'm not buying,וְהִיא,הִיא,she,2
+L012.S05,I'm not buying,וְהִיא,זָהִיר,"careful, cautious",3
+L012.S05,I'm not buying,לֹא,לֹא,"no, not",0
+L012.S05,I'm not buying,לֹא,א,Alef,2
+L012.S05,I'm not buying,עֲיֵפָה,הֲצָפָה,flooding,3
+L012.S05,I'm not buying,עֲיֵפָה,חֵיפָה,Haifa,3
+L013.N13,Thirteenth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L013.N13,Thirteenth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L013.N13,Thirteenth lesson,שׁלוֹשׁ,שָׁלוֹשׁ,three,1
+L013.N13,Thirteenth lesson,שׁלוֹשׁ,קָדוֹשׁ,"holy, saint",3
+L013.N13,Thirteenth lesson,עֶשׂרֵה,עֶזְרָה,"assistance, help",3
+L013.N13,Thirteenth lesson,עֶשׂרֵה,עֶשֶׂר,ten,3
+L013.S00,Chit-chat (two ways to say),פִּטפּוּט,אִיפּוּר,"makeup, cosmetics",4
+L013.S00,Chit-chat (two ways to say),פִּטפּוּט,בִּיגּוּד,clothing,4
+L013.S00,Chit-chat (two ways to say),פִּטפּוּטִים,פּוּרִים,Purim,5
+L013.S01,Where are Dan and Joseph?,אֵיפֹה,אֵיפֹה,"where, at what place?",0
+L013.S01,Where are Dan and Joseph?,אֵיפֹה,אֵיזֶה,Which? ‎What?,2
+L013.S01,Where are Dan and Joseph?,דָן,אָח,"brother, fellow; male nurse",2
+L013.S01,Where are Dan and Joseph?,דָן,ד,Dalet,2
+L013.S01,Where are Dan and Joseph?,וְיוֹסֵף,מְתוֹפֵף,drummer,3
+L013.S01,Where are Dan and Joseph?,וְיוֹסֵף,קְיוֹסְק,kiosk,3
+L013.S02,They (m) are talking on a cordless (wireless) phone.,הֵם,הֵם,they,0
+L013.S02,They (m) are talking on a cordless (wireless) phone.,הֵם,אֵם,"mother, matriarch",1
+L013.S02,They (m) are talking on a cordless (wireless) phone.,מְדַבּרִים,לְהַחֲרִים,to boycott; to confiscate,4
+L013.S02,They (m) are talking on a cordless (wireless) phone.,מְדַבּרִים,בְּרִית,"covenant, alliance",5
+L013.S02,They (m) are talking on a cordless (wireless) phone.,בְּטֶלֶפוֹן,טֶלֶפוֹן,telephone,3
+L013.S02,They (m) are talking on a cordless (wireless) phone.,בְּטֶלֶפוֹן,פָּטֶפוֹן,"gramophone, record player",4
+L013.S02,They (m) are talking on a cordless (wireless) phone.,אַלחוּטִי,אַלְחוּטִי,"wireless, cordless",1
+L013.S02,They (m) are talking on a cordless (wireless) phone.,אַלחוּטִי,אַלּוּף,champion; general (military),4
+L013.S03,Where are Leah and Sarah?,אֵיפֹה,אֵיפֹה,"where, at what place?",0
+L013.S03,Where are Leah and Sarah?,אֵיפֹה,אֵיזֶה,Which? ‎What?,2
+L013.S03,Where are Leah and Sarah?,לֵאָה,מֵאָה,"one hundred, century",1
+L013.S03,Where are Leah and Sarah?,לֵאָה,לְאָן,"where to, to what place?",2
+L013.S03,Where are Leah and Sarah?,וְשָׂרָה,מְעָרָה,cave[rn],3
+L013.S03,Where are Leah and Sarah?,וְשָׂרָה,נְשָׁמָה,soul; essence (flowery),3
+L013.S04,They (f pl) are speaking on a mobile phone.,הֵן,הֵן,they,0
+L013.S04,They (f pl) are speaking on a mobile phone.,הֵן,הֵד,"echo, reverberation; response, reply, feedback",1
+L013.S04,They (f pl) are speaking on a mobile phone.,מְדַבּרוֹת,לְכַבּוֹת,"to turn off (light, machine); to extinguish",3
+L013.S04,They (f pl) are speaking on a mobile phone.,מְדַבּרוֹת,לְבַלּוֹת,"to have a good time, enjoy life; to spend time",4
+L013.S04,They (f pl) are speaking on a mobile phone.,בְּטֶלֶפוֹן,טֶלֶפוֹן,telephone,3
+L013.S04,They (f pl) are speaking on a mobile phone.,בְּטֶלֶפוֹן,פָּטֶפוֹן,"gramophone, record player",4
+L013.S04,They (f pl) are speaking on a mobile phone.,נַיָד,יָד,"arm, hand[le]",2
+L013.S04,They (f pl) are speaking on a mobile phone.,נַיָד,צַיִד,hunt[ing]; game,2
+L013.S05,I want a telephone,גַם,גַּם,"also, too, further, additionally; even (though, if), despite that",1
+L013.S05,I want a telephone,גַם,חַם,hot,1
+L013.S05,I want a telephone,אֲנִי,אֲנִי,"I, ego",0
+L013.S05,I want a telephone,אֲנִי,אִי,island,2
+L013.S05,I want a telephone,רוֹצָה,רוֹצָה,"wants (f, s)",0
+L013.S05,I want a telephone,רוֹצָה,רוֹאָה,"sees (f, s)",1
+L013.S05,I want a telephone,טֶלֶפוֹן,טֶלֶפוֹן,telephone,0
+L013.S05,I want a telephone,טֶלֶפוֹן,טֵלֵפוֹן,[tele]phone,2
+L013.S06,No problem.  There is a hands-free set in the car.,אֵין,אֵין,there isn't / aren't,0
+L013.S06,No problem.  There is a hands-free set in the car.,אֵין,אֵיך,how?,1
+L013.S06,No problem.  There is a hands-free set in the car.,בְּעָיָה,בְּעָיָה,problem,0
+L013.S06,No problem.  There is a hands-free set in the car.,בְּעָיָה,בְּעִיטָה,"kick; spurning, rejection",2
+L013.S06,No problem.  There is a hands-free set in the car.,יֵשׁ,יֵשׁ,"there is/are/exist; existence, Being, entity",0
+L013.S06,No problem.  There is a hands-free set in the car.,יֵשׁ,אֵשׁ,"fire, flame",1
+L013.S06,No problem.  There is a hands-free set in the car.,דִבּוּרִית,צִיבּוּרִי,public,3
+L013.S06,No problem.  There is a hands-free set in the car.,דִבּוּרִית,בְּרִית,"covenant, alliance",4
+L013.S06,No problem.  There is a hands-free set in the car.,בַּמְכוֹנִית,מְכוֹנִית,car,3
+L013.S06,No problem.  There is a hands-free set in the car.,בַּמְכוֹנִית,מְקוֹרִית,original,5
+L014.N14,Forteenth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L014.N14,Forteenth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L014.N14,Forteenth lesson,אַרבָּע,אַרְבַּע,four,3
+L014.N14,Forteenth lesson,אַרבָּע,אַרְנָב,"rabbit, bunny, hare",3
+L014.N14,Forteenth lesson,עֶשׂרֵה,עֶזְרָה,"assistance, help",3
+L014.N14,Forteenth lesson,עֶשׂרֵה,עֶשֶׂר,ten,3
+L014.S03,Are you (m s) also in the mall?,גַם,גַּם,"also, too, further, additionally; even (though, if), despite that",1
+L014.S03,Are you (m s) also in the mall?,גַם,חַם,hot,1
+L014.S03,Are you (m s) also in the mall?,אַתָה,אַתָה,you,0
+L014.S03,Are you (m s) also in the mall?,אַתָה,אֲתָר,site,2
+L014.S03,Are you (m s) also in the mall?,בַּקַניוֹן,בְּקַלּוֹת,easily,4
+L014.S03,Are you (m s) also in the mall?,בַּקַניוֹן,קַנְיוֹן,shopping mall; canyon,4
+L014.S04,I am buying a computer for my son and daughter.,אֲנִי,אֲנִי,"I, ego",0
+L014.S04,I am buying a computer for my son and daughter.,אֲנִי,אִי,island,2
+L014.S04,I am buying a computer for my son and daughter.,קוֹנֶה,עוֹנֶה,"answers (m, s)",1
+L014.S04,I am buying a computer for my son and daughter.,קוֹנֶה,קוֹנֶה²,buyer,1
+L014.S04,I am buying a computer for my son and daughter.,מַחשֵׁב,מַחְשֵׁב,computer,1
+L014.S04,I am buying a computer for my son and daughter.,מַחשֵׁב,חוֹשֵׁב,"thinks (m, s)",3
+L014.S04,I am buying a computer for my son and daughter.,לַבֵּן,גַּן,"garden, park",3
+L014.S04,I am buying a computer for my son and daughter.,לַבֵּן,לָבָן,white,3
+L014.S04,I am buying a computer for my son and daughter.,וְלַבַּת,בַּת,"daughter, girl",4
+L014.S04,I am buying a computer for my son and daughter.,וְלַבַּת,יְדַבֵּר,"will speak/talk (3rd, m, s)",4
+L014.S05,I am buying (f) a mobile phone.,אֲנִי,אֲנִי,"I, ego",0
+L014.S05,I am buying (f) a mobile phone.,אֲנִי,אִי,island,2
+L014.S05,I am buying (f) a mobile phone.,קוֹנָה,יוֹנָה,"pigeon, dove",1
+L014.S05,I am buying (f) a mobile phone.,קוֹנָה,עוֹנָה,season,1
+L014.S05,I am buying (f) a mobile phone.,טֶלֶפוֹן,טֶלֶפוֹן,telephone,0
+L014.S05,I am buying (f) a mobile phone.,טֶלֶפוֹן,טֵלֵפוֹן,[tele]phone,2
+L014.S05,I am buying (f) a mobile phone.,נַיָד,יָד,"arm, hand[le]",2
+L014.S05,I am buying (f) a mobile phone.,נַיָד,צַיִד,hunt[ing]; game,2
+L014.S06,"Boris, do you speak Hebrew?",בּוֹרִיס,בּוֹנוּס,bonus,3
+L014.S06,"Boris, do you speak Hebrew?",בּוֹרִיס,בּוֹס,boss,3
+L014.S06,"Boris, do you speak Hebrew?",אַתָה,אַתָה,you,0
+L014.S06,"Boris, do you speak Hebrew?",אַתָה,אֲתָר,site,2
+L014.S06,"Boris, do you speak Hebrew?",מְדַבֵּר,יְדַבֵּר,"will speak/talk (3rd, m, s)",1
+L014.S06,"Boris, do you speak Hebrew?",מְדַבֵּר,לְדַבֵּר,"to speak, talk",1
+L014.S06,"Boris, do you speak Hebrew?",עִברִית,עִבְרִית,Hebrew,1
+L014.S06,"Boris, do you speak Hebrew?",עִברִית,אִירִית,Irish / Gaelic (lang.),2
+L014.S07,Ulpan Hebrew,עִברִית,עִבְרִית,Hebrew,1
+L014.S07,Ulpan Hebrew,עִברִית,אִירִית,Irish / Gaelic (lang.),2
+L014.S07,Ulpan Hebrew,שֶׁל,שֶׁל,"of, belonging to, owned by",0
+L014.S07,Ulpan Hebrew,שֶׁל,שֶׁף,"chef, chief cook",1
+L014.S07,Ulpan Hebrew,אוּלפָּן,אוּלְפָּן,studio,3
+L014.S07,Ulpan Hebrew,אוּלפָּן,אוּלָם,hall,3
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",אֲבָל,אֲבָל,"but, however",0
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",אֲבָל,חֲבָל,pity,1
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",אַת,אַת,you,0
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",אַת,אֶת,[Direct Object Marker],1
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",רִנָה,קָנָה,"bought (3rd, m, s)",2
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",רִנָה,רִיצָה,"running, race, jogging",2
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",מְדַבֶּרֶת,מְחַנֶּכֶת,educator,3
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",מְדַבֶּרֶת,מְפַקֶּדֶת,commander,3
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",עִברִית,עִבְרִית,Hebrew,1
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",עִברִית,אִירִית,Irish / Gaelic (lang.),2
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",שֶׁל,שֶׁל,"of, belonging to, owned by",0
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",שֶׁל,שֶׁף,"chef, chief cook",1
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",שַׁבָּת,שַׁבָּת,"Sabbath, day of rest; Saturday",2
+L014.S08,"But you, Rinah, speak Shabbat Hebrew.",שַׁבָּת,בַּת,"daughter, girl",4
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,אֲנִי,אֲנִי,"I, ego",0
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,אֲנִי,אִי,island,2
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,עֲיֵפָה,הֲצָפָה,flooding,3
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,עֲיֵפָה,חֵיפָה,Haifa,3
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,אַתָה,אַתָה,you,0
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,אַתָה,אֲתָר,site,2
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,רוֹצֶה,רוֹצֶה,"wants (m, s)",0
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,רוֹצֶה,רוֹאֶה,"sees (m, s)",1
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,קָפֶה,קָפֶה,coffee,0
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,קָפֶה,יָפֶה,"beautiful, pleasant, pretty; nice, fine, well",1
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,וְעוּגָה,סְעוּדָה,"feast, meal, banquet",2
+L014.S09,I (f) am tired. Do you (m s) want coffee and cake?,וְעוּגָה,עוּגָה,cake,2
+L014.S10,No problem. There is a cafe in the mall.,אֵין,אֵין,there isn't / aren't,0
+L014.S10,No problem. There is a cafe in the mall.,אֵין,אֵיך,how?,1
+L014.S10,No problem. There is a cafe in the mall.,בְּעָיָה,בְּעָיָה,problem,0
+L014.S10,No problem. There is a cafe in the mall.,בְּעָיָה,בְּעִיטָה,"kick; spurning, rejection",2
+L014.S10,No problem. There is a cafe in the mall.,יֵשׁ,יֵשׁ,"there is/are/exist; existence, Being, entity",0
+L014.S10,No problem. There is a cafe in the mall.,יֵשׁ,אֵשׁ,"fire, flame",1
+L014.S10,No problem. There is a cafe in the mall.,בֵּית,בֵּין,"between, among, amid",1
+L014.S10,No problem. There is a cafe in the mall.,בֵּית,בֵּן,"son, boy",2
+L014.S10,No problem. There is a cafe in the mall.,קָפֶה,קָפֶה,coffee,0
+L014.S10,No problem. There is a cafe in the mall.,קָפֶה,יָפֶה,"beautiful, pleasant, pretty; nice, fine, well",1
+L014.S10,No problem. There is a cafe in the mall.,בַּקַניוֹן,בְּקַלּוֹת,easily,4
+L014.S10,No problem. There is a cafe in the mall.,בַּקַניוֹן,קַנְיוֹן,shopping mall; canyon,4
+L015.N15,Fifteenth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L015.N15,Fifteenth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L015.N15,Fifteenth lesson,חֲמֵשׁ,חָמֵשׁ,five,1
+L015.N15,Fifteenth lesson,חֲמֵשׁ,אֵשׁ,"fire, flame",3
+L015.N15,Fifteenth lesson,עֶשׂרֵה,עֶזְרָה,"assistance, help",3
+L015.N15,Fifteenth lesson,עֶשׂרֵה,עֶשֶׂר,ten,3
+L015.S00,At the sea,בַּיָם,בַּיִת,"house, home; stanza (music)",2
+L015.S00,At the sea,בַּיָם,בַּלָּם,"defender, back (sports)",2
+L015.S01,Where are you coming from?,מֵאַיִן,מֵאַיִן,where from? from what place?,0
+L015.S01,Where are you coming from?,מֵאַיִן,יַיִן,wine,3
+L015.S01,Where are you coming from?,אַתָה,אַתָה,you,0
+L015.S01,Where are you coming from?,אַתָה,אֲתָר,site,2
+L015.S01,Where are you coming from?,בָּא,בָּא,"come(s), [came] (m, s, [3rd])",2
+L015.S01,Where are you coming from?,בָּא,בּ ב,Bet & Vet,2
+L015.S02,I (m) am coming from the beach.,אֲנִי,אֲנִי,"I, ego",0
+L015.S02,I (m) am coming from the beach.,אֲנִי,אִי,island,2
+L015.S02,I (m) am coming from the beach.,בָּא,בָּא,"come(s), [came] (m, s, [3rd])",2
+L015.S02,I (m) am coming from the beach.,בָּא,בּ ב,Bet & Vet,2
+L015.S02,I (m) am coming from the beach.,מִחוֹף,חוֹף,"beach, shore",2
+L015.S02,I (m) am coming from the beach.,מִחוֹף,מִחוּץ,outside (from),2
+L015.S02,I (m) am coming from the beach.,הַיָם,הַאִם,yes-no?,2
+L015.S02,I (m) am coming from the beach.,הַיָם,הַיוֹם,today,2
+L015.S03,In the morning I swim in the sea.,בַּבּוֹקֶר,בַּצּוֹרֶת,drought,3
+L015.S03,In the morning I swim in the sea.,בַּבּוֹקֶר,בּוֹקֶר,"morning, dawn",3
+L015.S03,In the morning I swim in the sea.,אֲנִי,אֲנִי,"I, ego",0
+L015.S03,In the morning I swim in the sea.,אֲנִי,אִי,island,2
+L015.S03,In the morning I swim in the sea.,שׂוֹחֶה,שׂוֹחֶה,"swims (m, s)",0
+L015.S03,In the morning I swim in the sea.,שׂוֹחֶה,דּוֹחֶה,"repulsive, repellent",2
+L015.S03,In the morning I swim in the sea.,בַּיָם,בַּיִת,"house, home; stanza (music)",2
+L015.S03,In the morning I swim in the sea.,בַּיָם,בַּלָּם,"defender, back (sports)",2
+L015.S04,Are there hot chicks at the beach?,יֵשׁ,יֵשׁ,"there is/are/exist; existence, Being, entity",0
+L015.S04,Are there hot chicks at the beach?,יֵשׁ,אֵשׁ,"fire, flame",1
+L015.S04,Are there hot chicks at the beach?,חֲתִיכוֹת,חֲתִיכָה,"piece, chunk, item; gorgeous, pretty woman (coll.)",3
+L015.S04,Are there hot chicks at the beach?,חֲתִיכוֹת,חֲדָשׁוֹת,news,4
+L015.S04,Are there hot chicks at the beach?,בְּחוֹף,בְּלוֹג,blog,2
+L015.S04,Are there hot chicks at the beach?,בְּחוֹף,בְּעוֹד,"concurrently, while; in another (minute, hour, …)",2
+L015.S04,Are there hot chicks at the beach?,הַיָם,הַאִם,yes-no?,2
+L015.S04,Are there hot chicks at the beach?,הַיָם,הַיוֹם,today,2
+L015.S05,"No, in the morning there aren't any hot chicks there.",לֹא,לֹא,"no, not",0
+L015.S05,"No, in the morning there aren't any hot chicks there.",לֹא,א,Alef,2
+L015.S05,"No, in the morning there aren't any hot chicks there.",בַּבּוֹקֶר,בַּצּוֹרֶת,drought,3
+L015.S05,"No, in the morning there aren't any hot chicks there.",בַּבּוֹקֶר,בּוֹקֶר,"morning, dawn",3
+L015.S05,"No, in the morning there aren't any hot chicks there.",אֵין,אֵין,there isn't / aren't,0
+L015.S05,"No, in the morning there aren't any hot chicks there.",אֵין,אֵיך,how?,1
+L015.S05,"No, in the morning there aren't any hot chicks there.",שָׁם,יָם,"sea, ocean",2
+L015.S05,"No, in the morning there aren't any hot chicks there.",שָׁם,שֵׁם,(first) name,2
+L015.S05,"No, in the morning there aren't any hot chicks there.",חֲתִיכוֹת,חֲתִיכָה,"piece, chunk, item; gorgeous, pretty woman (coll.)",3
+L015.S05,"No, in the morning there aren't any hot chicks there.",חֲתִיכוֹת,חֲדָשׁוֹת,news,4
+L015.S06,No? So why do you go to the sea in the morning?,לֹא,לֹא,"no, not",0
+L015.S06,No? So why do you go to the sea in the morning?,לֹא,א,Alef,2
+L015.S06,No? So why do you go to the sea in the morning?,אָז,אַז,"then, next, at that time; so, thus, therefore; so (anyway)",1
+L015.S06,No? So why do you go to the sea in the morning?,אָז,אָח,"brother, fellow; male nurse",1
+L015.S06,No? So why do you go to the sea in the morning?,לָמָה,לָמָה,why?,0
+L015.S06,No? So why do you go to the sea in the morning?,לָמָה,רָמָה,"level, standard; hilly region, highlands; barometric high",1
+L015.S06,No? So why do you go to the sea in the morning?,אַתָה,אַתָה,you,0
+L015.S06,No? So why do you go to the sea in the morning?,אַתָה,אֲתָר,site,2
+L015.S06,No? So why do you go to the sea in the morning?,בַּיָם,בַּיִת,"house, home; stanza (music)",2
+L015.S06,No? So why do you go to the sea in the morning?,בַּיָם,בַּלָּם,"defender, back (sports)",2
+L015.S06,No? So why do you go to the sea in the morning?,בַּבּוֹקֶר,בַּצּוֹרֶת,drought,3
+L015.S06,No? So why do you go to the sea in the morning?,בַּבּוֹקֶר,בּוֹקֶר,"morning, dawn",3
+L016.N16,Sixteenth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L016.N16,Sixteenth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L016.N16,Sixteenth lesson,שֵׁשׁ,אֵשׁ,"fire, flame",2
+L016.N16,Sixteenth lesson,שֵׁשׁ,יֵשׁ,"there is/are/exist; existence, Being, entity",2
+L016.N16,Sixteenth lesson,עֶשׂרֵה,עֶזְרָה,"assistance, help",3
+L016.N16,Sixteenth lesson,עֶשׂרֵה,עֶשֶׂר,ten,3
+L016.S00,Bar Mitzvah,בַּר,בָּר,bar,2
+L016.S00,Bar Mitzvah,בַּר,בּ ב,Bet & Vet,2
+L016.S00,Bar Mitzvah,מִצוָה,מִצְווָה,commandment,2
+L016.S00,Bar Mitzvah,מִצוָה,חִידָה,"riddle, puzzle",3
+L016.S01,What's new?,מַה,מַה,"what? how much, why, how",0
+L016.S01,What's new?,מַה,מַס,"tax, fee",1
+L016.S01,What's new?,חָדָשׁ,חָדָשׁ,"new, current, recent[ly made]",0
+L016.S01,What's new?,חָדָשׁ,חָמֵשׁ,five,2
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,בְּקָרוֹב,בְּקָרוֹב,"soon, shortly; trailer (movie)",0
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,בְּקָרוֹב,קָרוֹב,"close, near, [up]coming",3
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,בַּר,בַּת,"daughter, girl",1
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,בַּר,בָּר,bar,1
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,מִצוָה,מִצְווָה,commandment,2
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,מִצוָה,חִידָה,"riddle, puzzle",3
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,לִנְתַנאֵל,יִסְתַּכֵּל,"will look (3rd, m, s)",5
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,לִנְתַנאֵל,יִשְׂרָאֵל,Israel,5
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,בּנִי,אֲנִי,"I, ego",2
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,בּנִי,בְּלִי,without,2
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,אֲנִי,אֲנִי,"I, ego",0
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,אֲנִי,אִי,island,2
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,בְּדִיאֶטָה,בְּדִיחָה,joke,3
+L016.S02,It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.,בְּדִיאֶטָה,בְּדִיקָה,"check [-up], test, examination",3
+L016.S03,Congratulations!,מַזָל,מַזָּל,"luck, (good) fortune; fate, destiny; sign of the Zodiac",1
+L016.S03,Congratulations!,מַזָל,מַפָּל,waterfall,2
+L016.S03,Congratulations!,טוֹב,טוֹב,"good, well, pleasant, appropriate",0
+L016.S03,Congratulations!,טוֹב,חוֹב,debt,1
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,אֲבָל,אֲבָל,"but, however",0
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,אֲבָל,חֲבָל,pity,1
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,אֲנִי,אֲנִי,"I, ego",0
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,אֲנִי,אִי,island,2
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,לֹא,לֹא,"no, not",0
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,לֹא,א,Alef,2
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,מְבִינָה,גְבִינָה,cheese,1
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,מְבִינָה,מְדִינָה,"state, country",1
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,לָמָה,לָמָה,why?,0
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,לָמָה,רָמָה,"level, standard; hilly region, highlands; barometric high",1
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,דִיאֶטָה,דִּיאֵטָה,diet,2
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,דִיאֶטָה,דִּילֶמָה,dilemma,3
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,לְבַר,לְבַד,alone,1
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,לְבַר,לְאַט,slowly,2
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,מִצוָה,מִצְווָה,commandment,2
+L016.S04,But I don't understand.  Why go on a diet for a Bar Mitzvah?,מִצוָה,חִידָה,"riddle, puzzle",3
+L016.S05,What don't you understand?,לָמָה,לָמָה,why?,0
+L016.S05,What don't you understand?,לָמָה,רָמָה,"level, standard; hilly region, highlands; barometric high",1
+L016.S05,What don't you understand?,אַת,אַת,you,0
+L016.S05,What don't you understand?,אַת,אֶת,[Direct Object Marker],1
+L016.S05,What don't you understand?,לֹא,לֹא,"no, not",0
+L016.S05,What don't you understand?,לֹא,א,Alef,2
+L016.S05,What don't you understand?,מְבִינָה,גְבִינָה,cheese,1
+L016.S05,What don't you understand?,מְבִינָה,מְדִינָה,"state, country",1
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,אֲנִי,אֲנִי,"I, ego",0
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,אֲנִי,אִי,island,2
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,בְּדִיאֶטָה,בְּדִיחָה,joke,3
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,בְּדִיאֶטָה,בְּדִיקָה,"check [-up], test, examination",3
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,כִּי,אִי,island,2
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,כִּי,כְּלִי,"tool, instrument",2
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,אֲנִי,אֲנִי,"I, ego",0
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,אֲנִי,אִי,island,2
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,רוֹצָה,רוֹצָה,"wants (f, s)",0
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,רוֹצָה,רוֹאָה,"sees (f, s)",1
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,לִקנוֹת,לִקְנוֹת,"to buy, purchase; to get, obtain, acquire",1
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,לִקנוֹת,לִבְנוֹת,"to build, construct",2
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,שִׂמלָה,שִׂמְלָה,"dress, gown, robe",1
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,שִׂמלָה,שִׂיחָה,"conversation, talk, chat; negotiation",2
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,יָפָה,יָפָה,"beautiful, pleasant, pretty; nice, fine, well",0
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,יָפָה,יָפֶה,"beautiful, pleasant, pretty; nice, fine, well",1
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,לַבַּר,צַבָּר,prickly pear cactus; native Israeli,2
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,לַבַּר,אַבִּיר,knight,3
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,מִצוָה,מִצְווָה,commandment,2
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,מִצוָה,חִידָה,"riddle, puzzle",3
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,שֶׁל,שֶׁל,"of, belonging to, owned by",0
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,שֶׁל,שֶׁף,"chef, chief cook",1
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,נְתַנאֵל,לְאַחֵל,"to wish, congratulate",4
+L016.S06,I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!,נְתַנאֵל,לְנַהֵל,"to manage, organize",4
+L017.N17,Seventeenth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L017.N17,Seventeenth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L017.N17,Seventeenth lesson,שׁבַע,שֶׁבַע,seven,1
+L017.N17,Seventeenth lesson,שׁבַע,טֶבַע,nature,2
+L017.N17,Seventeenth lesson,עֶשׂרֵה,עֶזְרָה,"assistance, help",3
+L017.N17,Seventeenth lesson,עֶשׂרֵה,עֶשֶׂר,ten,3
+L017.S01,What's this mess?,מַה,מַה,"what? how much, why, how",0
+L017.S01,What's this mess?,מַה,מַס,"tax, fee",1
+L017.S01,What's this mess?,הַבַּלַגָן,הַגוֹלָן,the Golan,5
+L017.S01,What's this mess?,הַבַּלַגָן,סַבְלָן,"patient, tolerant",5
+L017.S01,What's this mess?,הַזֶה,זֶה,this,2
+L017.S01,What's this mess?,הַזֶה,חָזֶה,"chest, breast, bosom",2
+L017.S01,What's this mess?,פֹּה,פֶּה,mouth,2
+L017.S01,What's this mess?,פֹּה,פֹּה,"here, (in/at) this place¹",2
+L017.S02,This isn't a mess.  I'm tidying my room!,זֶה,זֶה,this,0
+L017.S02,This isn't a mess.  I'm tidying my room!,זֶה,אֶל,"at, to [-wards]; for",2
+L017.S02,This isn't a mess.  I'm tidying my room!,לֹא,לֹא,"no, not",0
+L017.S02,This isn't a mess.  I'm tidying my room!,לֹא,א,Alef,2
+L017.S02,This isn't a mess.  I'm tidying my room!,בַּלַגָן,בָּלָאגָן,mess,4
+L017.S02,This isn't a mess.  I'm tidying my room!,בַּלַגָן,מַזְגָן,air-conditioner,4
+L017.S02,This isn't a mess.  I'm tidying my room!,אֲנִי,אֲנִי,"I, ego",0
+L017.S02,This isn't a mess.  I'm tidying my room!,אֲנִי,אִי,island,2
+L017.S02,This isn't a mess.  I'm tidying my room!,מְסַדֵר,מְסַדֵּר,"arranges, organizes (m, s)",1
+L017.S02,This isn't a mess.  I'm tidying my room!,מְסַדֵר,לְסַדֵּר,"to organize, tidy, arrange",2
+L017.S02,This isn't a mess.  I'm tidying my room!,אֶת,אֶת,[Direct Object Marker],0
+L017.S02,This isn't a mess.  I'm tidying my room!,אֶת,אֶל,"at, to [-wards]; for",1
+L017.S02,This isn't a mess.  I'm tidying my room!,הַחֶדֶר,חֶדֶר,room,2
+L017.S02,This isn't a mess.  I'm tidying my room!,הַחֶדֶר,אַחֶרֶת,"differently; otherwise, else",3
+L017.S03,That bed there...,הַמִטָה,הֲמָרָה,"exchange, substitution, changing, converting [money, religion]",3
+L017.S03,That bed there...,הַמִטָה,אַבְקָה,"powder, pollen",4
+L017.S03,That bed there...,הַזֹאת,זֹאת,this,2
+L017.S03,That bed there...,הַזֹאת,כָּזֹאת,"such, like so",3
+L017.S03,That bed there...,שָׁם,יָם,"sea, ocean",2
+L017.S03,That bed there...,שָׁם,שֵׁם,(first) name,2
+L017.S04,This table here and these chairs there...,הַשׁוּלחָן,שׁוּלְחָן,"table, desk",3
+L017.S04,This table here and these chairs there...,הַשׁוּלחָן,הַגוֹלָן,the Golan,4
+L017.S04,This table here and these chairs there...,הַזֶה,זֶה,this,2
+L017.S04,This table here and these chairs there...,הַזֶה,חָזֶה,"chest, breast, bosom",2
+L017.S04,This table here and these chairs there...,וְהַכִּסאוֹת,לְהַרְאוֹת,"to show, demonstrate",5
+L017.S04,This table here and these chairs there...,וְהַכִּסאוֹת,לְחַכּוֹת,to [a]wait,5
+L017.S04,This table here and these chairs there...,הָאֵלֶה,כָּאֵלֶה,"such, like so (pl.)",2
+L017.S04,This table here and these chairs there...,הָאֵלֶה,אֵלֶּה,these,3
+L017.S04,This table here and these chairs there...,פֹּה,פֶּה,mouth,2
+L017.S04,This table here and these chairs there...,פֹּה,פֹּה,"here, (in/at) this place¹",2
+L017.S05,Is this order?,זֶה,זֶה,this,0
+L017.S05,Is this order?,זֶה,אֶל,"at, to [-wards]; for",2
+L017.S05,Is this order?,סֵדֶר,סֵדֶר,"order, arrangement",0
+L017.S05,Is this order?,סֵדֶר,סֵפֶר,book,1
+L017.S05,Is this order?,זֶה,זֶה,this,0
+L017.S05,Is this order?,זֶה,אֶל,"at, to [-wards]; for",2
+L018.N18,Eighteenth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L018.N18,Eighteenth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L018.N18,Eighteenth lesson,שׁמוֹנֶה,שְׁמוֹנֶה,eight,1
+L018.N18,Eighteenth lesson,שׁמוֹנֶה,שׁוֹנֶה,"different, diverse, separate",1
+L018.N18,Eighteenth lesson,עֶשׂרֵה,עֶזְרָה,"assistance, help",3
+L018.N18,Eighteenth lesson,עֶשׂרֵה,עֶשֶׂר,ten,3
+L018.S00,The Marriage of Figaro,חֲתוּנַת,חֲתוּנָה,wedding,2
+L018.S00,The Marriage of Figaro,חֲתוּנַת,חֲנוּת,"shop, store",3
+L018.S00,The Marriage of Figaro,פִיגָרוֹ,אִיגְרוּף,boxing,4
+L018.S00,The Marriage of Figaro,פִיגָרוֹ,אִיתּוֹ,with him,4
+L018.S01,You're dressed up like a groom!,אַתָה,אַתָה,you,0
+L018.S01,You're dressed up like a groom!,אַתָה,אֲתָר,site,2
+L018.S01,You're dressed up like a groom!,לָבוּשׁ,חוּשׁ,sense,3
+L018.S01,You're dressed up like a groom!,לָבוּשׁ,טוּשׁ,ink,3
+L018.S01,You're dressed up like a groom!,כּמוֹ,כְּמוֹ,"like, as",1
+L018.S01,You're dressed up like a groom!,כּמוֹ,כּוֹל,"all, every, each",2
+L018.S01,You're dressed up like a groom!,חָתָן,חָתָן,groom; son-in-law,0
+L018.S01,You're dressed up like a groom!,חָתָן,זָקָן,beard,2
+L018.S02,Where are you going?,לְאָן,לְאָן,"where to, to what place?",0
+L018.S02,Where are you going?,לְאָן,לְאַט,slowly,2
+L018.S02,Where are you going?,אַתָה,אַתָה,you,0
+L018.S02,Where are you going?,אַתָה,אֲתָר,site,2
+L018.S02,Where are you going?,הוֹלֵך,הוֹלֵךְ,"walks, goes (m, s)",1
+L018.S02,Where are you going?,הוֹלֵך,הוֹפֵךְ,"turns [over] (m, s)",2
+L018.S03,To 'The Marriage of Figaro' at the opera.,לְחֲתוּנַת,חֲתוּנָה,wedding,4
+L018.S03,To 'The Marriage of Figaro' at the opera.,לְחֲתוּנַת,חֲנוּת,"shop, store",5
+L018.S03,To 'The Marriage of Figaro' at the opera.,פִיגָרוֹ,אִיגְרוּף,boxing,4
+L018.S03,To 'The Marriage of Figaro' at the opera.,פִיגָרוֹ,אִיתּוֹ,with him,4
+L018.S03,To 'The Marriage of Figaro' at the opera.,בָּאוֹפֶּרָה,אוֹפֶּרָה,opera,3
+L018.S04,With whom?,עִם,עִם,with,0
+L018.S04,With whom?,עִם,אִם,"if, whether; in case, if",1
+L018.S04,With whom?,מִי,מִי,who?,0
+L018.S04,With whom?,מִי,אִי,island,1
+L018.S05,with Aviva,עִם,עִם,with,0
+L018.S05,with Aviva,עִם,אִם,"if, whether; in case, if",1
+L018.S05,with Aviva,אֲבִיבָה,חֲבִילָה,"package, parcel",2
+L018.S05,with Aviva,אֲבִיבָה,סְבִיבָה,"surroundings, vicinity, environment",2
+L018.S06,Who is Aviva?,מִי,מִי,who?,0
+L018.S06,Who is Aviva?,מִי,אִי,island,1
+L018.S06,Who is Aviva?,זֹאת,זֹאת,this,0
+L018.S06,Who is Aviva?,זֹאת,לֹא,"no, not",2
+L018.S06,Who is Aviva?,אֲבִיבָה,חֲבִילָה,"package, parcel",2
+L018.S06,Who is Aviva?,אֲבִיבָה,סְבִיבָה,"surroundings, vicinity, environment",2
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,הִיא,הִיא,she,0
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,הִיא,אִי,island,2
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,בָּאוֹפֶּרָה,אוֹפֶּרָה,opera,3
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,אֲנִי,אֲנִי,"I, ego",0
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,אֲנִי,אִי,island,2
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,הַבַּעַל,בַּעַל,"husband; owner, master",3
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,הַבַּעַל,דַּעַת,"opinion, view; knowledge, wisdom; mind, reason, intelligence",4
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,שֶׁל,שֶׁל,"of, belonging to, owned by",0
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,שֶׁל,שֶׁף,"chef, chief cook",1
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,אֲבִיבָה,חֲבִילָה,"package, parcel",2
+L018.S07,She is the soprano in the opera. I am Avivah's husband.,אֲבִיבָה,סְבִיבָה,"surroundings, vicinity, environment",2
+L019.N19,Nineteenth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L019.N19,Nineteenth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L019.N19,Nineteenth lesson,תשַׁע,תֵשַׁע,nine,1
+L019.N19,Nineteenth lesson,תשַׁע,חָשַׁב,"thought (3rd, m, s)",3
+L019.N19,Nineteenth lesson,עֶשׂרֵה,עֶזְרָה,"assistance, help",3
+L019.N19,Nineteenth lesson,עֶשׂרֵה,עֶשֶׂר,ten,3
+L019.S00,A sporty family,מִשׁפָּחָה,מִשְׁפָּחָה,family,1
+L019.S00,A sporty family,מִשׁפָּחָה,מִסְפָּרָה,"barber shop, hairdressing salon",3
+L019.S01,In the morning Dad plays football.,בַּבֹּקֶר,בּוֹקֶר,"morning, dawn",3
+L019.S01,In the morning Dad plays football.,בַּבֹּקֶר,בַּצּוֹרֶת,drought,4
+L019.S01,In the morning Dad plays football.,אַבָּא,אַבָּא,"father, dad",2
+L019.S01,In the morning Dad plays football.,אַבָּא,אֲבָל,"but, however",3
+L019.S01,In the morning Dad plays football.,מְשַׂחֵק,מְשַׂחֵק,"plays, acts (m, s)",0
+L019.S01,In the morning Dad plays football.,מְשַׂחֵק,לְשַׂחֵק,"to play (game, role)",1
+L019.S01,In the morning Dad plays football.,כַּדוּרֶגֶל,כַּדּוּרֶגֶל,"soccer, football",1
+L019.S01,In the morning Dad plays football.,כַּדוּרֶגֶל,כַּף רֶגֶל,sole (foot),3
+L019.S02,Mom plays tennis on the beach.,אִמָא,אִימָא,mom,1
+L019.S02,Mom plays tennis on the beach.,אִמָא,אֱמֶת,truth,3
+L019.S02,Mom plays tennis on the beach.,מְשַׂחֶקֶת,מְשַׂחֵק,"plays, acts (m, s)",3
+L019.S02,Mom plays tennis on the beach.,מְשַׂחֶקֶת,לְשַׂחֵק,"to play (game, role)",4
+L019.S02,Mom plays tennis on the beach.,טֶנִיס,טֶנִיס,tennis,0
+L019.S02,Mom plays tennis on the beach.,טֶנִיס,אֲנִי,"I, ego",3
+L019.S02,Mom plays tennis on the beach.,בְּחוֹף,בְּלוֹג,blog,2
+L019.S02,Mom plays tennis on the beach.,בְּחוֹף,בְּעוֹד,"concurrently, while; in another (minute, hour, …)",2
+L019.S02,Mom plays tennis on the beach.,הַיָם,הַאִם,yes-no?,2
+L019.S02,Mom plays tennis on the beach.,הַיָם,הַיוֹם,today,2
+L019.S03,My big brother and my little brother play handball.,אָחִי,אֲנִי,"I, ego",2
+L019.S03,My big brother and my little brother play handball.,אָחִי,אִי,island,2
+L019.S03,My big brother and my little brother play handball.,הַגָדוֹל,גָּדוֹל,big,3
+L019.S03,My big brother and my little brother play handball.,הַגָדוֹל,הַכּוֹל,"everything, all",3
+L019.S03,My big brother and my little brother play handball.,וְאָחִי,יְמָנִי,right (adj.),3
+L019.S03,My big brother and my little brother play handball.,וְאָחִי,צְבָאִי,military (adj.),3
+L019.S03,My big brother and my little brother play handball.,הַקָטָן,קָטָן,"small, little, young; diminutive, insignificant, unimportant",2
+L019.S03,My big brother and my little brother play handball.,הַקָטָן,סַרְטָן,"crab, lobster; cancer, malignancy",3
+L019.S03,My big brother and my little brother play handball.,מְשַׂחֲקִים,לְהַחֲרִים,to boycott; to confiscate,4
+L019.S03,My big brother and my little brother play handball.,מְשַׂחֲקִים,מְשַׂחֵק,"plays, acts (m, s)",4
+L019.S03,My big brother and my little brother play handball.,כַּדוּריָד,כַּדּוּר,"ball, sphere; bullet; pill, tablet",4
+L019.S03,My big brother and my little brother play handball.,כַּדוּריָד,כַּדּוּרְסָל,basketball,4
+L019.S04,My big sister and my little sister play basketball.,אֲחוֹתִי,אָחוֹת,sister; nurse,3
+L019.S04,My big sister and my little sister play basketball.,אֲחוֹתִי,אוֹפִי,"character, nature, personality",3
+L019.S04,My big sister and my little sister play basketball.,הַגדוֹלָה,הַגוֹלָן,the Golan,2
+L019.S04,My big sister and my little sister play basketball.,הַגדוֹלָה,אֲגוֹרָה,100th of a shekel,4
+L019.S04,My big sister and my little sister play basketball.,וְאֲחוֹתִי,מֵאֲחוֹרֵי,behind,4
+L019.S04,My big sister and my little sister play basketball.,וְאֲחוֹתִי,אָחוֹת,sister; nurse,5
+L019.S04,My big sister and my little sister play basketball.,הַקטָנָה,הֲבָנָה,"understanding, comprehension",3
+L019.S04,My big sister and my little sister play basketball.,הַקטָנָה,הֲכָנָה,preparation,3
+L019.S04,My big sister and my little sister play basketball.,מְשַׂחֲקוֹת,לְהַחֲווֹת,"to indicate, gesture, give a sign",4
+L019.S04,My big sister and my little sister play basketball.,מְשַׂחֲקוֹת,מְשַׂחֵק,"plays, acts (m, s)",4
+L019.S04,My big sister and my little sister play basketball.,כַּדוּרסַל,כַּדּוּרְסָל,basketball,3
+L019.S04,My big sister and my little sister play basketball.,כַּדוּרסַל,כַּדּוּר,"ball, sphere; bullet; pill, tablet",4
+L019.S05,I play a video game at home.,אֲנִי,אֲנִי,"I, ego",0
+L019.S05,I play a video game at home.,אֲנִי,אִי,island,2
+L019.S05,I play a video game at home.,מְשַׂחֵק,מְשַׂחֵק,"plays, acts (m, s)",0
+L019.S05,I play a video game at home.,מְשַׂחֵק,לְשַׂחֵק,"to play (game, role)",1
+L019.S05,I play a video game at home.,בְּמִשׂחָק,בְּדִיחָה,joke,4
+L019.S05,I play a video game at home.,בְּמִשׂחָק,מִשְׂחָק,"game, match",4
+L019.S05,I play a video game at home.,וִידֵאוֹ,וִידֵאוֹ,"video, VCR",0
+L019.S05,I play a video game at home.,וִידֵאוֹ,אִיתּוֹ,with him,4
+L019.S05,I play a video game at home.,בַּבַּיִת,בֶּן בַּיִת,"close friend, like one of the family",3
+L019.S05,I play a video game at home.,בַּבַּיִת,בַּיִת,"house, home; stanza (music)",3
+L020.N20,Twentieth lesson,שִׁעוּר,שִׁיעוּר,"lesson, class; rate, measure",1
+L020.N20,Twentieth lesson,שִׁעוּר,שָׁבוּר,"broken, fractured; depressed, despondent",2
+L020.N20,Twentieth lesson,עֶשׂרִים,עֶשְׂרִים,twenty,1
+L020.N20,Twentieth lesson,עֶשׂרִים,הָעֶשְׂרִים,the twentieth,3
+L020.S00,Weekend,סוֹף,סוֹף,"end, finish",0
+L020.S00,Weekend,סוֹף,חוֹף,"beach, shore",1
+L020.S00,Weekend,שָׁבוּעַ,שָׁבוּעַ,week,0
+L020.S00,Weekend,שָׁבוּעַ,הַשָׁבוּעַ,this week,2
+L020.S01,At last! The weekend!,סוֹף,סוֹף,"end, finish",0
+L020.S01,At last! The weekend!,סוֹף,חוֹף,"beach, shore",1
+L020.S01,At last! The weekend!,סוֹף,סוֹף,"end, finish",0
+L020.S01,At last! The weekend!,סוֹף,חוֹף,"beach, shore",1
+L020.S01,At last! The weekend!,סוֹף,סוֹף,"end, finish",0
+L020.S01,At last! The weekend!,סוֹף,חוֹף,"beach, shore",1
+L020.S01,At last! The weekend!,שָׁבוּעַ,שָׁבוּעַ,week,0
+L020.S01,At last! The weekend!,שָׁבוּעַ,הַשָׁבוּעַ,this week,2
+L020.S02,In the morning we swim in the pool.,בַּבּוֹקֶר,בַּצּוֹרֶת,drought,3
+L020.S02,In the morning we swim in the pool.,בַּבּוֹקֶר,בּוֹקֶר,"morning, dawn",3
+L020.S02,In the morning we swim in the pool.,אֲנַחנוּ,אֲנַחְנוּ,we,1
+L020.S02,In the morning we swim in the pool.,אֲנַחנוּ,אֲפִילוּ,even,4
+L020.S02,In the morning we swim in the pool.,שׂחִים,חָמִים,"luke-, a bit warm; pleasant, cozy",3
+L020.S02,In the morning we swim in the pool.,שׂחִים,טָעִים,"tasty, delicious",3
+L020.S02,In the morning we swim in the pool.,בַּבּרֵכָה,בְּרֵיכָה,"(swimming) pool, pond",4
+L020.S02,In the morning we swim in the pool.,בַּבּרֵכָה,בְּרָכָה,"blessing, congratulation, greeting",4
+L020.S03,In the evening we go to friends.,בָּעֶרֶב,עֶרֶב,evening,3
+L020.S03,In the evening we go to friends.,בָּעֶרֶב,בְּעֶצֶם,"in fact, actually",4
+L020.S03,In the evening we go to friends.,אֲנַחנוּ,אֲנַחְנוּ,we,1
+L020.S03,In the evening we go to friends.,אֲנַחנוּ,אֲפִילוּ,even,4
+L020.S03,In the evening we go to friends.,הוֹלכִים,רוֹאִים,"see (m, p)",3
+L020.S03,In the evening we go to friends.,הוֹלכִים,רוֹצִים,"want (m, p)",3
+L020.S03,In the evening we go to friends.,לְחֲבֵרִים,לְבָנִים,"linen, lingerie, undergarments",4
+L020.S03,In the evening we go to friends.,לְחֲבֵרִים,לְהַחֲרִים,to boycott; to confiscate,4
+L020.S04,We talk politics.,מְדַבּרִים,לְהַחֲרִים,to boycott; to confiscate,4
+L020.S04,We talk politics.,מְדַבּרִים,בְּרִית,"covenant, alliance",5
+L020.S04,We talk politics.,עַל,עַל,"on (top), about, super-, above, more/larger than",0
+L020.S04,We talk politics.,עַל,סַל,basket,1
+L020.S04,We talk politics.,פּוֹלִיטִיקָה,פּוֹלִיטִיקָה,politics,0
+L020.S04,We talk politics.,פּוֹלִיטִיקָה,פִיזִיקָה,physics,5
+L020.S05,We chat and have a barbecue.,וְאוֹכלִים,אֱלוֹהִים,God,5
+L020.S05,We chat and have a barbecue.,וְאוֹכלִים,אַקְלִים,climate,5
+L020.S05,We chat and have a barbecue.,עַל,עַל,"on (top), about, super-, above, more/larger than",0
+L020.S05,We chat and have a barbecue.,עַל,סַל,basket,1
+L020.S05,We chat and have a barbecue.,הָאֵשׁ,אֵשׁ,"fire, flame",2
+L020.S05,We chat and have a barbecue.,הָאֵשׁ,חָמֵשׁ,five,2
+L020.S06,A fun weekend!,סוֹף,סוֹף,"end, finish",0
+L020.S06,A fun weekend!,סוֹף,חוֹף,"beach, shore",1
+L020.S06,A fun weekend!,שָׁבוּעַ,שָׁבוּעַ,week,0
+L020.S06,A fun weekend!,שָׁבוּעַ,הַשָׁבוּעַ,this week,2
+L020.S06,A fun weekend!,בְּכֵּף,בְּ־‏,"in (place, time), with (sth. abstract, ""-ly""), among, on (medium)",4
+L020.S06,A fun weekend!,בְּכֵּף,בְּלִי,without,4

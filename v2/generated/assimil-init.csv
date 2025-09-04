@@ -1,0 +1,53 @@
+id,hebrew,english,sound,tags
+L001.N1,שִׁעוּר רִאשׁוֹן٭,NA,[sound:L001.N1.mp3],assimil assimil-01
+L001.S00,TITLE-בּוֹקֶר٭,NA,[sound:L001.S00.mp3],assimil assimil-01
+L001.S01,בּוֹקֶר טוֹב!٭,NA,[sound:L001.S01.mp3],assimil assimil-01
+L001.S02,בּוֹקֶר אוֹר!٭,NA,[sound:L001.S02.mp3],assimil assimil-01
+L001.T01,בוקר٭,NA,[sound:L001.T01.mp3],assimil assimil-01
+L001.T02,טוב٭,NA,[sound:L001.T02.mp3],assimil assimil-01
+L001.T03,אור٭,NA,[sound:L001.T03.mp3],assimil assimil-01
+L001.T04,בוקר טוב.٭,NA,[sound:L001.T04.mp3],assimil assimil-01
+L001.T05,בוקר אור.٭,NA,[sound:L001.T05.mp3],assimil assimil-01
+L002.N2,שִׁעוּר שֵׁנִי٭,NA,[sound:L002.N2.mp3],assimil assimil-02
+L002.S00,TITLE-שָׁלוֹם٭,NA,[sound:L002.S00.mp3],assimil assimil-02
+L002.S01,שָׁלוֹם לִיאוֹר!٭,NA,[sound:L002.S01.mp3],assimil assimil-02
+L002.S02,שָׁלוֹם שִׁירלִי!٭,NA,[sound:L002.S02.mp3],assimil assimil-02
+L002.T01,שלום.٭,NA,[sound:L002.T01.mp3],assimil assimil-02
+L002.T02,שלום ליאור.٭,NA,[sound:L002.T02.mp3],assimil assimil-02
+L002.T03,שלום שירלי.٭,NA,[sound:L002.T03.mp3],assimil assimil-02
+L002.T04,"בוקר אור, ליאור.٭",NA,[sound:L002.T04.mp3],assimil assimil-02
+L002.T05,"בוקר טוב, שירלי.٭",NA,[sound:L002.T05.mp3],assimil assimil-02
+L003.N3,שִׁעוּר שׁלִישִׁי٭,NA,[sound:L003.N3.mp3],assimil assimil-03
+L003.S00,"TITLE-כָּכָה, כָּכָה٭",NA,[sound:L003.S00.mp3],assimil assimil-03
+L003.S01,מַה שׁלוֹמךָ לִיאוֹר?٭,NA,[sound:L003.S01.mp3],assimil assimil-03
+L003.S02,טוֹב.٭,NA,[sound:L003.S02.mp3],assimil assimil-03
+L003.S03,מַה שׁלוֹמֵך שִׁירלִי?٭,NA,[sound:L003.S03.mp3],assimil assimil-03
+L003.S04,"כָּכָה, כָּכָה.٭",NA,[sound:L003.S04.mp3],assimil assimil-03
+L003.T01,"מה שלומך, שירלי?٭",NA,[sound:L003.T01.mp3],assimil assimil-03
+L003.T02,טוב.٭,NA,[sound:L003.T02.mp3],assimil assimil-03
+L003.T03,"מה שלומך, ליאור?٭",NA,[sound:L003.T03.mp3],assimil assimil-03
+L003.T04,"ככה, ככה.٭",NA,[sound:L003.T04.mp3],assimil assimil-03
+L003.T05,"שלום, מה שלומך?٭",NA,[sound:L003.T05.mp3],assimil assimil-03
+L004.N4,שִׁעוּר רְבִיעִי٭,NA,[sound:L004.N4.mp3],assimil assimil-04
+L004.S00,TITLE-תוֹדָה٭,NA,[sound:L004.S00.mp3],assimil assimil-04
+L004.S01,מַה אַתָה שׁוֹתֶה?٭,NA,[sound:L004.S01.mp3],assimil assimil-04
+L004.S02,"תֵה, תוֹדָה.٭",NA,[sound:L004.S02.mp3],assimil assimil-04
+L004.S03,מַה אַת שׁוֹתָה?٭,NA,[sound:L004.S03.mp3],assimil assimil-04
+L004.S04,"בִּירָה, תוֹדָה.٭",NA,[sound:L004.S04.mp3],assimil assimil-04
+L004.T01,אתה שותה בירה.٭,NA,[sound:L004.T01.mp3],assimil assimil-04
+L004.T02,את שותה תה.٭,NA,[sound:L004.T02.mp3],assimil assimil-04
+L004.T03,תודה.٭,NA,[sound:L004.T03.mp3],assimil assimil-04
+L004.T04,"שלום את, שותה בירה?٭",NA,[sound:L004.T04.mp3],assimil assimil-04
+L004.T05,"בוקר טוב, אתה שותה תה?٭",NA,[sound:L004.T05.mp3],assimil assimil-04
+L005.N5,שִׁעוּר חֲמִישִׁי٭,NA,[sound:L005.N5.mp3],assimil assimil-05
+L005.S00,TITLE-עִברִית٭,NA,[sound:L005.S00.mp3],assimil assimil-05
+L005.S01,"בּוֹקֶר טוֹב, דָן!٭",NA,[sound:L005.S01.mp3],assimil assimil-05
+L005.S02,מַה אַתָה לוֹמֵד?٭,NA,[sound:L005.S02.mp3],assimil assimil-05
+L005.S03,אֲנִי לוֹמֵד עִברִית.٭,NA,[sound:L005.S03.mp3],assimil assimil-05
+L005.S04,"לֵאָה, מַה אַת לוֹמֶדֶת?٭",NA,[sound:L005.S04.mp3],assimil assimil-05
+L005.S05,אֲנִי לוֹמֶדֶת לָטִינִית.٭,NA,[sound:L005.S05.mp3],assimil assimil-05
+L005.T01,לאה לומדת עברית.٭,NA,[sound:L005.T01.mp3],assimil assimil-05
+L005.T02,דן לומד לטינית.٭,NA,[sound:L005.T02.mp3],assimil assimil-05
+L005.T03,אתה לומד.٭,NA,[sound:L005.T03.mp3],assimil assimil-05
+L005.T04,את לומדת.٭,NA,[sound:L005.T04.mp3],assimil assimil-05
+L005.T05,מה שירלי לומדת?٭,NA,[sound:L005.T05.mp3],assimil assimil-05

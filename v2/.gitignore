@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Generated files - don't track these
+output/
+
+# Test data - don't commit large audio files
+test-data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
