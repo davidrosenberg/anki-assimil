@@ -1,65 +1,67 @@
-# Anki-Assimil Version 3 (Planned)
+# Anki-Assimil V3
 
-Future modernized version of the Hebrew Assimil-to-Anki integration system.
+Modern Hebrew language learning integration with Anki via AnkiConnect API.
 
-## Status
-🚧 **In Development** - V2 is obsolete due to Anki export format changes
+## Quick Start
 
-## Planned Improvements
+### 1. Setup Virtual Environment
+```bash
+cd v3
+python3 -m venv .venv
+source .venv/bin/activate
+pip install typer rich pyyaml requests mutagen python-Levenshtein pandas
+```
 
-Version 3 will build on V2's foundation with modern enhancements:
+### 2. Check Status
+```bash
+python3 main.py status
+```
+This will show you what files are available and the current state of your setup.
 
-### Architecture
-- Enhanced modular design
-- Improved error handling and validation
-- Better configuration management
-- Plugin architecture for extensibility
+### 3. Basic Workflow
+```bash
+# Extract audio from new lessons
+python3 main.py extract-audio --lessons "1-5"
 
-### User Experience  
-- Interactive CLI with guided workflows
-- Progress tracking and resume capability
-- Better validation and error messages
-- Automated backup and recovery
+# Sync completed translations to Anki (creates bidirectional cards + uploads audio)
+python3 main.py sync-phrases
+```
 
-### Technical Improvements
-- **Direct Anki integration via AnkiConnect API**
-  - Read vocabulary via SQLite (read-only, efficient)
-  - Write tags via AnkiConnect (safe, validated)
-  - Eliminate export/import cycle entirely
+**Note**: Make sure Anki is running with the AnkiConnect addon installed for syncing to work.
+
+## Features
+
+### ✅ Implemented
+- **Direct Anki integration via AnkiConnect API** - no more manual imports!
+- **Automatic audio file upload** - media files sync directly to Anki
+- **Bidirectional cards** - practice Hebrew → English and English → Hebrew
+- **Incremental processing** - only process new lessons
+- **Word matching with fuzzy search** - find Hebrew vocabulary in your existing deck
+- **Interactive CLI** with rich formatting and progress tracking
+
+### Architecture Improvements
+- Modular design with clear separation of concerns
+- Enhanced error handling and validation
+- Configuration management via YAML
 - Type hints throughout codebase
-- Comprehensive test suite
-- CI/CD pipeline integration
-- Performance optimizations
+- Eliminated manual export/import cycles
 
-### Features
-- Support for multiple language courses
-- Advanced matching algorithms
-- Batch processing capabilities
-- Integration with multiple SRS systems
-- **Auto-generate vocabulary cards for unmatched Assimil words**
-  - Identify words in lessons not present in existing Anki deck
-  - Extract/lookup definitions for new vocabulary
-  - Create new Anki cards with proper lesson tagging
-  - Complete vocabulary coverage for each lesson
+## Commands
 
-## Future Enhancements
-
-### English Translation Matching (V1 Feature)
-V1 implemented a sophisticated dual matching approach using both Hebrew-Hebrew similarity and English translation context that V3 currently lacks:
-
-- **Cross-language validation**: Used lesson English translations to find Hebrew candidates via reverse lookup
-- **Context-aware matching**: English words like "morning" → Hebrew candidates ["בוקר", ...] 
-- **Higher confidence matches**: Hebrew similarity + English context validation
-
-This approach provided better match quality by leveraging semantic context, but was omitted from V3 to focus on architectural improvements. Could be reintroduced as an optional matching strategy to improve precision.
+```bash
+python3 main.py status                    # Check file status
+python3 main.py extract-audio            # Extract audio and create CSV
+python3 main.py sync-phrases             # Sync to Anki (cards + audio)
+python3 main.py match-words              # Generate word matching suggestions  
+python3 main.py apply-tags               # Apply vocabulary tags to Anki cards
+```
 
 ## Migration from V2
 
-When V3 is ready, migration from V2 will include:
-- Automated configuration conversion
-- Data format compatibility
-- Step-by-step migration guide
+V3 is now fully functional and provides significant improvements over V2:
+- No more manual CSV imports - everything syncs automatically
+- Audio files upload directly to Anki's media directory
+- Better error handling and user feedback
+- Simplified workflow with fewer manual steps
 
-## Development
-
-V3 development will begin after V2 reaches feature completeness. See [Version 2](../v2/) for current development.
+See the [main project documentation](../CLAUDE.md) for detailed usage patterns.
