@@ -102,8 +102,8 @@ class WordMatchingPipeline:
         return self.lesson_matches
 
     def _generate_lesson_tag(self, lesson_num: int) -> str:
-        """Generate lesson tag in consistent format"""
-        return f"assimil::lesson{lesson_num:02d}"
+        """Generate lesson tag in consistent format (assimil::LNN)"""
+        return f"assimil::L{lesson_num:02d}"
 
     def _should_tag_card(self, word_match: WordMatch, lesson_tag: str) -> bool:
         """Determine if card should be tagged (avoid duplicate tags)"""
@@ -158,44 +158,6 @@ class WordMatchingPipeline:
 
         return stats
 
-    def save_approved_matches_from_csv(self, csv_path: Path) -> bool:
-        """
-        Load approved matches from CSV and save to persistent storage
-
-        Args:
-            csv_path: Path to CSV with human-approved matches
-
-        Returns:
-            True if successful
-        """
-        from src.csv_export import CSVImporter
-
-        importer = CSVImporter(self)
-        approved_suggestions = importer.load_approved_matches(csv_path)
-
-        if not approved_suggestions:
-            return False
-
-        # Convert to StoredMatch objects
-        stored_matches = []
-        for suggestion in approved_suggestions:
-            stored_match = StoredMatch(
-                lesson=suggestion.lesson,
-                heb_word=suggestion.heb_word,
-                anki_hebrew=suggestion.match_word,
-                anki_english=suggestion.match_word_def,
-                card_id=suggestion.card_id,
-                match_type='approved'
-            )
-            stored_matches.append(stored_match)
-
-        # Save to persistence
-        success = self.persistence.save_approved_matches(stored_matches)
-
-        if success:
-            print(f"Saved {len(stored_matches)} approved matches to persistent storage")
-
-        return success
 
     def get_matching_summary(self) -> Dict[str, any]:
         """Get summary of matching results"""
@@ -222,81 +184,3 @@ class WordMatchingPipeline:
             'persistence_stats': self.persistence.get_statistics()
         }
 
-    def print_detailed_results(self):
-        """Print detailed matching results for review"""
-        print("\n" + "="*60)
-        print("DETAILED MATCHING RESULTS")
-        print("="*60)
-
-        for lesson_num in sorted(self.lesson_matches.keys()):
-            matches = self.lesson_matches[lesson_num]
-            print(f"\nLesson {lesson_num}: {len(matches)} matches")
-            print("-" * 40)
-
-            for match in matches:
-                lw = match.lesson_word
-                wm = match.word_match
-                ac = wm.anki_card
-
-                print(f"Context: '{lw.context}'")
-                print(f"  Word: {lw.word} -> {lw.normalized}")
-                print(f"  Match: {ac.hebrew} -> {ac.english}")
-                print(f"  Type: {wm.match_type}, Score: {wm.similarity_score}")
-                print(f"  Tag: {match.lesson_tag} ({'APPLY' if match.should_tag else 'SKIP'})")
-                print()
-
-
-def run_word_matching_pipeline(config: dict, max_lessons: Optional[int] = None, apply_tags: bool = False) -> WordMatchingPipeline:
-    """
-    Run the complete word matching pipeline
-
-    Args:
-        config: Configuration dictionary
-        max_lessons: Maximum lessons to process
-        apply_tags: Whether to actually apply tags to Anki cards
-
-    Returns:
-        WordMatchingPipeline instance with results
-    """
-    pipeline = WordMatchingPipeline(config)
-
-    # Process lessons and match words
-    pipeline.process_lessons(max_lessons)
-
-    # Show summary
-    summary = pipeline.get_matching_summary()
-    print(f"\nMATCHING SUMMARY:")
-    print(f"Lessons processed: {summary['lessons_processed']}")
-    print(f"Word matches found: {summary['total_word_matches']}")
-    print(f"  - Exact matches: {summary['exact_matches']}")
-    print(f"  - Fuzzy matches: {summary['fuzzy_matches']}")
-
-    # Apply tags
-    if apply_tags:
-        print(f"\nApplying tags to Anki cards...")
-        tag_stats = pipeline.apply_tags_to_anki(dry_run=False)
-    else:
-        print(f"\nDry run - showing what would be tagged:")
-        tag_stats = pipeline.apply_tags_to_anki(dry_run=True)
-
-    print(f"\nTAGGING SUMMARY:")
-    print(f"Cards to tag: {tag_stats['cards_to_tag']}")
-    print(f"Already tagged: {tag_stats['cards_already_tagged']}")
-    if apply_tags:
-        print(f"Tags applied: {tag_stats['tags_applied']}")
-        print(f"Errors: {tag_stats['errors']}")
-
-    return pipeline
-
-
-if __name__ == "__main__":
-    import yaml
-
-    with open("config.yaml") as f:
-        config = yaml.safe_load(f)
-
-    # Run pipeline with first 2 lessons
-    pipeline = run_word_matching_pipeline(config, max_lessons=2, apply_tags=False)
-
-    # Show detailed results
-    pipeline.print_detailed_results()

@@ -11,22 +11,22 @@ from typing import List, Tuple, Iterator
 TokenType = str
 Token = Tuple[TokenType, str]
 
-def heb(s: str, t: str) -> Token:
+def heb(s, t: str) -> Token:
     return ('HEB', t)
 
-def eng(s: str, t: str) -> Token:
+def eng(s, t: str) -> Token:
     return ('ENG', t)
 
-def num(s: str, t: str) -> Token:
+def num(s, t: str) -> Token:
     return ('NUM', t)
 
-def url(s: str, t: str) -> Token:
+def url(s, t: str) -> Token:
     return ('URL', t)
 
-def punct(s: str, t: str) -> Token:
+def punct(s, t: str) -> Token:
     return ('PUNCT', t)
 
-def junk(s: str, t: str) -> Token:
+def junk(s, t: str) -> Token:
     return ('JUNK', t)
 
 # Unicode ranges for Hebrew text processing

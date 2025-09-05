@@ -1,13 +1,16 @@
 """
 AnkiConnect API integration for direct Anki communication
 """
+import os
 import requests
 from typing import Dict, List, Optional, Any
 from rich.console import Console
 
 console = Console()
 
-ANKI_CONNECT_URL = "http://localhost:8765"
+def _anki_url() -> str:
+    """Resolve AnkiConnect URL from env with sensible default."""
+    return os.getenv("ANKI_CONNECT_URL", "http://localhost:8765")
 
 def anki_request(action: str, params: Dict = None) -> Optional[Any]:
     """
@@ -30,7 +33,7 @@ def anki_request(action: str, params: Dict = None) -> Optional[Any]:
     }
 
     try:
-        response = requests.post(ANKI_CONNECT_URL, json=payload, timeout=10)
+        response = requests.post(_anki_url(), json=payload, timeout=10)
         response.raise_for_status()
 
         result = response.json()
@@ -59,56 +62,23 @@ def get_deck_info(deck_name: str) -> Optional[Dict]:
     Returns:
         Deck info dictionary or None if not found
     """
-    # Get all deck names
+    # Verify deck exists
     deck_names = anki_request("deckNames")
     if not deck_names or deck_name not in deck_names:
         return None
 
-    # Get deck stats
-    stats = anki_request("getDeckStats", {"decks": [deck_name]})
-    if not stats:
-        return None
-
-    # Find the deck stats by matching the name
-    deck_stats = None
-    for deck_id, deck_data in stats.items():
-        if deck_data.get("name") == deck_name:
-            deck_stats = deck_data
-            break
-
-    if not deck_stats:
-        return None
+    # Compute counts via findCards queries
+    total_cards = anki_request("findCards", {"query": f"deck:\"{deck_name}\""}) or []
+    new_cards = anki_request("findCards", {"query": f"deck:\"{deck_name}\" is:new"}) or []
+    review_cards = anki_request("findCards", {"query": f"deck:\"{deck_name}\" is:review"}) or []
 
     return {
         "name": deck_name,
-        "card_count": deck_stats.get("total_in_deck", 0),
-        "new_count": deck_stats.get("new_count", 0),
-        "review_count": deck_stats.get("review_count", 0)
+        "card_count": len(total_cards),
+        "new_count": len(new_cards),
+        "review_count": len(review_cards),
     }
 
-def get_hebrew_vocabulary(deck_name: str = "Hebrew") -> List[Dict]:
-    """
-    Get all Hebrew vocabulary from specified deck
-
-    Args:
-        deck_name: Name of the Hebrew deck
-
-    Returns:
-        List of note dictionaries with Hebrew words and metadata
-    """
-    # Find all notes in Hebrew deck
-    note_ids = anki_request("findNotes", {"query": f"deck:{deck_name}"})
-    if not note_ids:
-        console.print(f"[yellow]No notes found in deck: {deck_name}[/yellow]")
-        return []
-
-    # Get note details
-    notes_info = anki_request("notesInfo", {"notes": note_ids})
-    if not notes_info:
-        return []
-
-    console.print(f"[green]✓[/green] Loaded {len(notes_info)} vocabulary notes from {deck_name}")
-    return notes_info
 
 def add_tags_to_notes(note_ids: List[int], tags: List[str]) -> bool:
     """
@@ -132,9 +102,9 @@ def add_tags_to_notes(note_ids: List[int], tags: List[str]) -> bool:
             "tags": " ".join(tags)
         }
     }
-
+    
     try:
-        response = requests.post(ANKI_CONNECT_URL, json=payload, timeout=10)
+        response = requests.post(_anki_url(), json=payload, timeout=10)
         response.raise_for_status()
 
         result = response.json()

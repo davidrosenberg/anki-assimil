@@ -6,7 +6,6 @@ from pathlib import Path
 from typing import List, Dict, Set
 from rich.console import Console
 import csv
-import unicodedata
 from .anki_api import anki_request, create_note, create_deck
 
 console = Console()

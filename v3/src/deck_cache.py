@@ -7,7 +7,6 @@ import pickle
 from pathlib import Path
 from typing import Dict, List, Optional
 from datetime import datetime, timedelta
-import hashlib
 
 from src.anki_api import anki_request
 from src.tokenizer import normalize_hebrew_word
@@ -204,10 +203,6 @@ class DeckCache:
 
         return None
 
-    def refresh_cache(self, deck_name: str) -> Dict[str, any]:
-        """Force refresh of deck cache"""
-        print(f"Force refreshing cache for: {deck_name}")
-        return self.cache_deck(deck_name)
 
     def clear_cache(self, deck_name: Optional[str] = None):
         """Clear cache for specific deck or all decks"""
