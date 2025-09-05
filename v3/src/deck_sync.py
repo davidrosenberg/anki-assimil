@@ -87,7 +87,7 @@ def get_existing_cards_by_id(deck_name: str) -> Dict[str, int]:
     console.print(f"[green]✓[/green] Found {len(existing_cards)} existing cards with IDs in {deck_name}")
     return existing_cards
 
-def sync_phrase_cards(translations: List[Dict], deck_name: str, note_type: str = "Basic") -> Dict[str, int]:
+def sync_phrase_cards(translations: List[Dict], deck_name: str, note_type: str = "Basic (and reversed card)") -> Dict[str, int]:
     """
     Sync phrase cards in Anki (create new, update existing)
 
@@ -175,6 +175,63 @@ def sync_phrase_cards(translations: List[Dict], deck_name: str, note_type: str =
 
     return {"created": created_count, "updated": updated_count}
 
+
+def sync_media_files(translations: List[Dict], config: Dict) -> Dict[str, int]:
+    """
+    Upload media files referenced in translations to Anki using AnkiConnect
+    
+    Args:
+        translations: List of translation dictionaries with sound fields
+        config: Configuration with media directory path
+        
+    Returns:
+        Dictionary with counts of uploaded and failed files
+    """
+    from .anki_api import store_media_file
+    
+    media_dir = Path(config['paths']['anki_media_dir'])
+    uploaded_count = 0
+    failed_count = 0
+    skipped_count = 0
+    
+    console.print(f"[bold blue]Syncing media files from {media_dir}...[/bold blue]")
+    
+    # Extract unique audio files from sound fields
+    audio_files = set()
+    for translation in translations:
+        sound_field = translation.get('sound', '')
+        if sound_field and '[sound:' in sound_field:
+            # Extract filename from [sound:filename.mp3] format
+            import re
+            match = re.search(r'\[sound:([^\]]+)\]', sound_field)
+            if match:
+                filename = match.group(1)
+                audio_files.add(filename)
+    
+    console.print(f"Found {len(audio_files)} unique audio files to sync")
+    
+    for filename in sorted(audio_files):
+        source_path = media_dir / filename
+        
+        if not source_path.exists():
+            console.print(f"  ⚠ Missing: {filename}")
+            failed_count += 1
+            continue
+            
+        # Store in Anki using AnkiConnect
+        result = store_media_file(filename, source_path, delete_existing=False)
+        
+        if result:
+            uploaded_count += 1
+            console.print(f"  ✓ {filename}")
+        else:
+            failed_count += 1
+            console.print(f"  ✗ Failed: {filename}")
+    
+    console.print(f"\n[green]✓[/green] Media sync: {uploaded_count} uploaded, {failed_count} failed")
+    
+    return {"uploaded": uploaded_count, "failed": failed_count}
+
 def sync_phrases_to_anki(config: Dict) -> bool:
     """
     Sync completed phrase translations to Anki deck
@@ -205,11 +262,18 @@ def sync_phrases_to_anki(config: Dict) -> bool:
     # Sync phrase cards (create new, update existing)
     results = sync_phrase_cards(translations, deck_name)
 
-    total_changes = results["created"] + results["updated"]
-    if total_changes > 0:
+    # Sync media files to Anki's media directory
+    media_results = sync_media_files(translations, config)
+
+    # Summary
+    total_card_changes = results["created"] + results["updated"]
+    total_media_uploaded = media_results["uploaded"]
+    
+    if total_card_changes > 0 or total_media_uploaded > 0:
         console.print(f"\n[green]🎉 Sync complete![/green]")
-        console.print(f"[dim]Created {results['created']}, Updated {results['updated']} cards in '{deck_name}' deck[/dim]")
+        console.print(f"[dim]Cards: {results['created']} created, {results['updated']} updated[/dim]")
+        console.print(f"[dim]Media: {media_results['uploaded']} uploaded, {media_results['failed']} failed[/dim]")
     else:
-        console.print(f"\n[green]Deck is up to date[/green]")
+        console.print(f"\n[green]Everything is up to date[/green]")
 
     return True

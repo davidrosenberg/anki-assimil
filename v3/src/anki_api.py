@@ -3,6 +3,7 @@ AnkiConnect API integration for direct Anki communication
 """
 import os
 import requests
+from pathlib import Path
 from typing import Dict, List, Optional, Any
 from rich.console import Console
 
@@ -237,3 +238,34 @@ def create_note(deck_name: str, model_name: str, fields: Dict[str, str],
 
     result = anki_request("addNote", {"note": note_data})
     return result
+
+
+def store_media_file(filename: str, file_path: Path, delete_existing: bool = True) -> Optional[str]:
+    """
+    Store a media file in Anki's media directory using AnkiConnect
+    
+    Args:
+        filename: Name for the file in Anki's media directory
+        file_path: Path to the source file
+        delete_existing: Whether to overwrite existing files
+        
+    Returns:
+        Filename if successful, None if failed
+    """
+    if not file_path.exists():
+        console.print(f"[red]Media file not found: {file_path}[/red]")
+        return None
+        
+    try:
+        params = {
+            "filename": filename,
+            "path": str(file_path.absolute()),
+            "deleteExisting": delete_existing
+        }
+        
+        result = anki_request("storeMediaFile", params)
+        return result
+        
+    except Exception as e:
+        console.print(f"[red]Error storing media file {filename}: {e}[/red]")
+        return None
