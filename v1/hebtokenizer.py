@@ -19,13 +19,13 @@
 
 
 """
- Robust Hebrew Tokenizer 
+ Robust Hebrew Tokenizer
 
  works as a filter:
    hebtokenizer.py < in > out
-   
+
  run as:
-   hebtokenizer.py -h  
+   hebtokenizer.py -h
  for options
 
  KNOWN ISSUES:
@@ -60,7 +60,7 @@ _heb_letter = u"([\u05d0-\u05ea\u05b0-\u05c4]|[\u05d3\u05d2\u05d6\u05e6\u05ea\u0
 #_heb_word_plus = u"[א-ת%s]([.'`\"\-/\\]?['`]?[א-ת%s0-9'`])*" % (_NIKUD,_NIKUD)
 _heb_word_plus = u'[\u05d0-\u05ea\u05b0-\u05c4]([.\'`\\"\\-/\\\\]?[\'`]?[\u05d0-\u05ea\u05b0-\u05c40-9\'`])*'
 # english/latin words  (do not care about abbreviations vs. eos for english)
-_eng_word = u"[a-zA-Z][a-zA-Z0-9'.]*"  
+_eng_word = u"[a-zA-Z][a-zA-Z0-9'.]*"
 
 # numerical expression (numbers and various separators)
 #_numeric = r"[+-]?[0-9.,/\-:]*[0-9%]"

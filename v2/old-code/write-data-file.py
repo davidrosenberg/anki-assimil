@@ -71,6 +71,6 @@ fieldnames = ['id', 'hebrew', 'english', 'sound', 'tags']
 with open('assimil.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile, fieldnames=fieldnames)
     for row in reader:
-        
+
         print(row)
 

@@ -28,7 +28,7 @@ nextTwenty = today + 20*60 #integer time in 20 minutes
 query="select count(id) from cards where queue = 1 and due < %s" % nextTwenty
 learnAheadCards = col.db.scalar(query)
 
-print("You have %s learning cards due in Anki" % learnAheadCards) 
+print("You have %s learning cards due in Anki" % learnAheadCards)
 
 col.close()
 

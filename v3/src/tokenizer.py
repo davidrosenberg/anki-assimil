@@ -11,22 +11,22 @@ from typing import List, Tuple, Iterator
 TokenType = str
 Token = Tuple[TokenType, str]
 
-def heb(s: str, t: str) -> Token: 
+def heb(s: str, t: str) -> Token:
     return ('HEB', t)
 
-def eng(s: str, t: str) -> Token: 
+def eng(s: str, t: str) -> Token:
     return ('ENG', t)
 
-def num(s: str, t: str) -> Token: 
+def num(s: str, t: str) -> Token:
     return ('NUM', t)
 
-def url(s: str, t: str) -> Token: 
+def url(s: str, t: str) -> Token:
     return ('URL', t)
 
-def punct(s: str, t: str) -> Token: 
+def punct(s: str, t: str) -> Token:
     return ('PUNCT', t)
 
-def junk(s: str, t: str) -> Token: 
+def junk(s: str, t: str) -> Token:
     return ('JUNK', t)
 
 # Unicode ranges for Hebrew text processing
@@ -36,7 +36,7 @@ _TEAMIM = "\u0591-\u05af"  # Hebrew cantillation marks (teamim)
 def undigraph(x: str) -> str:
     """Convert Hebrew digraphs to regular letters"""
     return (x.replace("\u05f0", "וו")  # Hebrew ligature Yod Yod
-             .replace("\u05f1", "וי")  # Hebrew ligature Vav Yod  
+             .replace("\u05f1", "וי")  # Hebrew ligature Vav Yod
              .replace("\u05f2", "יי")  # Hebrew ligature Yod Yod Patah
              .replace("\ufb4f", "אל")  # Hebrew ligature Alef Lamed
              .replace("\u200d", ""))   # Zero width joiner
@@ -83,7 +83,7 @@ scanner = re.Scanner([
     (_eng_word, eng),         # English/Latin words
     (_numeric, num),          # Numbers with separators
     (_opening_punc, punct),   # Opening brackets/quotes
-    (_closing_punc, punct),   # Closing brackets/quotes  
+    (_closing_punc, punct),   # Closing brackets/quotes
     (_eos_punct, punct),      # End of sentence punctuation
     (_internal_punct, punct), # Commas, colons, etc.
     (_junk, junk),           # Everything else
@@ -92,10 +92,10 @@ scanner = re.Scanner([
 def tokenize(text: str) -> List[Token]:
     """
     Tokenize Hebrew text into typed tokens
-    
+
     Args:
         text: Hebrew text to tokenize
-        
+
     Returns:
         List of (type, token) tuples
     """
@@ -108,32 +108,32 @@ def tokenize(text: str) -> List[Token]:
 def extract_hebrew_words(text: str) -> List[str]:
     """
     Extract only Hebrew words from text
-    
+
     Args:
         text: Text to extract Hebrew words from
-        
+
     Returns:
         List of Hebrew words (normalized)
     """
     tokens = tokenize(text)
     hebrew_words = []
-    
+
     for token_type, token in tokens:
         if token_type == 'HEB':
             # Clean and normalize the Hebrew word
             cleaned = undigraph(token.strip())
             if cleaned:
                 hebrew_words.append(cleaned)
-                
+
     return hebrew_words
 
 def normalize_hebrew_word(word: str) -> str:
     """
     Normalize Hebrew word for consistent matching
-    
+
     Args:
         word: Hebrew word to normalize
-        
+
     Returns:
         Normalized Hebrew word
     """
@@ -147,6 +147,6 @@ if __name__ == "__main__":
     test_text = "בוקר טוב! איך אתה?"
     tokens = tokenize(test_text)
     words = extract_hebrew_words(test_text)
-    
+
     print("Tokens:", tokens)
     print("Hebrew words:", words)

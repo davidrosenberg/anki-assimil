@@ -148,7 +148,7 @@ for row in rows:
     for word in words:
         if (word in all_seen_words):
             seen_words.append(word)
-        else: 
+        else:
             all_seen_words.append(word)
             if word in wordlist:
                 word_refs.append(word)
@@ -178,7 +178,7 @@ fieldnames = ['id', 'hebrew', 'english', 'sound', 'tags']
 with open('assimil.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile, fieldnames=fieldnames)
     for row in reader:
-        
+
         print(row)
 
 ##
