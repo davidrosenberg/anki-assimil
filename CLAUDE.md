@@ -44,7 +44,7 @@ python main.py export-anki                     # Create Anki import files
 ### Testing Commands
 No automated tests present. Validation is done through:
 - `python main.py status` to verify file structure
-- Manual review of generated CSV files in output/ directory
+- Manual review of generated CSV files in generated/ directory
 
 ## Key File Structure
 
@@ -53,15 +53,17 @@ No automated tests present. Validation is done through:
 - `v2/input/alldecks.txt`: Anki vocabulary export (tab-separated)
 - `v2/test-data/assimil-course/L*/`: MP3 files with Hebrew metadata
 
-### Working Files (Human-edited)
-- `v2/working/assimil.csv`: Lesson phrases with English translations
-- `v2/working/assimil-words.csv`: Curated word matches
-- `v2/working/assimil-words-extra.csv`: Additional manual matches
+### Human-Curated Files
+- `v2/data/assimil.csv`: Lesson phrases with English translations
+- `v2/data/assimil-words.csv`: Curated word matches
+- `v2/data/assimil-words-extra.csv`: Additional manual matches
 
-### Output Files (Generated)
-- `v2/output/assimil-init.csv`: Initial extraction for translation
-- `v2/output/assimil-words-init.csv`: Word matching suggestions
-- `v2/output/assimil-tag-update.csv`: Final Anki import file
+### Generated Files
+- `v2/generated/assimil-init.csv`: Initial extraction for translation
+- `v2/generated/assimil-words-init.csv`: Word matching suggestions
+- `v2/generated/assimil-tag-update.csv`: Final Anki import file
+
+Note: Some older references use `working/` (≈ `data/`) and `output/` (≈ `generated/`). Prefer the canonical names above in new contributions.
 
 ## Data Flow
 

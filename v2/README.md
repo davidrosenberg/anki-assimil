@@ -84,6 +84,11 @@ Creates `generated/assimil-tag-update.csv` for importing back into Anki with les
 - `generated/` - Auto-generated files (don't edit these)
 - `src/` - Source code modules
 
+## Directory Conventions
+
+- Canonical folders: use `data/` for human-edited artifacts and `generated/` for auto-produced outputs.
+- Legacy aliases: some older scripts refer to `working/` (≙ `data/`) and `output/` (≙ `generated/`). If those exist locally, treat them as synonyms but prefer the canonical names in new code and docs.
+
 ## Key Files Explained
 
 ### assimil.csv - Phrase Cards Content
