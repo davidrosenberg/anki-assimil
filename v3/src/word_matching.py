@@ -103,7 +103,8 @@ class WordMatchingPipeline:
 
     def _generate_lesson_tag(self, lesson_num: int) -> str:
         """Generate lesson tag in consistent format (assimil::LNN)"""
-        return f"assimil::L{lesson_num:02d}"
+        from .tags import generate_lesson_tag
+        return generate_lesson_tag('assimil', lesson_num)
 
     def _should_tag_card(self, word_match: WordMatch, lesson_tag: str) -> bool:
         """Determine if card should be tagged (avoid duplicate tags)"""

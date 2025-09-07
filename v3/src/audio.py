@@ -110,15 +110,18 @@ def extract_mp3_metadata(mp3_file: Path) -> Optional[Dict[str, str]]:
 
         # Generate unique ID
         unique_id = f"{lesson}.{section_id}"
-        lesson_tag = f"assimil-{lesson_num}"
         new_filename = f"{unique_id}.mp3"
+
+        # Use centralized tag generation
+        from .tags import generate_lesson_tags, format_tags_for_anki
+        tags = generate_lesson_tags('assimil', int(lesson_num))
 
         return {
             'id': unique_id,
             'hebrew': hebrew_text,
             'english': 'NA',
             'sound': f'[sound:{new_filename}]',
-            'tags': f'assimil {lesson_tag}',
+            'tags': format_tags_for_anki(tags),
             'lesson': lesson,
             'lesson_num': lesson_num,
             'section_id': section_id,
