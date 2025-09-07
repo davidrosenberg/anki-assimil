@@ -8,7 +8,7 @@ anki:
   
 # File paths
 paths:
-  assimil_course_dir: ../v2/test-data/assimil-course
+  assimil_course_dir: ~/Dropbox/Hebrew/Assimil Hebrew
   anki_media_dir: ../v2/test-data/anki-media
 
 # Processing settings  
