@@ -121,45 +121,6 @@ def add_tags_to_notes(note_ids: List[int], tags: List[str]) -> bool:
         console.print(f"[red]Failed to connect to AnkiConnect:[/red] {e}")
         return False
 
-def update_note_tags(note_id: int, tags: List[str]) -> bool:
-    """
-    Replace all tags on a note
-
-    Args:
-        note_id: Note ID to update
-        tags: List of tags to set (replaces existing tags)
-
-    Returns:
-        True if successful or no change needed
-    """
-    # Get the current note info to see existing tags
-    note_info = anki_request("notesInfo", {"notes": [note_id]})
-    if not note_info:
-        return False
-
-    current_tags = set(note_info[0].get("tags", []))
-    target_tags = set(tags)
-
-    # Check if tags are already correct
-    if current_tags == target_tags:
-        return True  # No change needed
-
-    # Remove existing tags from this note
-    if current_tags:
-        anki_request("removeTags", {
-            "notes": [note_id],
-            "tags": " ".join(current_tags)
-        })
-
-    # Add new tags
-    if tags:
-        result = anki_request("addTags", {
-            "notes": [note_id],
-            "tags": " ".join(tags)
-        })
-        return result is not None
-
-    return True
 
 def create_deck(deck_name: str) -> bool:
     """
