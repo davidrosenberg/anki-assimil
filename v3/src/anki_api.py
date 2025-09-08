@@ -173,6 +173,16 @@ def add_tags_to_cards(card_ids: List[int], tags: List[str]) -> bool:
     # Add tags to notes
     return add_tags_to_notes(note_ids, tags)
 
+def get_existing_assimil_media() -> set:
+    """
+    Get all existing assimil-prefixed media files in one batch call
+    
+    Returns:
+        Set of existing assimil media filenames
+    """
+    result = anki_request("getMediaFilesNames", {"pattern": "assimil-*"})
+    return set(result) if result else set()
+
 def create_note(deck_name: str, model_name: str, fields: Dict[str, str],
                 tags: List[str] = None) -> Optional[int]:
     """

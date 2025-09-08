@@ -168,29 +168,36 @@ def sync_phrase_cards(translations: List[Dict], deck_name: str, note_type: str =
     return {"created": created_count}
 
 
-def build_media_lookup_table(course_dir: Path) -> Dict[str, Path]:
+def get_media_mapping_file(course_dir: Path) -> Path:
+    """Get path to the media mapping file for this course directory"""
+    # Create mapping file in data directory, named after course directory
+    course_name = course_dir.name.replace(" ", "_").replace("/", "_")
+    return Path("data") / f"media_mapping_{course_name}.json"
+
+def create_media_mapping_file(course_dir: Path) -> Dict[str, str]:
     """
-    Build a lookup table mapping anki filenames to original file paths
-    Uses filename patterns instead of reading MP3 metadata for speed
+    Create a complete media mapping file for the entire Assimil directory
+    Maps Anki filenames to relative paths from course directory
     
     Args:
         course_dir: Base course directory path
         
     Returns:
-        Dictionary mapping anki filename (L001.S02.mp3) to original file path
+        Dictionary mapping anki filename to relative path
     """
     import re
+    import json
     
-    console.print(f"[bold blue]Building media lookup table from {course_dir}...[/bold blue]")
+    console.print(f"[bold blue]Creating media mapping file for {course_dir}...[/bold blue]")
     
-    lookup_table = {}
+    mapping = {}
     mp3_files = list(course_dir.rglob("*.mp3"))
     
     console.print(f"Found {len(mp3_files)} MP3 files")
     
     for mp3_file in mp3_files:
-        # Parse lesson directory and filename to build anki filename
-        # Expected structure: L001-Hebrew ASSIMIL/S01.mp3 -> L001.S01.mp3
+        # Get relative path from course directory
+        relative_path = str(mp3_file.relative_to(course_dir))
         
         parent_dir = mp3_file.parent.name
         filename = mp3_file.stem  # filename without .mp3
@@ -199,76 +206,144 @@ def build_media_lookup_table(course_dir: Path) -> Dict[str, Path]:
         lesson_match = re.match(r'L(\d{3})-Hebrew ASSIMIL', parent_dir)
         if lesson_match:
             lesson_num = lesson_match.group(1)  # 001
+            
             # Skip T00-TRANSLATE files
             if filename == 'T00-TRANSLATE':
                 continue
-            # Build anki filename: L001.S01.mp3
-            anki_filename = f"L{lesson_num}.{filename}.mp3"
-            lookup_table[anki_filename] = mp3_file
+                
+            # Handle different filename patterns:
+            # S00-TITLE.mp3 -> assimil-L003.S00.mp3
+            # S01.mp3 -> assimil-L003.S01.mp3
+            # N3.mp3 -> assimil-L003.N3.mp3
+            # T05.mp3 -> assimil-L003.T05.mp3
+            
+            base_filename = filename
+            if '-' in filename:
+                # Remove suffix like -TITLE, -TRANSLATE
+                base_filename = filename.split('-')[0]
+            
+            # Build prefixed anki filename: assimil-L003.S00.mp3
+            anki_filename = f"assimil-L{lesson_num}.{base_filename}.mp3"
+            mapping[anki_filename] = relative_path
     
-    console.print(f"[green]✓[/green] Built lookup table for {len(lookup_table)} media files")
-    return lookup_table
+    # Save mapping to file
+    mapping_file = get_media_mapping_file(course_dir)
+    mapping_file.parent.mkdir(exist_ok=True)
+    
+    with open(mapping_file, 'w', encoding='utf-8') as f:
+        json.dump(mapping, f, indent=2, ensure_ascii=False)
+    
+    console.print(f"[green]✓[/green] Created mapping file with {len(mapping)} entries: {mapping_file}")
+    return mapping
+
+def load_media_mapping(course_dir: Path) -> Dict[str, Path]:
+    """
+    Load media mapping from file, creating it if it doesn't exist
+    
+    Args:
+        course_dir: Base course directory path
+        
+    Returns:
+        Dictionary mapping anki filename to absolute file path
+    """
+    import json
+    
+    mapping_file = get_media_mapping_file(course_dir)
+    
+    # Create mapping file if it doesn't exist
+    if not mapping_file.exists():
+        console.print(f"[yellow]Media mapping file not found, creating: {mapping_file}[/yellow]")
+        relative_mapping = create_media_mapping_file(course_dir)
+    else:
+        # Load existing mapping
+        with open(mapping_file, 'r', encoding='utf-8') as f:
+            relative_mapping = json.load(f)
+        console.print(f"[green]✓[/green] Loaded media mapping with {len(relative_mapping)} entries")
+    
+    # Convert relative paths to absolute paths
+    absolute_mapping = {}
+    for anki_filename, relative_path in relative_mapping.items():
+        absolute_path = course_dir / relative_path
+        if absolute_path.exists():
+            absolute_mapping[anki_filename] = absolute_path
+        else:
+            console.print(f"[yellow]Warning:[/yellow] File not found: {relative_path}")
+    
+    return absolute_mapping
 
 
 def sync_media_files(translations: List[Dict], config: Dict) -> Dict[str, int]:
     """
     Upload media files directly from course directory to Anki using AnkiConnect
+    Uses batch existence check with set difference for optimal performance
     
     Args:
         translations: List of translation dictionaries with sound fields
         config: Configuration with course directory path
         
     Returns:
-        Dictionary with counts of uploaded and failed files
+        Dictionary with counts of uploaded, skipped, and failed files
     """
-    from .anki_api import store_media_file
+    from .anki_api import store_media_file, get_existing_assimil_media
     import re
     import os
     
     course_dir = Path(os.path.expanduser(config['paths']['assimil_course_dir']))
     uploaded_count = 0
+    skipped_count = 0
     failed_count = 0
     
     console.print(f"[bold blue]Syncing media files from {course_dir}...[/bold blue]")
     
-    # Build lookup table once
-    media_lookup = build_media_lookup_table(course_dir)
+    # Load media mapping (creates it if needed)
+    media_lookup = load_media_mapping(course_dir)
     
-    # Extract unique audio files from sound fields
-    audio_files = set()
+    # Extract unique audio files from sound fields (with assimil- prefix)
+    needed_files = set()
     for translation in translations:
         sound_field = translation.get('sound', '')
         if sound_field and '[sound:' in sound_field:
-            # Extract filename from [sound:filename.mp3] format
+            # Extract filename from [sound:assimil-filename.mp3] format
             match = re.search(r'\[sound:([^\]]+)\]', sound_field)
             if match:
-                filename = match.group(1)
-                audio_files.add(filename)
+                filename = match.group(1)  # Already has assimil- prefix
+                needed_files.add(filename)
     
-    console.print(f"Found {len(audio_files)} unique audio files to sync")
+    # Get existing assimil media files in one batch call
+    existing_files = get_existing_assimil_media()
     
-    for filename in sorted(audio_files):
-        # Look up the original file path
-        original_path = media_lookup.get(filename)
+    # Fast set difference to find missing files
+    missing_files = needed_files - existing_files
+    skipped_count = len(needed_files) - len(missing_files)
+    
+    console.print(f"Needed: {len(needed_files)}, Existing: {len(existing_files)}, Missing: {len(missing_files)}")
+    
+    if skipped_count > 0:
+        console.print(f"[green]✓[/green] {skipped_count} files already exist, skipping")
+    
+    # Upload only missing files
+    for prefixed_filename in sorted(missing_files):
+        # Look up the original file path using prefixed filename
+        original_path = media_lookup.get(prefixed_filename)
         
         if not original_path:
-            console.print(f"  ⚠ Missing: {filename}")
+            console.print(f"  ⚠ Missing: {prefixed_filename}")
             failed_count += 1
             continue
             
-        # Store in Anki using AnkiConnect with the standardized filename
-        result = store_media_file(filename, original_path, delete_existing=False)
+        # Store in Anki using AnkiConnect with the prefixed filename
+        result = store_media_file(prefixed_filename, original_path, delete_existing=False)
         
         if result:
             uploaded_count += 1
-            console.print(f"  ✓ {filename} <- {original_path.name}")
+            console.print(f"  ✓ {prefixed_filename} <- {original_path.name}")
         else:
             failed_count += 1
-            console.print(f"  ✗ Failed: {filename}")
+            console.print(f"  ✗ Failed: {prefixed_filename}")
     
-    console.print(f"\n[green]✓[/green] Media sync: {uploaded_count} uploaded, {failed_count} failed")
+    console.print(f"\n[green]✓[/green] Media sync: {uploaded_count} uploaded, {skipped_count} skipped, {failed_count} failed")
     
-    return {"uploaded": uploaded_count, "failed": failed_count}
+    return {"uploaded": uploaded_count, "skipped": skipped_count, "failed": failed_count}
 
 def sync_phrases_to_anki(config: Dict) -> bool:
     """
