@@ -1,187 +1,187 @@
 id,hebrew,english,sound,tags
-L001.N1,שִׁעוּר רִאשׁוֹן٭,First lesson,[sound:L001.N1.mp3],assimil assimil-01
-L001.S02,בּוֹקֶר אוֹר!٭,Good morning (morning-of light),[sound:L001.S02.mp3],assimil assimil-01
-L002.N2,שִׁעוּר שֵׁנִי٭,Second lesson,[sound:L002.N2.mp3],assimil assimil-02
-L003.N3,שִׁעוּר שׁלִישִׁי٭,Third lesson,[sound:L003.N3.mp3],assimil assimil-03
-L003.S00,"כָּכָה, כָּכָה٭",Not bad (same word twice),[sound:L003.S00.mp3],assimil assimil-03
-L003.S01,מַה שׁלוֹמךָ לִיאוֹר?٭,"How are you, Lior?",[sound:L003.S01.mp3],assimil assimil-03
-L003.S03,מַה שׁלוֹמֵך שִׁירלִי?٭,"How are you, Shirli?",[sound:L003.S03.mp3],assimil assimil-03
-L004.N4,שִׁעוּר רְבִיעִי٭,Fourth lesson,[sound:L004.N4.mp3],assimil assimil-04
-L004.S01,מַה אַתָה שׁוֹתֶה?٭,What are you(m) drinking?,[sound:L004.S01.mp3],assimil assimil-04
-L004.S02,"תֵה, תוֹדָה.٭","Tea, thanks",[sound:L004.S02.mp3],assimil assimil-04
-L004.S03,מַה אַת שׁוֹתָה?٭,What are you(f) drinking?,[sound:L004.S03.mp3],assimil assimil-04
-L004.S04,"בִּירָה, תוֹדָה.٭","Beer, thanks",[sound:L004.S04.mp3],assimil assimil-04
-L005.N5,שִׁעוּר חֲמִישִׁי٭,Fifth lesson,[sound:L005.N5.mp3],assimil assimil-05
-L005.S02,מַה אַתָה לוֹמֵד?٭,What are you learning?,[sound:L005.S02.mp3],assimil assimil-05
-L005.S03,אֲנִי לוֹמֵד עִברִית.٭,I am learning Hebrew.,[sound:L005.S03.mp3],assimil assimil-05
-L005.S04,"לֵאָה, מַה אַת לוֹמֶדֶת?٭","Leah, what are you learning?",[sound:L005.S04.mp3],assimil assimil-05
-L005.S05,אֲנִי לוֹמֶדֶת לָטִינִית.٭,I(f) am learning Latin.,[sound:L005.S05.mp3],assimil assimil-05
-L005.T05,מה שירלי לומדת?٭,What is Shirli learning?,[sound:L005.T05.mp3],assimil assimil-05
-L006.N6,שִׁעוּר שִׁישִׁי٭,Sixth lesson,[sound:L006.N6.mp3],assimil assimil-06
-L006.S00,בְּסֵדֶר٭,Okay,[sound:L006.S00.mp3],assimil assimil-06
-L006.S01,"מַה נִשׁמַע, יָעֵל?٭","What's up (is-heard) Yael?",[sound:L006.S01.mp3],assimil assimil-06
-L006.S03,מַה חָדָשׁ דָנִיאֵל?٭,"What's new, Daniel?" ,[sound:L006.S03.mp3],assimil assimil-06
-L006.S04,אֵין חָדָשׁ.٭,"Nothing's new",[sound:L006.S04.mp3],assimil assimil-06
-L006.S05,"חֲבָל, לְהִתרָאוֹת!٭","Pity, see you! (to-see-each-other)",[sound:L006.S05.mp3],assimil assimil-06
-L007.N7,שִׁעוּר שׁבִיעִי٭,Seventh lesson,[sound:L007.N7.mp3],assimil assimil-07
-L007.S00,חֲזָרָה٭,Review,[sound:L007.S00.mp3],assimil assimil-07
-L007.S05,אֲנִי לוֹמֵד עִברִית בְּאַסִימִיל.٭,"I am learning Hebrew with Assimil (by-Assumil)",[sound:L007.S05.mp3],assimil assimil-07
-L008.N8,שִׁעוּר שׁמִינִי٭,Eigth lesson,[sound:L008.N8.mp3],assimil assimil-08
-L008.S00,דִבּוּרִים٭,Speaking,[sound:L008.S00.mp3],assimil assimil-08
-L008.S01,אַתָה מְדַבֵּר עִברִית?٭,Do you(m) speak hebrew?,[sound:L008.S01.mp3],assimil assimil-08
-L008.S02,"לֹא רַק עִברִית. אֲנִי מִפּוֹלָניָה, אֲנִי מְדַבֵּר פּוֹלָנִית.٭","Not only Hebrew. I'm from Poland; I speak Polish.",[sound:L008.S02.mp3],assimil assimil-08
-L008.S04,"הוּא מֵרוּסיָה, הוּא מְדַבֵּר רוּסִית, אִידִישׁ וְעִברִית שֶׁל אוּלפָּן.٭","He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",[sound:L008.S04.mp3],assimil assimil-08
-L008.S06,רִנָה? הִיא מְדַבֶּרֶת עִברִית שֶׁל שַׁבָּת!٭,Rinah? She speaks Shabbat Hebrew!,[sound:L008.S06.mp3],assimil assimil-08
-L008.T01,אנטול מדבר עברית של אולפּן.٭,Anatol speaks Ulpan Hebrew.,[sound:L008.T01.mp3],assimil assimil-08
-L008.T02,רנה מדברת עברית של שבת.٭,Rina speaks Shabbat Hebrew.,[sound:L008.T02.mp3],assimil assimil-08
-L008.T03,"הוא מרוסיה, הוא מדבר רוסית.٭",He is from Russia; he speaks Russian,[sound:L008.T03.mp3],assimil assimil-08
-L008.T04,"היא מפּולניה, היא מדברת פּולנית.٭","She is from Poland; she speaks Polish.",[sound:L008.T04.mp3],assimil assimil-08
-L008.T05,אני מדברת אידיש ועברית.٭,I speak Yiddish and Hebrew.,[sound:L008.T05.mp3],assimil assimil-08
-L009.N9,שִׁעוּר תשִׁיעִי٭,Ninth lesson,[sound:L009.N9.mp3],assimil assimil-09
-L009.S00,מַחשֵׁבִים٭,Computers,[sound:L009.S00.mp3],assimil assimil-09
-L009.S03,מַה אַתֶם רוֹצִים?٭,What do you (m pl) want?,[sound:L009.S03.mp3],assimil assimil-09
-L009.S04,אֲנַחנוּ רוֹצִים מַחשֵׁב לַבֵּן.٭,We want a computer for our son.,[sound:L009.S04.mp3],assimil assimil-09
-L009.S05,הוּא רוֹצֶה מַחשֵׁב וְאִנטֶרנֶט.٭,He wants a computer with internet.,[sound:L009.S05.mp3],assimil assimil-09
-L009.S06,וְהַבַּת?٭,And your (the) daughter?,[sound:L009.S06.mp3],assimil assimil-09
-L009.S07,הִיא רוֹצָה מַחשֵׁב נִשָׂא.٭,She wants a laptop.,[sound:L009.S07.mp3],assimil assimil-09
-L009.T01,הבן והבת רוצים מחשב.٭,The son and the daughter want a computer.,[sound:L009.T01.mp3],assimil assimil-09
-L009.T02,הוא רוצה מחשב נשא.٭,He wants a laptop.,[sound:L009.T02.mp3],assimil assimil-09
-L009.T03,היא רוצה אנטרנט.٭,She wants internet.,[sound:L009.T03.mp3],assimil assimil-09
-L009.T04,מה אתם רוצים?٭,What do you (m pl) want?,[sound:L009.T04.mp3],assimil assimil-09
-L009.T05,אנחנו רוצים מחשבים.٭,We want computers.,[sound:L009.T05.mp3],assimil assimil-09
-L010.N10,שִׁעוּר עֲשִׂירִי٭,Tenth lesson,[sound:L010.N10.mp3],assimil assimil-10
-L010.S00,בְּבֵית קָפֶה٭,At a cafe,[sound:L010.S00.mp3],assimil assimil-10
-L010.S01,עֶרֶב טוֹב. מַה אַתֶן רוֹצוֹת?٭,Good evening.  What would you (f pl) like (want)?,[sound:L010.S01.mp3],assimil assimil-10
-L010.S02,קָפֶה וְעוּגָה בְּבַקָשָׁה.٭,"Coffee and cake, please.",[sound:L010.S02.mp3],assimil assimil-10
-L010.S03,יֵשׁ עוּגַת גבִינָה?٭,Is there cheese cake?,[sound:L010.S03.mp3],assimil assimil-10
-L010.S04,"אֵין עוּגַת גבִינָה, אֲבָל יֵשׁ עוּגַת פֶּרֶג טוֹבָה.٭","There isn't any cheesecake, but there's a good poppyseed cake.",[sound:L010.S04.mp3],assimil assimil-10
-L010.S05,אוֹ עוּגַת שׁוֹקוֹלָד.٭,Or chocolate cake,[sound:L010.S05.mp3],assimil assimil-10
-L010.T01,יש עוגת גבינה טובה.٭,There is a good cheesecake.,[sound:L010.T01.mp3],assimil assimil-10
-L010.T02,אין עוגת פרג.٭,There isn't any poppy cake.,[sound:L010.T02.mp3],assimil assimil-10
-L010.T03,קפה ועוגת שוקולד בבקשה.٭,Coffee and chocolate cake please,[sound:L010.T03.mp3],assimil assimil-10
-L010.T04,מה אתן רוצות?٭,What do you (f pl) want?,[sound:L010.T04.mp3],assimil assimil-10
-L010.T05,אנחנו בבית קפה.٭,We are at a cafe.,[sound:L010.T05.mp3],assimil assimil-10
-L011.N11,שִׁעוּר אַחַת עֶשׂרֵה٭,Eleventh lesson,[sound:L011.N11.mp3],assimil assimil-11
-L011.S00,בַּקָפֶטֶריָה٭,At the cafeteria,[sound:L011.S00.mp3],assimil assimil-11
-L011.S01,שָׁלוֹם. מַה אַתֶם שׁוֹתִים?٭,Hello. What are you drinking?,[sound:L011.S01.mp3],assimil assimil-11
-L011.S02,מַה יֵשׁ?٭,What is there?,[sound:L011.S02.mp3],assimil assimil-11
-L011.S03,"יֵשׁ קָפֶה פִילטֶר, קָפֶה בּוֹץ, קָפֶה טוּרקִי, קָפֶה הָפוּך, וְנֵס קָפֶה.٭","There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",[sound:L011.S03.mp3],assimil assimil-11
-L011.S04,סוּכָּר אוֹ סוּכּרָזִית?٭,With sugar or sweetener?,[sound:L011.S04.mp3],assimil assimil-11
-L011.S05,וְאַתֶן?٭,And you (f pl)?,[sound:L011.S05.mp3],assimil assimil-11
-L011.S06,אֲנַחנוּ שׁוֹתוֹת מִיץ תַפּוּזִים.٭,"We're drinking orange juice.",[sound:L011.S06.mp3],assimil assimil-11
-L011.T01,אתם שותים קפה בוץ.٭,You (m pl) are drinking mud coffee?,[sound:L011.T01.mp3],assimil assimil-11
-L011.T02,מה יש בקפטריה?٭,What is there in the cafeteria?,[sound:L011.T02.mp3],assimil assimil-11
-L011.T03,אנחנו שותים מיץ תפוזים.٭,We are drinking orange juice.,[sound:L011.T03.mp3],assimil assimil-11
-L011.T04,אתן שותות נס קפה.٭,You (f pl) are drinking instant coffee.,[sound:L011.T04.mp3],assimil assimil-11
-L011.T05,יש קפה הפוך?٭,Is there milky coffee?,[sound:L011.T05.mp3],assimil assimil-11
-L012.N12,שִׁעוּר שׁתֵים עֶשׂרֵה٭,Twelfth lesson,[sound:L012.N12.mp3],assimil assimil-12
-L012.S00,קנִיוֹת٭,Shopping,[sound:L012.S00.mp3],assimil assimil-12
-L012.S01,אוּף! אֲנִי עָיֵף.٭,Oof! I am tired.,[sound:L012.S01.mp3],assimil assimil-12
-L012.S02,לָמָה?٭,Why?,[sound:L012.S02.mp3],assimil assimil-12
-L012.S03,הַקַניוֹן מְעַיֵף.٭,The mall is tiring.,[sound:L012.S03.mp3],assimil assimil-12
-L012.S04,מַה אַתָה קוֹנֶה?٭,What are you (m s) buying?,[sound:L012.S04.mp3],assimil assimil-12
-L012.S05,"אֲנִי לֹא קוֹנֶה, אֲבָל אִשׁתִי קוֹנָה וְהִיא לֹא עֲיֵפָה!٭","I'm not buying, but my wife is buying, and she isn't tired!",[sound:L012.S05.mp3],assimil assimil-12
-L012.T01,אני עיף.٭,I am tired.,[sound:L012.T01.mp3],assimil assimil-12
-L012.T02,היא לֹא עיפה.٭,She is not tired.,[sound:L012.T02.mp3],assimil assimil-12
-L012.T03,"הוא קונה, אבל היא לֹא קונה.٭","He buys, but she does not buy.",[sound:L012.T03.mp3],assimil assimil-12
-L012.T04,למה הקניון מעיף?٭,Why is the mall tiring?,[sound:L012.T04.mp3],assimil assimil-12
-L012.T05,מה את קונה?٭,What are you (f s) buying?,[sound:L012.T05.mp3],assimil assimil-12
-L013.N13,שִׁעוּר שׁלוֹשׁ עֶשׂרֵה٭,Thirteenth lesson,[sound:L013.N13.mp3],assimil assimil-13
-L013.S00,"פִּטפּוּט, פִּטפּוּטִים٭",Chit-chat (two ways to say),[sound:L013.S00.mp3],assimil assimil-13
-L013.S01,אֵיפֹה דָן וְיוֹסֵף?٭,Where are Dan and Joseph?,[sound:L013.S01.mp3],assimil assimil-13
-L013.S02,הֵם מְדַבּרִים בְּטֶלֶפוֹן אַלחוּטִי.٭,They (m) are talking on a cordless (wireless) phone.,[sound:L013.S02.mp3],assimil assimil-13
-L013.S03,אֵיפֹה לֵאָה וְשָׂרָה?٭,Where are Leah and Sarah?,[sound:L013.S03.mp3],assimil assimil-13
-L013.S04,הֵן מְדַבּרוֹת בְּטֶלֶפוֹן נַיָד.٭,They (f pl) are speaking on a mobile phone.,[sound:L013.S04.mp3],assimil assimil-13
-L013.S05,גַם אֲנִי רוֹצָה טֶלֶפוֹן!٭,"I want a telephone, too!",[sound:L013.S05.mp3],assimil assimil-13
-L013.S06,אֵין בְּעָיָה. יֵשׁ דִבּוּרִית בַּמְכוֹנִית.٭,No problem.  There is a hands-free set in the car.,[sound:L013.S06.mp3],assimil assimil-13
-L013.T01,הם מדברים בטלפון אלחוטי.٭,They are talking on a cordless telephone.,[sound:L013.T01.mp3],assimil assimil-13
-L013.T02,אני רוצה דבורית במכונית.٭,I want a hands-free set [phone?] in the car.,[sound:L013.T02.mp3],assimil assimil-13
-L013.T03,אין בעיה.٭,No problem.,[sound:L013.T03.mp3],assimil assimil-13
-L013.T04,הן מדברות בטלפון ניד.٭,They [f pl] are talking on a mobile telephone.,[sound:L013.T04.mp3],assimil assimil-13
-L013.T05,איפה יש טלפון?٭,Where is there a telephone?,[sound:L013.T05.mp3],assimil assimil-13
-L014.N14,שִׁעוּר אַרבָּע עֶשׂרֵה٭,Forteenth lesson,[sound:L014.N14.mp3],assimil assimil-14
-L014.S03,גַם אַתָה בַּקַניוֹן?٭,Are you (m s) also in the mall?,[sound:L014.S03.mp3],assimil assimil-14
-L014.S04,אֲנִי קוֹנֶה מַחשֵׁב לַבֵּן וְלַבַּת.٭,I am buying a computer for my son and daughter.,[sound:L014.S04.mp3],assimil assimil-14
-L014.S05,אֲנִי קוֹנָה טֶלֶפוֹן נַיָד.٭,I am buying (f) a mobile phone.,[sound:L014.S05.mp3],assimil assimil-14
-L014.S06,"בּוֹרִיס, אַתָה מְדַבֵּר עִברִית?٭","Boris, do you speak Hebrew?",[sound:L014.S06.mp3],assimil assimil-14
-L014.S07,עִברִית שֶׁל אוּלפָּן.٭,Ulpan Hebrew,[sound:L014.S07.mp3],assimil assimil-14
-L014.S08,"אֲבָל אַת, רִנָה, מְדַבֶּרֶת עִברִית שֶׁל שַׁבָּת.٭","But you, Rinah, speak Shabbat Hebrew.",[sound:L014.S08.mp3],assimil assimil-14
-L014.S09,אֲנִי עֲיֵפָה. אַתָה רוֹצֶה קָפֶה וְעוּגָה?٭,I (f) am tired. Do you (m s) want coffee and cake?,[sound:L014.S09.mp3],assimil assimil-14
-L014.S10,אֵין בְּעָיָה. יֵשׁ בֵּית קָפֶה בַּקַניוֹן.٭,No problem. There is a cafe in the mall.,[sound:L014.S10.mp3],assimil assimil-14
-L015.N15,שִׁעוּר חֲמֵשׁ עֶשׂרֵה٭,Fifteenth lesson,[sound:L015.N15.mp3],assimil assimil-15
-L015.S00,בַּיָם٭,At the sea,[sound:L015.S00.mp3],assimil assimil-15
-L015.S01,מֵאַיִן אַתָה בָּא?٭,Where are you coming from?,[sound:L015.S01.mp3],assimil assimil-15
-L015.S02,אֲנִי בָּא מִחוֹף הַיָם.٭,I (m) am coming from the beach.,[sound:L015.S02.mp3],assimil assimil-15
-L015.S03,בַּבּוֹקֶר אֲנִי שׂוֹחֶה בַּיָם.٭,In the morning I swim in the sea.,[sound:L015.S03.mp3],assimil assimil-15
-L015.S04,יֵשׁ ”חֲתִיכוֹת“ בְּחוֹף הַיָם?٭,Are there hot chicks at the beach?,[sound:L015.S04.mp3],assimil assimil-15
-L015.S05,"לֹא, בַּבּוֹקֶר אֵין שָׁם ”חֲתִיכוֹת“.٭","No, in the morning there aren't any hot chicks there.",[sound:L015.S05.mp3],assimil assimil-15
-L015.S06,לֹא? אָז לָמָה אַתָה בַּיָם בַּבּוֹקֶר?٭,"No? So why do you go to the sea in the morning?",[sound:L015.S06.mp3],assimil assimil-15
-L015.T01,מאין אתה בא בבוקר?٭,Where are you coming from this (in the) morning?,[sound:L015.T01.mp3],assimil assimil-15
-L015.T02,אין ”חתיכות“ בחוף.٭,"There aren't any hot chicks on the beacb.",[sound:L015.T02.mp3],assimil assimil-15
-L015.T03,אני שוחה בים.٭,I swim in the sea.,[sound:L015.T03.mp3],assimil assimil-15
-L015.T04,אני לֹא בחוף הים.٭,I am not at the beach.,[sound:L015.T04.mp3],assimil assimil-15
-L015.T05,אני בא מהים.٭,"I'm coming from the sea.",[sound:L015.T05.mp3],assimil assimil-15
-L016.N16,שִׁעוּר שֵׁשׁ עֶשׂרֵה٭,Sixteenth lesson,[sound:L016.N16.mp3],assimil assimil-16
-L016.S00,בַּר מִצוָה٭,Bar Mitzvah,[sound:L016.S00.mp3],assimil assimil-16
-L016.S01,מַה חָדָשׁ?٭,"What's new?",[sound:L016.S01.mp3],assimil assimil-16
-L016.S02,בְּקָרוֹב בַּר מִצוָה לִנְתַנאֵל בּנִי. אֲנִי בְּדִיאֶטָה.٭,"It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.",[sound:L016.S02.mp3],assimil assimil-16
-L016.S03,מַזָל טוֹב!٭,Congratulations!,[sound:L016.S03.mp3],assimil assimil-16
-L016.S04,אֲבָל אֲנִי לֹא מְבִינָה. לָמָה דִיאֶטָה לְבַר מִצוָה?٭,"But I don't understand.  Why go on a diet for a Bar Mitzvah?",[sound:L016.S04.mp3],assimil assimil-16
-L016.S05,לָמָה אַת לֹא מְבִינָה?٭,"What don't you understand?",[sound:L016.S05.mp3],assimil assimil-16
-L016.S06,אֲנִי בְּדִיאֶטָה כִּי אֲנִי רוֹצָה לִקנוֹת שִׂמלָה יָפָה לַבַּר מִצוָה שֶׁל נְתַנאֵל!٭,"I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!",[sound:L016.S06.mp3],assimil assimil-16
-L016.T01,יש בר מצוה לנתנאל.٭,Nethanel has a Bar Mitzvah.,[sound:L016.T01.mp3],assimil assimil-16
-L016.T02,אני רוצה לקנות שמלה יפה לאשתי.٭,I want to buy a pretty dress.,[sound:L016.T02.mp3],assimil assimil-16
-L016.T03,אני בדיאטה.٭,I am on a diet.,[sound:L016.T03.mp3],assimil assimil-16
-L016.T04,מה? את לא מבינה?٭,What? Don't you understand?,[sound:L016.T04.mp3],assimil assimil-16
-L016.T05,מזל טוב!٭,Congratulations!,[sound:L016.T05.mp3],assimil assimil-16
-L017.N17,שִׁעוּר שׁבַע עֶשׂרֵה٭,Seventeenth lesson,[sound:L017.N17.mp3],assimil assimil-17
-L017.S00,הַבַּלַגָנִיסט٭,The messy guy,[sound:L017.S00.mp3],assimil assimil-17
-L017.S01,מַה הַבַּלַגָן הַזֶה פֹּה?٭,What's this mess?,[sound:L017.S01.mp3],assimil assimil-17
-L017.S02,"זֶה לֹא בַּלַגָן, אֲנִי מְסַדֵר אֶת הַחֶדֶר.٭",This isn't a mess.  I'm tidying my room!,[sound:L017.S02.mp3],assimil assimil-17
-L017.S03,הַמִטָה הַזֹאת שָׁם…٭,That bed there...,[sound:L017.S03.mp3],assimil assimil-17
-L017.S04,הַשׁוּלחָן הַזֶה וְהַכִּסאוֹת הָאֵלֶה פֹּה.٭,This table here and these chairs there...,[sound:L017.S04.mp3],assimil assimil-17
-L017.S05,זֶה סֵדֶר זֶה?٭,Is this order?,[sound:L017.S05.mp3],assimil assimil-17
-L017.T01,הבלגניסט מסדר את החדר.٭,The messy guy clears up the room.,[sound:L017.T01.mp3],assimil assimil-17
-L017.T02,המטה הזאת פה.٭,This bed goes here.,[sound:L017.T02.mp3],assimil assimil-17
-L017.T03,הכסאות האלה שם.٭,These chairs go there.,[sound:L017.T03.mp3],assimil assimil-17
-L017.T04,מה הבלגן הזה?٭,What is this mess?,[sound:L017.T04.mp3],assimil assimil-17
-L017.T05,זה סדר זה?٭,You call this order?,[sound:L017.T05.mp3],assimil assimil-17
-L018.N18,שִׁעוּר שׁמוֹנֶה עֶשׂרֵה٭,Eighteenth lesson,[sound:L018.N18.mp3],assimil assimil-18
-L018.S00,חֲתוּנַת פִיגָרוֹ٭,The Marriage of Figaro,[sound:L018.S00.mp3],assimil assimil-18
-L018.S01,אַתָה לָבוּשׁ כּמוֹ חָתָן.٭,You're dressed up like a groom!,[sound:L018.S01.mp3],assimil assimil-18
-L018.S02,לְאָן אַתָה הוֹלֵך?٭,Where are you going?,[sound:L018.S02.mp3],assimil assimil-18
-L018.S03,לְחֲתוּנַת פִיגָרוֹ בָּאוֹפֶּרָה.٭,To 'The Marriage of Figaro' at the opera.,[sound:L018.S03.mp3],assimil assimil-18
-L018.S04,עִם מִי?٭,With whom?,[sound:L018.S04.mp3],assimil assimil-18
-L018.S05,עִם אֲבִיבָה.٭,with Aviva,[sound:L018.S05.mp3],assimil assimil-18
-L018.S06,מִי זֹאת אֲבִיבָה?٭,Who is Aviva?,[sound:L018.S06.mp3],assimil assimil-18
-L018.S07,הִיא הַסוֹפּרָנוֹ בָּאוֹפֶּרָה. אֲנִי הַבַּעַל שֶׁל אֲבִיבָה.٭,She is the soprano in the opera. I am Avivah's husband.,[sound:L018.S07.mp3],assimil assimil-18
-L018.T01,למה אתה לבוש כמו באופרה?٭,Why are you dressed up like at the opera?,[sound:L018.T01.mp3],assimil assimil-18
-L018.T02,זה החתן של יעל?٭,Is this Yael's fiance (groom)?,[sound:L018.T02.mp3],assimil assimil-18
-L018.T03,מה נשמע? לאן אתה הולך?٭,How are you? Where are you going?,[sound:L018.T03.mp3],assimil assimil-18
-L018.T04,עם מי הוא הולך לבית קפה?٭,With whom are you going to the café?,[sound:L018.T04.mp3],assimil assimil-18
-L018.T05,"שלום, אני הבעל של אורית.٭","Hello, I'm Orit's husband.",[sound:L018.T05.mp3],assimil assimil-18
-L019.N19,שִׁעוּר תשַׁע עֶשׂרֵה٭,Nineteenth lesson,[sound:L019.N19.mp3],assimil assimil-19
-L019.S00,מִשׁפָּחָה ספּוֹרטִיבִית٭,A sporty family,[sound:L019.S00.mp3],assimil assimil-19
-L019.S01,"בַּבֹּקֶר, אַבָּא מְשַׂחֵק כַּדוּרֶגֶל.٭",In the morning Dad plays football.,[sound:L019.S01.mp3],assimil assimil-19
-L019.S02,אִמָא מְשַׂחֶקֶת טֶנִיס בְּחוֹף הַיָם.٭,Mom plays tennis on the beach.,[sound:L019.S02.mp3],assimil assimil-19
-L019.S03,אָחִי הַגָדוֹל וְאָחִי הַקָטָן מְשַׂחֲקִים כַּדוּריָד.٭,My big brother and my little brother play handball.,[sound:L019.S03.mp3],assimil assimil-19
-L019.S04,אֲחוֹתִי הַגדוֹלָה וְאֲחוֹתִי הַקטָנָה מְשַׂחֲקוֹת כַּדוּרסַל.٭,My big sister and my little sister play basketball.,[sound:L019.S04.mp3],assimil assimil-19
-L019.S05,אֲנִי מְשַׂחֵק בְּמִשׂחָק וִידֵאוֹ בַּבַּיִת.٭,I play a video game at home.,[sound:L019.S05.mp3],assimil assimil-19
-L019.T01,אמא ואבא משחקים טניס.٭,Mom and dad play tennis.,[sound:L019.T01.mp3],assimil assimil-19
-L019.T02,אחותי הגדולה משחקת במשחק וידאו.٭,My big sister is playing a video game.,[sound:L019.T02.mp3],assimil assimil-19
-L019.T03,האח הקטן משחק כדורגל.٭,The little brother plays football/soccer.,[sound:L019.T03.mp3],assimil assimil-19
-L019.T04,האחות הקטנה ואמא משחקות כדוריד.٭,The little sister and Mom play handball.,[sound:L019.T04.mp3],assimil assimil-19
-L019.T05,האח הגדול משחק כדורסל.٭,The big brother plays basketball.,[sound:L019.T05.mp3],assimil assimil-19
-L020.N20,שִׁעוּר עֶשׂרִים٭,Twentieth lesson,[sound:L020.N20.mp3],assimil assimil-20
-L020.S00,סוֹף שָׁבוּעַ٭,Weekend,[sound:L020.S00.mp3],assimil assimil-20
-L020.S01,סוֹף סוֹף! סוֹף שָׁבוּעַ!٭,At last! The weekend!,[sound:L020.S01.mp3],assimil assimil-20
-L020.S02,בַּבּוֹקֶר אֲנַחנוּ שׂחִים בַּבּרֵכָה.٭,In the morning we swim in the pool.,[sound:L020.S02.mp3],assimil assimil-20
-L020.S03,"בָּעֶרֶב אֲנַחנוּ הוֹלכִים לְחֲבֵרִים,٭",In the evening we go to friends.,[sound:L020.S03.mp3],assimil assimil-20
-L020.S04,"מְדַבּרִים עַל פּוֹלִיטִיקָה,٭",We talk politics.,[sound:L020.S04.mp3],assimil assimil-20
-L020.S05,מְפַטפְּטִים וְאוֹכלִים ”עַל הָאֵשׁ“...٭,We chat and have a barbecue.,[sound:L020.S05.mp3],assimil assimil-20
-L020.S06,סוֹף שָׁבוּעַ בְּכֵּף!٭,A fun weekend!,[sound:L020.S06.mp3],assimil assimil-20
-L020.T01,בסוף שבוע אתם שוחים בים.٭,On the weekend you swim in the sea.,[sound:L020.T01.mp3],assimil assimil-20
-L020.T02,אנחנו הולכים לברכה עם חברים.٭,We go to the swimming pool with friends.,[sound:L020.T02.mp3],assimil assimil-20
-L020.T03,בערב אנחנו אוכלים על האש.٭,In the evening we have (eat) barbecue.,[sound:L020.T03.mp3],assimil assimil-20
-L020.T04,למה הם מדברים על פוליטיקה?٭,Why are they talking politics?,[sound:L020.T04.mp3],assimil assimil-20
-L020.T05,בבוקר אנחנו מפטפטים בטלפון.٭,In the morning we chat on the telefone,[sound:L020.T05.mp3],assimil assimil-20
+L001.N1,שִׁעוּר רִאשׁוֹן٭,First lesson,[sound:assimil-L001.N1.mp3],assimil assimil-01
+L001.S02,בּוֹקֶר אוֹר!٭,Good morning (morning-of light),[sound:assimil-L001.S02.mp3],assimil assimil-01
+L002.N2,שִׁעוּר שֵׁנִי٭,Second lesson,[sound:assimil-L002.N2.mp3],assimil assimil-02
+L003.N3,שִׁעוּר שׁלִישִׁי٭,Third lesson,[sound:assimil-L003.N3.mp3],assimil assimil-03
+L003.S00,"כָּכָה, כָּכָה٭",Not bad (same word twice),[sound:assimil-L003.S00.mp3],assimil assimil-03
+L003.S01,מַה שׁלוֹמךָ לִיאוֹר?٭,"How are you, Lior?",[sound:assimil-L003.S01.mp3],assimil assimil-03
+L003.S03,מַה שׁלוֹמֵך שִׁירלִי?٭,"How are you, Shirli?",[sound:assimil-L003.S03.mp3],assimil assimil-03
+L004.N4,שִׁעוּר רְבִיעִי٭,Fourth lesson,[sound:assimil-L004.N4.mp3],assimil assimil-04
+L004.S01,מַה אַתָה שׁוֹתֶה?٭,What are you(m) drinking?,[sound:assimil-L004.S01.mp3],assimil assimil-04
+L004.S02,"תֵה, תוֹדָה.٭","Tea, thanks",[sound:assimil-L004.S02.mp3],assimil assimil-04
+L004.S03,מַה אַת שׁוֹתָה?٭,What are you(f) drinking?,[sound:assimil-L004.S03.mp3],assimil assimil-04
+L004.S04,"בִּירָה, תוֹדָה.٭","Beer, thanks",[sound:assimil-L004.S04.mp3],assimil assimil-04
+L005.N5,שִׁעוּר חֲמִישִׁי٭,Fifth lesson,[sound:assimil-L005.N5.mp3],assimil assimil-05
+L005.S02,מַה אַתָה לוֹמֵד?٭,What are you learning?,[sound:assimil-L005.S02.mp3],assimil assimil-05
+L005.S03,אֲנִי לוֹמֵד עִברִית.٭,I am learning Hebrew.,[sound:assimil-L005.S03.mp3],assimil assimil-05
+L005.S04,"לֵאָה, מַה אַת לוֹמֶדֶת?٭","Leah, what are you learning?",[sound:assimil-L005.S04.mp3],assimil assimil-05
+L005.S05,אֲנִי לוֹמֶדֶת לָטִינִית.٭,I(f) am learning Latin.,[sound:assimil-L005.S05.mp3],assimil assimil-05
+L005.T05,מה שירלי לומדת?٭,What is Shirli learning?,[sound:assimil-L005.T05.mp3],assimil assimil-05
+L006.N6,שִׁעוּר שִׁישִׁי٭,Sixth lesson,[sound:assimil-L006.N6.mp3],assimil assimil-06
+L006.S00,בְּסֵדֶר٭,Okay,[sound:assimil-L006.S00.mp3],assimil assimil-06
+L006.S01,"מַה נִשׁמַע, יָעֵל?٭","What's up (is-heard) Yael?",[sound:assimil-L006.S01.mp3],assimil assimil-06
+L006.S03,מַה חָדָשׁ דָנִיאֵל?٭,"What's new, Daniel?" ,[sound:assimil-L006.S03.mp3],assimil assimil-06
+L006.S04,אֵין חָדָשׁ.٭,"Nothing's new",[sound:assimil-L006.S04.mp3],assimil assimil-06
+L006.S05,"חֲבָל, לְהִתרָאוֹת!٭","Pity, see you! (to-see-each-other)",[sound:assimil-L006.S05.mp3],assimil assimil-06
+L007.N7,שִׁעוּר שׁבִיעִי٭,Seventh lesson,[sound:assimil-L007.N7.mp3],assimil assimil-07
+L007.S00,חֲזָרָה٭,Review,[sound:assimil-L007.S00.mp3],assimil assimil-07
+L007.S05,אֲנִי לוֹמֵד עִברִית בְּאַסִימִיל.٭,"I am learning Hebrew with Assimil (by-Assumil)",[sound:assimil-L007.S05.mp3],assimil assimil-07
+L008.N8,שִׁעוּר שׁמִינִי٭,Eigth lesson,[sound:assimil-L008.N8.mp3],assimil assimil-08
+L008.S00,דִבּוּרִים٭,Speaking,[sound:assimil-L008.S00.mp3],assimil assimil-08
+L008.S01,אַתָה מְדַבֵּר עִברִית?٭,Do you(m) speak hebrew?,[sound:assimil-L008.S01.mp3],assimil assimil-08
+L008.S02,"לֹא רַק עִברִית. אֲנִי מִפּוֹלָניָה, אֲנִי מְדַבֵּר פּוֹלָנִית.٭","Not only Hebrew. I'm from Poland; I speak Polish.",[sound:assimil-L008.S02.mp3],assimil assimil-08
+L008.S04,"הוּא מֵרוּסיָה, הוּא מְדַבֵּר רוּסִית, אִידִישׁ וְעִברִית שֶׁל אוּלפָּן.٭","He is from Russia; he speaks Russian, Yiddish, and Ulpan Hebrew.",[sound:assimil-L008.S04.mp3],assimil assimil-08
+L008.S06,רִנָה? הִיא מְדַבֶּרֶת עִברִית שֶׁל שַׁבָּת!٭,Rinah? She speaks Shabbat Hebrew!,[sound:assimil-L008.S06.mp3],assimil assimil-08
+L008.T01,אנטול מדבר עברית של אולפּן.٭,Anatol speaks Ulpan Hebrew.,[sound:assimil-L008.T01.mp3],assimil assimil-08
+L008.T02,רנה מדברת עברית של שבת.٭,Rina speaks Shabbat Hebrew.,[sound:assimil-L008.T02.mp3],assimil assimil-08
+L008.T03,"הוא מרוסיה, הוא מדבר רוסית.٭",He is from Russia; he speaks Russian,[sound:assimil-L008.T03.mp3],assimil assimil-08
+L008.T04,"היא מפּולניה, היא מדברת פּולנית.٭","She is from Poland; she speaks Polish.",[sound:assimil-L008.T04.mp3],assimil assimil-08
+L008.T05,אני מדברת אידיש ועברית.٭,I speak Yiddish and Hebrew.,[sound:assimil-L008.T05.mp3],assimil assimil-08
+L009.N9,שִׁעוּר תשִׁיעִי٭,Ninth lesson,[sound:assimil-L009.N9.mp3],assimil assimil-09
+L009.S00,מַחשֵׁבִים٭,Computers,[sound:assimil-L009.S00.mp3],assimil assimil-09
+L009.S03,מַה אַתֶם רוֹצִים?٭,What do you (m pl) want?,[sound:assimil-L009.S03.mp3],assimil assimil-09
+L009.S04,אֲנַחנוּ רוֹצִים מַחשֵׁב לַבֵּן.٭,We want a computer for our son.,[sound:assimil-L009.S04.mp3],assimil assimil-09
+L009.S05,הוּא רוֹצֶה מַחשֵׁב וְאִנטֶרנֶט.٭,He wants a computer with internet.,[sound:assimil-L009.S05.mp3],assimil assimil-09
+L009.S06,וְהַבַּת?٭,And your (the) daughter?,[sound:assimil-L009.S06.mp3],assimil assimil-09
+L009.S07,הִיא רוֹצָה מַחשֵׁב נִשָׂא.٭,She wants a laptop.,[sound:assimil-L009.S07.mp3],assimil assimil-09
+L009.T01,הבן והבת רוצים מחשב.٭,The son and the daughter want a computer.,[sound:assimil-L009.T01.mp3],assimil assimil-09
+L009.T02,הוא רוצה מחשב נשא.٭,He wants a laptop.,[sound:assimil-L009.T02.mp3],assimil assimil-09
+L009.T03,היא רוצה אנטרנט.٭,She wants internet.,[sound:assimil-L009.T03.mp3],assimil assimil-09
+L009.T04,מה אתם רוצים?٭,What do you (m pl) want?,[sound:assimil-L009.T04.mp3],assimil assimil-09
+L009.T05,אנחנו רוצים מחשבים.٭,We want computers.,[sound:assimil-L009.T05.mp3],assimil assimil-09
+L010.N10,שִׁעוּר עֲשִׂירִי٭,Tenth lesson,[sound:assimil-L010.N10.mp3],assimil assimil-10
+L010.S00,בְּבֵית קָפֶה٭,At a cafe,[sound:assimil-L010.S00.mp3],assimil assimil-10
+L010.S01,עֶרֶב טוֹב. מַה אַתֶן רוֹצוֹת?٭,Good evening.  What would you (f pl) like (want)?,[sound:assimil-L010.S01.mp3],assimil assimil-10
+L010.S02,קָפֶה וְעוּגָה בְּבַקָשָׁה.٭,"Coffee and cake, please.",[sound:assimil-L010.S02.mp3],assimil assimil-10
+L010.S03,יֵשׁ עוּגַת גבִינָה?٭,Is there cheese cake?,[sound:assimil-L010.S03.mp3],assimil assimil-10
+L010.S04,"אֵין עוּגַת גבִינָה, אֲבָל יֵשׁ עוּגַת פֶּרֶג טוֹבָה.٭","There isn't any cheesecake, but there's a good poppyseed cake.",[sound:assimil-L010.S04.mp3],assimil assimil-10
+L010.S05,אוֹ עוּגַת שׁוֹקוֹלָד.٭,Or chocolate cake,[sound:assimil-L010.S05.mp3],assimil assimil-10
+L010.T01,יש עוגת גבינה טובה.٭,There is a good cheesecake.,[sound:assimil-L010.T01.mp3],assimil assimil-10
+L010.T02,אין עוגת פרג.٭,There isn't any poppy cake.,[sound:assimil-L010.T02.mp3],assimil assimil-10
+L010.T03,קפה ועוגת שוקולד בבקשה.٭,Coffee and chocolate cake please,[sound:assimil-L010.T03.mp3],assimil assimil-10
+L010.T04,מה אתן רוצות?٭,What do you (f pl) want?,[sound:assimil-L010.T04.mp3],assimil assimil-10
+L010.T05,אנחנו בבית קפה.٭,We are at a cafe.,[sound:assimil-L010.T05.mp3],assimil assimil-10
+L011.N11,שִׁעוּר אַחַת עֶשׂרֵה٭,Eleventh lesson,[sound:assimil-L011.N11.mp3],assimil assimil-11
+L011.S00,בַּקָפֶטֶריָה٭,At the cafeteria,[sound:assimil-L011.S00.mp3],assimil assimil-11
+L011.S01,שָׁלוֹם. מַה אַתֶם שׁוֹתִים?٭,Hello. What are you drinking?,[sound:assimil-L011.S01.mp3],assimil assimil-11
+L011.S02,מַה יֵשׁ?٭,What is there?,[sound:assimil-L011.S02.mp3],assimil assimil-11
+L011.S03,"יֵשׁ קָפֶה פִילטֶר, קָפֶה בּוֹץ, קָפֶה טוּרקִי, קָפֶה הָפוּך, וְנֵס קָפֶה.٭","There's filter coffee, unfiltered coffee, Turkish coffee, milky coffee, and instant coffee.",[sound:assimil-L011.S03.mp3],assimil assimil-11
+L011.S04,סוּכָּר אוֹ סוּכּרָזִית?٭,With sugar or sweetener?,[sound:assimil-L011.S04.mp3],assimil assimil-11
+L011.S05,וְאַתֶן?٭,And you (f pl)?,[sound:assimil-L011.S05.mp3],assimil assimil-11
+L011.S06,אֲנַחנוּ שׁוֹתוֹת מִיץ תַפּוּזִים.٭,"We're drinking orange juice.",[sound:assimil-L011.S06.mp3],assimil assimil-11
+L011.T01,אתם שותים קפה בוץ.٭,You (m pl) are drinking mud coffee?,[sound:assimil-L011.T01.mp3],assimil assimil-11
+L011.T02,מה יש בקפטריה?٭,What is there in the cafeteria?,[sound:assimil-L011.T02.mp3],assimil assimil-11
+L011.T03,אנחנו שותים מיץ תפוזים.٭,We are drinking orange juice.,[sound:assimil-L011.T03.mp3],assimil assimil-11
+L011.T04,אתן שותות נס קפה.٭,You (f pl) are drinking instant coffee.,[sound:assimil-L011.T04.mp3],assimil assimil-11
+L011.T05,יש קפה הפוך?٭,Is there milky coffee?,[sound:assimil-L011.T05.mp3],assimil assimil-11
+L012.N12,שִׁעוּר שׁתֵים עֶשׂרֵה٭,Twelfth lesson,[sound:assimil-L012.N12.mp3],assimil assimil-12
+L012.S00,קנִיוֹת٭,Shopping,[sound:assimil-L012.S00.mp3],assimil assimil-12
+L012.S01,אוּף! אֲנִי עָיֵף.٭,Oof! I am tired.,[sound:assimil-L012.S01.mp3],assimil assimil-12
+L012.S02,לָמָה?٭,Why?,[sound:assimil-L012.S02.mp3],assimil assimil-12
+L012.S03,הַקַניוֹן מְעַיֵף.٭,The mall is tiring.,[sound:assimil-L012.S03.mp3],assimil assimil-12
+L012.S04,מַה אַתָה קוֹנֶה?٭,What are you (m s) buying?,[sound:assimil-L012.S04.mp3],assimil assimil-12
+L012.S05,"אֲנִי לֹא קוֹנֶה, אֲבָל אִשׁתִי קוֹנָה וְהִיא לֹא עֲיֵפָה!٭","I'm not buying, but my wife is buying, and she isn't tired!",[sound:assimil-L012.S05.mp3],assimil assimil-12
+L012.T01,אני עיף.٭,I am tired.,[sound:assimil-L012.T01.mp3],assimil assimil-12
+L012.T02,היא לֹא עיפה.٭,She is not tired.,[sound:assimil-L012.T02.mp3],assimil assimil-12
+L012.T03,"הוא קונה, אבל היא לֹא קונה.٭","He buys, but she does not buy.",[sound:assimil-L012.T03.mp3],assimil assimil-12
+L012.T04,למה הקניון מעיף?٭,Why is the mall tiring?,[sound:assimil-L012.T04.mp3],assimil assimil-12
+L012.T05,מה את קונה?٭,What are you (f s) buying?,[sound:assimil-L012.T05.mp3],assimil assimil-12
+L013.N13,שִׁעוּר שׁלוֹשׁ עֶשׂרֵה٭,Thirteenth lesson,[sound:assimil-L013.N13.mp3],assimil assimil-13
+L013.S00,"פִּטפּוּט, פִּטפּוּטִים٭",Chit-chat (two ways to say),[sound:assimil-L013.S00.mp3],assimil assimil-13
+L013.S01,אֵיפֹה דָן וְיוֹסֵף?٭,Where are Dan and Joseph?,[sound:assimil-L013.S01.mp3],assimil assimil-13
+L013.S02,הֵם מְדַבּרִים בְּטֶלֶפוֹן אַלחוּטִי.٭,They (m) are talking on a cordless (wireless) phone.,[sound:assimil-L013.S02.mp3],assimil assimil-13
+L013.S03,אֵיפֹה לֵאָה וְשָׂרָה?٭,Where are Leah and Sarah?,[sound:assimil-L013.S03.mp3],assimil assimil-13
+L013.S04,הֵן מְדַבּרוֹת בְּטֶלֶפוֹן נַיָד.٭,They (f pl) are speaking on a mobile phone.,[sound:assimil-L013.S04.mp3],assimil assimil-13
+L013.S05,גַם אֲנִי רוֹצָה טֶלֶפוֹן!٭,"I want a telephone, too!",[sound:assimil-L013.S05.mp3],assimil assimil-13
+L013.S06,אֵין בְּעָיָה. יֵשׁ דִבּוּרִית בַּמְכוֹנִית.٭,No problem.  There is a hands-free set in the car.,[sound:assimil-L013.S06.mp3],assimil assimil-13
+L013.T01,הם מדברים בטלפון אלחוטי.٭,They are talking on a cordless telephone.,[sound:assimil-L013.T01.mp3],assimil assimil-13
+L013.T02,אני רוצה דבורית במכונית.٭,I want a hands-free set [phone?] in the car.,[sound:assimil-L013.T02.mp3],assimil assimil-13
+L013.T03,אין בעיה.٭,No problem.,[sound:assimil-L013.T03.mp3],assimil assimil-13
+L013.T04,הן מדברות בטלפון ניד.٭,They [f pl] are talking on a mobile telephone.,[sound:assimil-L013.T04.mp3],assimil assimil-13
+L013.T05,איפה יש טלפון?٭,Where is there a telephone?,[sound:assimil-L013.T05.mp3],assimil assimil-13
+L014.N14,שִׁעוּר אַרבָּע עֶשׂרֵה٭,Forteenth lesson,[sound:assimil-L014.N14.mp3],assimil assimil-14
+L014.S03,גַם אַתָה בַּקַניוֹן?٭,Are you (m s) also in the mall?,[sound:assimil-L014.S03.mp3],assimil assimil-14
+L014.S04,אֲנִי קוֹנֶה מַחשֵׁב לַבֵּן וְלַבַּת.٭,I am buying a computer for my son and daughter.,[sound:assimil-L014.S04.mp3],assimil assimil-14
+L014.S05,אֲנִי קוֹנָה טֶלֶפוֹן נַיָד.٭,I am buying (f) a mobile phone.,[sound:assimil-L014.S05.mp3],assimil assimil-14
+L014.S06,"בּוֹרִיס, אַתָה מְדַבֵּר עִברִית?٭","Boris, do you speak Hebrew?",[sound:assimil-L014.S06.mp3],assimil assimil-14
+L014.S07,עִברִית שֶׁל אוּלפָּן.٭,Ulpan Hebrew,[sound:assimil-L014.S07.mp3],assimil assimil-14
+L014.S08,"אֲבָל אַת, רִנָה, מְדַבֶּרֶת עִברִית שֶׁל שַׁבָּת.٭","But you, Rinah, speak Shabbat Hebrew.",[sound:assimil-L014.S08.mp3],assimil assimil-14
+L014.S09,אֲנִי עֲיֵפָה. אַתָה רוֹצֶה קָפֶה וְעוּגָה?٭,I (f) am tired. Do you (m s) want coffee and cake?,[sound:assimil-L014.S09.mp3],assimil assimil-14
+L014.S10,אֵין בְּעָיָה. יֵשׁ בֵּית קָפֶה בַּקַניוֹן.٭,No problem. There is a cafe in the mall.,[sound:assimil-L014.S10.mp3],assimil assimil-14
+L015.N15,שִׁעוּר חֲמֵשׁ עֶשׂרֵה٭,Fifteenth lesson,[sound:assimil-L015.N15.mp3],assimil assimil-15
+L015.S00,בַּיָם٭,At the sea,[sound:assimil-L015.S00.mp3],assimil assimil-15
+L015.S01,מֵאַיִן אַתָה בָּא?٭,Where are you coming from?,[sound:assimil-L015.S01.mp3],assimil assimil-15
+L015.S02,אֲנִי בָּא מִחוֹף הַיָם.٭,I (m) am coming from the beach.,[sound:assimil-L015.S02.mp3],assimil assimil-15
+L015.S03,בַּבּוֹקֶר אֲנִי שׂוֹחֶה בַּיָם.٭,In the morning I swim in the sea.,[sound:assimil-L015.S03.mp3],assimil assimil-15
+L015.S04,יֵשׁ ”חֲתִיכוֹת“ בְּחוֹף הַיָם?٭,Are there hot chicks at the beach?,[sound:assimil-L015.S04.mp3],assimil assimil-15
+L015.S05,"לֹא, בַּבּוֹקֶר אֵין שָׁם ”חֲתִיכוֹת“.٭","No, in the morning there aren't any hot chicks there.",[sound:assimil-L015.S05.mp3],assimil assimil-15
+L015.S06,לֹא? אָז לָמָה אַתָה בַּיָם בַּבּוֹקֶר?٭,"No? So why do you go to the sea in the morning?",[sound:assimil-L015.S06.mp3],assimil assimil-15
+L015.T01,מאין אתה בא בבוקר?٭,Where are you coming from this (in the) morning?,[sound:assimil-L015.T01.mp3],assimil assimil-15
+L015.T02,אין ”חתיכות“ בחוף.٭,"There aren't any hot chicks on the beacb.",[sound:assimil-L015.T02.mp3],assimil assimil-15
+L015.T03,אני שוחה בים.٭,I swim in the sea.,[sound:assimil-L015.T03.mp3],assimil assimil-15
+L015.T04,אני לֹא בחוף הים.٭,I am not at the beach.,[sound:assimil-L015.T04.mp3],assimil assimil-15
+L015.T05,אני בא מהים.٭,"I'm coming from the sea.",[sound:assimil-L015.T05.mp3],assimil assimil-15
+L016.N16,שִׁעוּר שֵׁשׁ עֶשׂרֵה٭,Sixteenth lesson,[sound:assimil-L016.N16.mp3],assimil assimil-16
+L016.S00,בַּר מִצוָה٭,Bar Mitzvah,[sound:assimil-L016.S00.mp3],assimil assimil-16
+L016.S01,מַה חָדָשׁ?٭,"What's new?",[sound:assimil-L016.S01.mp3],assimil assimil-16
+L016.S02,בְּקָרוֹב בַּר מִצוָה לִנְתַנאֵל בּנִי. אֲנִי בְּדִיאֶטָה.٭,"It's my son Nethanel's Bar Mitzvah soon. I'm on a diet.",[sound:assimil-L016.S02.mp3],assimil assimil-16
+L016.S03,מַזָל טוֹב!٭,Congratulations!,[sound:assimil-L016.S03.mp3],assimil assimil-16
+L016.S04,אֲבָל אֲנִי לֹא מְבִינָה. לָמָה דִיאֶטָה לְבַר מִצוָה?٭,"But I don't understand.  Why go on a diet for a Bar Mitzvah?",[sound:assimil-L016.S04.mp3],assimil assimil-16
+L016.S05,לָמָה אַת לֹא מְבִינָה?٭,"What don't you understand?",[sound:assimil-L016.S05.mp3],assimil assimil-16
+L016.S06,אֲנִי בְּדִיאֶטָה כִּי אֲנִי רוֹצָה לִקנוֹת שִׂמלָה יָפָה לַבַּר מִצוָה שֶׁל נְתַנאֵל!٭,"I'm on a diet because I want to buy a pretty dress for Nethanel's Bar Mitzvah!",[sound:assimil-L016.S06.mp3],assimil assimil-16
+L016.T01,יש בר מצוה לנתנאל.٭,Nethanel has a Bar Mitzvah.,[sound:assimil-L016.T01.mp3],assimil assimil-16
+L016.T02,אני רוצה לקנות שמלה יפה לאשתי.٭,I want to buy a pretty dress.,[sound:assimil-L016.T02.mp3],assimil assimil-16
+L016.T03,אני בדיאטה.٭,I am on a diet.,[sound:assimil-L016.T03.mp3],assimil assimil-16
+L016.T04,מה? את לא מבינה?٭,What? Don't you understand?,[sound:assimil-L016.T04.mp3],assimil assimil-16
+L016.T05,מזל טוב!٭,Congratulations!,[sound:assimil-L016.T05.mp3],assimil assimil-16
+L017.N17,שִׁעוּר שׁבַע עֶשׂרֵה٭,Seventeenth lesson,[sound:assimil-L017.N17.mp3],assimil assimil-17
+L017.S00,הַבַּלַגָנִיסט٭,The messy guy,[sound:assimil-L017.S00.mp3],assimil assimil-17
+L017.S01,מַה הַבַּלַגָן הַזֶה פֹּה?٭,What's this mess?,[sound:assimil-L017.S01.mp3],assimil assimil-17
+L017.S02,"זֶה לֹא בַּלַגָן, אֲנִי מְסַדֵר אֶת הַחֶדֶר.٭",This isn't a mess.  I'm tidying my room!,[sound:assimil-L017.S02.mp3],assimil assimil-17
+L017.S03,הַמִטָה הַזֹאת שָׁם…٭,That bed there...,[sound:assimil-L017.S03.mp3],assimil assimil-17
+L017.S04,הַשׁוּלחָן הַזֶה וְהַכִּסאוֹת הָאֵלֶה פֹּה.٭,This table here and these chairs there...,[sound:assimil-L017.S04.mp3],assimil assimil-17
+L017.S05,זֶה סֵדֶר זֶה?٭,Is this order?,[sound:assimil-L017.S05.mp3],assimil assimil-17
+L017.T01,הבלגניסט מסדר את החדר.٭,The messy guy clears up the room.,[sound:assimil-L017.T01.mp3],assimil assimil-17
+L017.T02,המטה הזאת פה.٭,This bed goes here.,[sound:assimil-L017.T02.mp3],assimil assimil-17
+L017.T03,הכסאות האלה שם.٭,These chairs go there.,[sound:assimil-L017.T03.mp3],assimil assimil-17
+L017.T04,מה הבלגן הזה?٭,What is this mess?,[sound:assimil-L017.T04.mp3],assimil assimil-17
+L017.T05,זה סדר זה?٭,You call this order?,[sound:assimil-L017.T05.mp3],assimil assimil-17
+L018.N18,שִׁעוּר שׁמוֹנֶה עֶשׂרֵה٭,Eighteenth lesson,[sound:assimil-L018.N18.mp3],assimil assimil-18
+L018.S00,חֲתוּנַת פִיגָרוֹ٭,The Marriage of Figaro,[sound:assimil-L018.S00.mp3],assimil assimil-18
+L018.S01,אַתָה לָבוּשׁ כּמוֹ חָתָן.٭,You're dressed up like a groom!,[sound:assimil-L018.S01.mp3],assimil assimil-18
+L018.S02,לְאָן אַתָה הוֹלֵך?٭,Where are you going?,[sound:assimil-L018.S02.mp3],assimil assimil-18
+L018.S03,לְחֲתוּנַת פִיגָרוֹ בָּאוֹפֶּרָה.٭,To 'The Marriage of Figaro' at the opera.,[sound:assimil-L018.S03.mp3],assimil assimil-18
+L018.S04,עִם מִי?٭,With whom?,[sound:assimil-L018.S04.mp3],assimil assimil-18
+L018.S05,עִם אֲבִיבָה.٭,with Aviva,[sound:assimil-L018.S05.mp3],assimil assimil-18
+L018.S06,מִי זֹאת אֲבִיבָה?٭,Who is Aviva?,[sound:assimil-L018.S06.mp3],assimil assimil-18
+L018.S07,הִיא הַסוֹפּרָנוֹ בָּאוֹפֶּרָה. אֲנִי הַבַּעַל שֶׁל אֲבִיבָה.٭,She is the soprano in the opera. I am Avivah's husband.,[sound:assimil-L018.S07.mp3],assimil assimil-18
+L018.T01,למה אתה לבוש כמו באופרה?٭,Why are you dressed up like at the opera?,[sound:assimil-L018.T01.mp3],assimil assimil-18
+L018.T02,זה החתן של יעל?٭,Is this Yael's fiance (groom)?,[sound:assimil-L018.T02.mp3],assimil assimil-18
+L018.T03,מה נשמע? לאן אתה הולך?٭,How are you? Where are you going?,[sound:assimil-L018.T03.mp3],assimil assimil-18
+L018.T04,עם מי הוא הולך לבית קפה?٭,With whom are you going to the café?,[sound:assimil-L018.T04.mp3],assimil assimil-18
+L018.T05,"שלום, אני הבעל של אורית.٭","Hello, I'm Orit's husband.",[sound:assimil-L018.T05.mp3],assimil assimil-18
+L019.N19,שִׁעוּר תשַׁע עֶשׂרֵה٭,Nineteenth lesson,[sound:assimil-L019.N19.mp3],assimil assimil-19
+L019.S00,מִשׁפָּחָה ספּוֹרטִיבִית٭,A sporty family,[sound:assimil-L019.S00.mp3],assimil assimil-19
+L019.S01,"בַּבֹּקֶר, אַבָּא מְשַׂחֵק כַּדוּרֶגֶל.٭",In the morning Dad plays football.,[sound:assimil-L019.S01.mp3],assimil assimil-19
+L019.S02,אִמָא מְשַׂחֶקֶת טֶנִיס בְּחוֹף הַיָם.٭,Mom plays tennis on the beach.,[sound:assimil-L019.S02.mp3],assimil assimil-19
+L019.S03,אָחִי הַגָדוֹל וְאָחִי הַקָטָן מְשַׂחֲקִים כַּדוּריָד.٭,My big brother and my little brother play handball.,[sound:assimil-L019.S03.mp3],assimil assimil-19
+L019.S04,אֲחוֹתִי הַגדוֹלָה וְאֲחוֹתִי הַקטָנָה מְשַׂחֲקוֹת כַּדוּרסַל.٭,My big sister and my little sister play basketball.,[sound:assimil-L019.S04.mp3],assimil assimil-19
+L019.S05,אֲנִי מְשַׂחֵק בְּמִשׂחָק וִידֵאוֹ בַּבַּיִת.٭,I play a video game at home.,[sound:assimil-L019.S05.mp3],assimil assimil-19
+L019.T01,אמא ואבא משחקים טניס.٭,Mom and dad play tennis.,[sound:assimil-L019.T01.mp3],assimil assimil-19
+L019.T02,אחותי הגדולה משחקת במשחק וידאו.٭,My big sister is playing a video game.,[sound:assimil-L019.T02.mp3],assimil assimil-19
+L019.T03,האח הקטן משחק כדורגל.٭,The little brother plays football/soccer.,[sound:assimil-L019.T03.mp3],assimil assimil-19
+L019.T04,האחות הקטנה ואמא משחקות כדוריד.٭,The little sister and Mom play handball.,[sound:assimil-L019.T04.mp3],assimil assimil-19
+L019.T05,האח הגדול משחק כדורסל.٭,The big brother plays basketball.,[sound:assimil-L019.T05.mp3],assimil assimil-19
+L020.N20,שִׁעוּר עֶשׂרִים٭,Twentieth lesson,[sound:assimil-L020.N20.mp3],assimil assimil-20
+L020.S00,סוֹף שָׁבוּעַ٭,Weekend,[sound:assimil-L020.S00.mp3],assimil assimil-20
+L020.S01,סוֹף סוֹף! סוֹף שָׁבוּעַ!٭,At last! The weekend!,[sound:assimil-L020.S01.mp3],assimil assimil-20
+L020.S02,בַּבּוֹקֶר אֲנַחנוּ שׂחִים בַּבּרֵכָה.٭,In the morning we swim in the pool.,[sound:assimil-L020.S02.mp3],assimil assimil-20
+L020.S03,"בָּעֶרֶב אֲנַחנוּ הוֹלכִים לְחֲבֵרִים,٭",In the evening we go to friends.,[sound:assimil-L020.S03.mp3],assimil assimil-20
+L020.S04,"מְדַבּרִים עַל פּוֹלִיטִיקָה,٭",We talk politics.,[sound:assimil-L020.S04.mp3],assimil assimil-20
+L020.S05,מְפַטפְּטִים וְאוֹכלִים ”עַל הָאֵשׁ“...٭,We chat and have a barbecue.,[sound:assimil-L020.S05.mp3],assimil assimil-20
+L020.S06,סוֹף שָׁבוּעַ בְּכֵּף!٭,A fun weekend!,[sound:assimil-L020.S06.mp3],assimil assimil-20
+L020.T01,בסוף שבוע אתם שוחים בים.٭,On the weekend you swim in the sea.,[sound:assimil-L020.T01.mp3],assimil assimil-20
+L020.T02,אנחנו הולכים לברכה עם חברים.٭,We go to the swimming pool with friends.,[sound:assimil-L020.T02.mp3],assimil assimil-20
+L020.T03,בערב אנחנו אוכלים על האש.٭,In the evening we have (eat) barbecue.,[sound:assimil-L020.T03.mp3],assimil assimil-20
+L020.T04,למה הם מדברים על פוליטיקה?٭,Why are they talking politics?,[sound:assimil-L020.T04.mp3],assimil assimil-20
+L020.T05,בבוקר אנחנו מפטפטים בטלפון.٭,In the morning we chat on the telefone,[sound:assimil-L020.T05.mp3],assimil assimil-20
